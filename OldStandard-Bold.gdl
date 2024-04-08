@@ -213,6 +213,10 @@ table (language)
 		languages = ( "ro", "ron", "mo", "mol" );
 		romanian = required
 	}
+	serbian {
+		languages = ( "sr", "srp", "mk", "mkd" );
+		serbian = required
+	}
 	turkish {
 		languages = ( "tr", "tur", "az", "aze", "crh" );
 		featuremods = turkish

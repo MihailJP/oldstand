@@ -214,7 +214,7 @@ table (language)
 		romanian = required
 	}
 	serbian {
-		languages = ( "sr", "srp" "mk", "mkd" );
+		languages = ( "sr", "srp", "mk", "mkd" );
 		serbian = required
 	}
 	turkish {
