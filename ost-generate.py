@@ -34,8 +34,8 @@ def process_font(name, fname, style):
     # there is no reason to store them directly in the file
     ttnames = list( font.sfnt_names )
     for ttname in ttnames:
-	if ttname[1] == 'SubFamily':
-	    ttnames.append( ( ttname[0],'Fullname',"%s %s" % ( fname,ttname[2] ) ) )
+        if ttname[1] == 'SubFamily':
+            ttnames.append( ( ttname[0],'Fullname',"%s %s" % ( fname,ttname[2] ) ) )
     font.sfnt_names = tuple( ttnames )
 
     font.gasp_version = 1
@@ -47,7 +47,7 @@ def process_font(name, fname, style):
     font.generate( filename + ".otf",flags=( "opentype","PfEd-colors","PfEd-lookups" ),layer="Fore" )
 
     woff_meta = base_name + "-WOFF-metadata.xml"
-    f = file( woff_meta,'r' )
+    f = open( woff_meta,'r' )
     lines = f.readlines()
     f.close()
     font.woffMetadata = "".join( lines )
@@ -56,7 +56,7 @@ def process_font(name, fname, style):
     # Append the 'TT' suffix to various font names, including localized entries
     for i in range( 0,len( ttnames )):
         ttname = ttnames[i]
-	if ttname[1] == 'Fullname':
+        if ttname[1] == 'Fullname':
             ttnames[i] = ( ttname[0],'Fullname',ttname[2].replace( fname,fname + " TT" ) )
     font.sfnt_names = tuple( ttnames )
     font.familyname = fname + " TT"
