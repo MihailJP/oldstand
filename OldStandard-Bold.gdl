@@ -89,9 +89,9 @@ table (feature)
 				value = 0;
 				name.0x0409 = string( "No Localized Forms" );
 			}
-			optional {
-				value = 2;
-				name.0x0409 = string( "More Localized Forms" );
+			required {
+				value = 1;
+				name.0x0409 = string( "Required Localized Forms" );
 			}
 		}
 	}
@@ -4052,7 +4052,7 @@ table (substitution)
 	    g_cyryat g_acutecomb > g_cyryat_acutecomb:( 1 2 ) _;
 	endif
 
-	if ( serbian == optional )
+	if ( serbian == required )
 		g_cyrb > g_cyrvarb;
 	endif
 

@@ -93,10 +93,6 @@ table (feature)
 				value = 1;
 				name.0x0409 = string( "Required Localized Forms" );
 			}
-			optional {
-				value = 2;
-				name.0x0409 = string( "More Localized Forms" );
-			}
 		}
 	}
 	oldslavonic {
@@ -214,7 +210,7 @@ table (language)
 		romanian = required
 	}
 	serbian {
-		languages = ( "sr", "srp" );
+		languages = ( "sr", "srp" "mk", "mkd" );
 		serbian = required
 	}
 	turkish {
@@ -3017,6 +3013,7 @@ table (glyph)
 		xEnclAdv = 648m;
 		directionality = 1; /* DIR_LEFT */
 	};
+	g_cyrvargje = postscript( "afii10100.locl" );
 	g_cyrvarp = postscript( "afii10831" ) {
 		directionality = 1; /* DIR_LEFT */
 	};
@@ -3617,8 +3614,8 @@ table (glyph)
 	clsCSL =      ( g_cyrA_csl g_cyra_csl g_cyryat_csl ) {
 		directionality = 1; /* DIR_LEFT */
 	};
-	clsRussian =  ( g_cyrd g_cyrp g_cyrt );
-	clsSerbian =  ( g_cyrvard g_cyrvarp g_cyrvart );
+	clsRussian =  ( g_cyrb g_cyrg g_cyrd g_cyrgje g_cyrp g_cyrt );
+	clsSerbian =  ( g_cyrvarb g_cyrvarg g_cyrvard g_cyrvargje g_cyrvarp g_cyrvart );
 
 	clsOldCyrAccents = (g_acutecomb g_gravecomb g_uni030F g_uni0311 g_uni033E g_uni0483 g_uni0484 g_uni0485 g_uni0486 g_uni2DE0 g_uni2DE1
 			    g_uni2DE2 g_uni2DE3 g_uni2DE4 g_uni2DE5 g_uni2DE6 g_uni2DE7 g_uni2DE8 g_uni2DE9 g_uni2DEA
@@ -3750,7 +3747,7 @@ table (glyph)
 	clsRKerncyrb = ( g_cyrb g_cyryo g_cyrf g_cyrvarb );
 	clsRKerncyrg = ( g_cyrg g_cyri g_cyrk g_cyrn g_cyrp g_cyrr g_cyrt g_cyru g_cyrc g_cyrch g_cyrsh g_cyrshch g_cyrhrdsn g_cyrery g_cyrsftsn g_cyryu g_cyrgje g_cyrnje g_cyrdzhe g_cyryat g_cyrgup );
 	clsRKerncyrzh = ( g_cyrzh g_cyrz g_cyrh g_cyrerev );
-	clsRKerncyrishrt = ( g_cyrishrt g_cyrii g_cyryi g_cyrushrt g_cyrvarg g_cyrvarp g_cyrvart );
+	clsRKerncyrishrt = ( g_cyrishrt g_cyrii g_cyryi g_cyrushrt g_cyrvarg g_cyrvargje g_cyrvarp g_cyrvart );
 	clsRKerncyrl = ( g_cyrl g_cyrm g_cyrya g_cyrlje );
 	clsRKerncyrIZH = ( g_cyrIZH g_uni0476 );
 	clsRKerncyrizh = ( g_cyrizh g_uni0477 );
@@ -3803,9 +3800,6 @@ table (substitution)
 
 	if ( serbian > 0 )
 		clsRussian > clsSerbian;
-		if ( serbian == optional )
-			g_cyrb > g_cyrvarb;
-		endif
 	endif
 
 	if ( greekcontextual > 0 )
