@@ -178807,7 +178807,6 @@ HStem: -12 24<221.675 290.124> 462 24<222.899 290.124> 480 84<172 289.547> 672 5
 VStem: 52 128<126.793 354.799> 332 128<126.793 347.207> 418 36<600.881 664.395>
 AnchorPoint: "Top" 222 752 basechar 0
 AnchorPoint: "Dotaccent" 222 772 basechar 0
-AnchorPoint: "Enclosing" 238 262 basechar 0
 AnchorPoint: "Bottom" 252 0 basechar 0
 LayerCount: 3
 Fore
@@ -178859,7 +178858,6 @@ VWidth: 959
 Flags: W
 HStem: -238 24<151.755 266.71> -12 32<212.759 271.856> 454 32<212.309 273.408> 454 20G<418.345 444>
 VStem: 26 84<-159.346 -53> 48 128<117.304 351.864> 328 116<-125.478 57 93.5485 380.783>
-AnchorPoint: "Enclosing" 258 262 basechar 0
 AnchorPoint: "Dotaccent" 224 528 basechar 0
 AnchorPoint: "Top" 224 508 basechar 0
 LayerCount: 3
@@ -179012,7 +179010,6 @@ Flags: W
 HStem: -238 24<151.755 268.805> 170 28<116 288.094> 462 24<187.152 288.131>
 VStem: 26 84<-159.346 -53> 62 24<295 336.393> 334 116<259.34 408.198> 348 128<-110.466 80.0174>
 AnchorPoint: "Dotaccent" 216 528 basechar 0
-AnchorPoint: "Enclosing" 216 262 basechar 0
 AnchorPoint: "Top" 216 508 basechar 0
 LayerCount: 3
 Fore
@@ -179096,7 +179093,6 @@ Width: 550
 Flags: W
 HStem: -12 32<217.455 274.63> 0 24<464.195 518> 450 24<24 87.8047 284 347.805>
 VStem: 88 116<47.2296 449.997> 348 116<24 89 104.857 450>
-AnchorPoint: "Enclosing" 269 228 basechar 0
 AnchorPoint: "Dotaccent" 282 528 basechar 0
 AnchorPoint: "Bottom" 282 0 basechar 0
 AnchorPoint: "Top" 282 508 basechar 0

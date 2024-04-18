@@ -3616,11 +3616,8 @@ table (glyph)
 	g_cyrF_bgr = postscript( "afii10038.bgr" );
 	g_cyrv_bgr = postscript( "afii10067.bgr" ) {
 		apDotaccent_base = point(222m, 772m);
-		apEnclosing_base = point(238m, 262m);
 		apBottom_base = point(252m, 0m);
 		apTop_base = point(222m, 752m);
-		xEnclShift = 368m;
-		xEnclAdv = 712m;
 	};
 	g_cyrg_bgr = postscript( "afii10068.bgr" ) {
 		apTop_base = point(244m, 508m);
@@ -3628,11 +3625,8 @@ table (glyph)
 		apDotaccent_base = point(244m, 528m);
 	};
 	g_cyrd_bgr = postscript( "afii10069.bgr" ) {
-		apEnclosing_base = point(258m, 262m);
 		apTop_base = point(224m, 508m);
 		apDotaccent_base = point(224m, 528m);
-		xEnclShift = 348m;
-		xEnclAdv = 694m;
 	};
 	g_cyrzh_bgr = postscript( "afii10072.bgr" ) {
 		apBottom_base = point(404m, 0m);
@@ -3642,17 +3636,11 @@ table (glyph)
 	g_cyrz_bgr = postscript( "afii10073.bgr" ) {
 		apDotaccent_base = point(216m, 528m);
 		apTop_base = point(216m, 508m);
-		apEnclosing_base = point(216m, 262m);
-		xEnclShift = 390m;
-		xEnclAdv = 778m;
 	};
 	g_cyri_bgr = postscript( "afii10074.bgr" ) {
 		apDotaccent_base = point(282m, 528m);
 		apBottom_base = point(282m, 0m);
 		apTop_base = point(282m, 508m);
-		apEnclosing_base = point(269m, 228m);
-		xEnclShift = 320m;
-		xEnclAdv = 640m;
 	};
 	g_uni045D_bgr = postscript( "uni045D.bgr" );
 	g_cyrishrt_bgr = postscript( "afii10075.bgr" );
