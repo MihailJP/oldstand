@@ -5,7 +5,7 @@ FamilyName: Old Standard
 Weight: Bold
 Copyright: Copyright (C) 2006-2011 Alexey Kryukov <amkryukov@gmail.com>,\nwithout Reserved Font Names.\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL
 UComments: "2005-12-23: Created.+AAoACgAA-ss01 -- Romanian letters with commaaccent;+AAoA-ss02 -- insular forms;+AAoA-ss06 -- script theta;+AAoA-ss11 -- required Serbian forms;+AAoA-ss12 -- optional Serbian forms;+AAoACgAA-max encl w+AD0A-1212+AAoACgAA-cyra w+AD0A-508 a+AD0A-232 as+AD0A--22 xd+AD0A-374 xa+AD0A-704+AAoA-cyraz w+AD0A-520 a+AD0A-244 as+AD0A--16 xd+AD0A-362 xa+AD0A-692+AAoA-cyrv w+AD0A-500 a+AD0A-238 as+AD0A--12 xd+AD0A-368 xa+AD0A-712+AAoA-cyrg w+AD0A-442 a+AD0A-228 as+AD0A-7 xd+AD0A-378 xa+AD0A-770+AAoA-cyrd w+AD0A-518 a+AD0A-258 as+AD0A-0 xd+AD0A-348 xa+AD0A-694+AAoA-cyre w+AD0A-472 a+AD0A-240 as+AD0A-4 xd+AD0A-366 xa+AD0A-740+AAoA-cyrie w+AD0A-454 a+AD0A-240 as+AD0A-13 xd+AD0A-366 xa+AD0A-758+AAoA-cyrdze w+AD0A-430 a+AD0A-222 as+AD0A-7 xd+AD0A-384 xa+AD0A-782+AAoA-cyrz w+AD0A-434 a+AD0A-216 as+AD0A-1 xd+AD0A-390 xa+AD0A-778+AAoA-cyrzem w+AD0A-436 a+AD0A-224 as+AD0A-6 xd+AD0A-382 xa+AD0A-776+AAoA-cyri w+AD0A-572 a+AD0A-286 as+AD0A-0 xd+AD0A-320 xa+AD0A-640+AAoA-cyrfita w+AD0A-504 a+AD0A-252 as+AD0A-0 xd+AD0A-354 xa+AD0A-708+AAoACgAA-xd+AD0A(max-w)/2-as+AAoA-xa+AD0A-max-w"
-Version: 2.2
+Version: 2.2-mod-1
 ItalicAngle: 0
 UnderlinePosition: -158
 UnderlineWidth: 40

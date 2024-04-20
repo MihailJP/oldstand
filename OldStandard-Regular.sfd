@@ -5,7 +5,7 @@ FamilyName: Old Standard
 Weight: Regular
 Copyright: Copyright (C) 2006-2011 Alexey Kryukov <amkryukov@gmail.com>,\nwithout Reserved Font Names.\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL
 UComments: "2005-12-23: Created.+AAoACgAA-ss01 -- Romanian letters with commaaccent;+AAoA-ss02 -- insular forms;+AAoA-ss06 -- script theta;+AAoA-ss11 -- required Serbian forms;+AAoA-ss12 -- optional Serbian forms;+AAoACgAA-Ratios for small caps:+AAoACgAA-vstem 78.26+AAoA-hstem 75+AAoA-counters 66.2+AAoA"
-Version: 2.2
+Version: 2.2-mod-1
 ItalicAngle: 0
 UnderlinePosition: -158
 UnderlineWidth: 40

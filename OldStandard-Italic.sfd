@@ -5,7 +5,7 @@ FamilyName: Old Standard
 Weight: Regular
 Copyright: Copyright (c) 2006-2011 by Alexey Kryukov <amkryukov@gmail.com>,\nwithout Reserved Font Names.\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL
 UComments: "Anchor shift for caps +AD0A 372+AAoACgAA-encl max width +AD0A 1128+AAoACgAA-cyra w+AD0A-536 a+AD0A-276 as+AD0A-8 xd+AD0A-288 xa+AD0A-592+AAoA-cyraz w+AD0A-520 a+AD0A-272 as+AD0A-12 xd+AD0A-292 xa+AD0A-608+AAoA-cyrv w+AD0A-426 a+AD0A-232 as+AD0A-19 xd+AD0A-332 xa+AD0A-702+AAoA-cyrg w+AD0A-420 a+AD0A-220 as+AD0A-10 xd+AD0A-344 xa+AD0A-708+AAoA-cyrvard w+AD0A-480 a+AD0A-254 as+AD0A-14 xd+AD0A-310 xa+AD0A-648+AAoA-cyre w+AD0A-410 a+AD0A-228 as+AD0A-23 xd+AD0A-336 xa+AD0A-718+AAoA-cyrie w+AD0A-422 a+AD0A-238 as+AD0A-27 xd+AD0A-326 xa+AD0A-706+AAoA-cyrdze w+AD0A-420 a+AD0A-228 as+AD0A-18 xd+AD0A-336 xa+AD0A-708+AAoA-cyrz w+AD0A-414 a+AD0A-212 as+AD0A-5 xd+AD0A-352 xa+AD0A-714+AAoA-cyrzem w+AD0A-454 a+AD0A-252 as+AD0A-25 xa+AD0A-674+AAoA-cyri w+AD0A-572 a+AD0A-296 as+AD0A-10 xd+AD0A-268 xa+AD0A-556+AAoA-cyrfita w+AD0A-462 a+AD0A-250 as+AD0A-19 xd+AD0A-314 xa+AD0A-666+AAoACgAA-xd+AD0A(max-w)/2-as+AAoA-xa+AD0A-max-w"
-Version: 2.2
+Version: 2.2-mod-1
 DefaultBaseFilename: OldStandard-Italic
 ItalicAngle: -15.2
 UnderlinePosition: -158
