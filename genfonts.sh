@@ -22,17 +22,9 @@ VERSION="2.2-mod-1"
 
 fontforge -script ost-generate.py
 
-for f in *.ttf; do
-    BASENAME=${f%.ttf}
-    wine cachett.exe $f ${BASENAME}_hdmx.ttf OldStandard.cfg
-    mv ${BASENAME}_hdmx.ttf $BASENAME.ttf
-    grcompiler -w3521 $BASENAME.gdl $BASENAME.ttf
-    mv ${BASENAME}_gr.ttf $BASENAME.ttf
-done
-
 rm -f *.zip
 
 $ZIP $PACK_NAME-$VERSION.ttf.zip *.ttf $DOCS
 $ZIP $PACK_NAME-$VERSION.woff.zip *.woff $DOCS
 $ZIP $PACK_NAME-$VERSION.otf.zip *.otf $DOCS
-$ZIP $PACK_NAME-$VERSION.src.zip genfonts.sh ost-generate.py *.gdl *.cfg *metadata.xml *.sfd $DOCS
+$ZIP $PACK_NAME-$VERSION.src.zip genfonts.sh ost-generate.py *metadata.xml *.sfd $DOCS
