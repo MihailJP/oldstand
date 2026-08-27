@@ -43,6 +43,14 @@ lettertype of the early 20th century.
 
 ChangeLog
 ---------
+2024 April 20 (MihailJP) Version 2.2 mod 1
+
+    * Add Macedo-Serbian Cyrillic variant
+
+    * Add Bulgarian Cyrillic variant
+
+    * Fix advance width of ligatures
+
 2011 April 30 (Alexey Kryukov) Version 2.2
 
     * Latin Extended Additional (again, except Vietnamese and medievalist additions)
