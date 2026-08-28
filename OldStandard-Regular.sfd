@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300584531
-ModificationTime: 1787928139
+ModificationTime: 1787931800
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -74507,6 +74507,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 444 762 basechar 0
+AnchorPoint: "Bottom" 286 0 basechar 0
+AnchorPoint: "Dotaccent" 444 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
