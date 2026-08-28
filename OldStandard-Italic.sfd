@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300612368
-ModificationTime: 1787923707
+ModificationTime: 1787928092
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -61617,6 +61617,8 @@ VWidth: 1039
 HStem: 0 32<-2 103.609 197.755 441.174> 362 32<290 479.902> 680 32<182 270.346 364.517 563.402>
 VStem: 538 106<136.763 295.798> 610 96<484.118 637.32>
 DStem2: 91.9701 0 182.97 0 0.262189 0.965016<63.0346 398.898 432.138 698.555>
+AnchorPoint: "Top" 452 762 basechar 0
+AnchorPoint: "Dotaccent" 458 782 basechar 0
 AnchorPoint: "Bottom" 226 0 basechar 0
 LayerCount: 3
 Fore
@@ -61739,6 +61741,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 478 762 basechar 0
+AnchorPoint: "Dotaccent" 484 782 basechar 0
 AnchorPoint: "Bottom" 180 0 basechar 0
 LayerCount: 3
 Fore
@@ -61912,6 +61916,8 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 762 762 basechar 0
+AnchorPoint: "Dotaccent" 768 782 basechar 0
 AnchorPoint: "Bottom" 288 0 basechar 0
 LayerCount: 3
 Fore
@@ -61973,6 +61979,8 @@ Width: 680
 Flags: W
 HStem: 0 32<158 457.464> 680 32<299.21 552>
 DStem2: 44 31 158 32 0.616374 0.787454<71.0541 824.175>
+AnchorPoint: "Top" 428 762 basechar 0
+AnchorPoint: "Dotaccent" 434 782 basechar 0
 AnchorPoint: "Bottom" 278 0 basechar 0
 LayerCount: 3
 Fore
@@ -62288,6 +62296,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 494 762 basechar 0
+AnchorPoint: "Dotaccent" 500 782 basechar 0
 AnchorPoint: "Bottom" 310 0 basechar 0
 LayerCount: 3
 Fore
@@ -62413,6 +62423,8 @@ Width: 756
 VWidth: 1039
 HStem: 0 32<-2 103.609 197.755 286 390 473.811 586.647 674> 680 32<182 270.346 364.517 470 570 636.786 761.982 836>
 DStem2: 91.9701 0 182.97 0 0.262189 0.965016<63.0346 342.151 392.845 698.555> 280 356 267 307 0.802718 0.596359<0 94.7453 186.143 457.248> 448 442 375 387 0.316228 -0.948683<29.093 387.385>
+AnchorPoint: "Top" 532 762 basechar 0
+AnchorPoint: "Dotaccent" 538 782 basechar 0
 AnchorPoint: "Bottom" 336 0 basechar 0
 LayerCount: 3
 Fore
@@ -62545,6 +62557,8 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 732 782 basechar 0
+AnchorPoint: "Top" 726 762 basechar 0
 AnchorPoint: "Bottom" 320 0 basechar 0
 LayerCount: 3
 Fore
@@ -62610,6 +62624,8 @@ VWidth: 1039
 HStem: -12 21<348 384.04> 0 32<-2 89.6891 180.4 260 492 597.609 691.79 782> 680 32<182 281.346 328 348 755 770 858.391 964>
 VStem: 348 88<157 680>
 DStem2: 99.5062 -12 138.506 -12 0.262189 0.965016<111.713 711.044> 436 157 373 -12 0.483278 0.875467<0 612.035> 582.71 -12 673.71 -12 0.262189 0.965016<75.6736 716.441>
+AnchorPoint: "Top" 586 762 basechar 0
+AnchorPoint: "Dotaccent" 592 782 basechar 0
 AnchorPoint: "Bottom" 386 0 basechar 0
 LayerCount: 3
 Fore
@@ -62625,6 +62641,8 @@ Width: 790
 VWidth: 1039
 HStem: -18 21<525.882 578.43> 0 32<-2 89.4949 179.352 260> 680 32<182 281.115 614 694.915 785.554 876>
 DStem2: 97.8761 -18 136.876 -18 0.262189 0.965016<116.967 654.105> 364 712 312 603 0.335279 -0.942119<85.2564 619.329> 533.061 -18 573 -18 0.262189 0.965016<152.329 668.902>
+AnchorPoint: "Top" 540 762 basechar 0
+AnchorPoint: "Dotaccent" 546 782 basechar 0
 AnchorPoint: "Bottom" 376 0 basechar 0
 LayerCount: 3
 Fore
@@ -63183,6 +63201,8 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 526 762 basechar 0
+AnchorPoint: "Dotaccent" 532 782 basechar 0
 AnchorPoint: "Bottom" 326 0 basechar 0
 LayerCount: 3
 Fore
@@ -63727,6 +63747,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 539 762 basechar 0
+AnchorPoint: "Dotaccent" 545 782 basechar 0
 AnchorPoint: "Bottom" 340 0 basechar 0
 LayerCount: 3
 Fore
@@ -63794,6 +63816,8 @@ Width: 690
 VWidth: 1039
 HStem: 0 32<114 242.622 336.982 448> 444 21<116 141 656 685.701> 680 32<296.118 409.323 503.257 620.859>
 DStem2: 230.97 0 321.97 0 0.262189 0.965016<62.9215 698.588>
+AnchorPoint: "Top" 478 762 basechar 0
+AnchorPoint: "Dotaccent" 484 782 basechar 0
 AnchorPoint: "Bottom" 278 0 basechar 0
 LayerCount: 3
 Fore
@@ -64318,6 +64342,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 541 762 basechar 0
+AnchorPoint: "Dotaccent" 547 782 basechar 0
 AnchorPoint: "Bottom" 346 0 basechar 0
 LayerCount: 3
 Fore
@@ -64431,6 +64457,8 @@ Width: 840
 VWidth: 1039
 HStem: 0 32<19 126.791 260.496 330 440 538.383 654.178 752> 680 32<160 269.564 389.492 464 574 645.773 771.242 878>
 DStem2: 201 108 281 140 0.670475 0.741932<16.7528 305.349 418.331 695.218> 386 630 289 630 0.414535 -0.910033<-31.4911 234.047 312.018 596.543>
+AnchorPoint: "Top" 536 762 basechar 0
+AnchorPoint: "Dotaccent" 542 782 basechar 0
 AnchorPoint: "Bottom" 376 0 basechar 0
 LayerCount: 3
 Fore
@@ -64765,6 +64793,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 589 762 basechar 0
+AnchorPoint: "Dotaccent" 595 782 basechar 0
 AnchorPoint: "Bottom" 390 0 basechar 0
 LayerCount: 3
 Fore
@@ -65594,6 +65624,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 372 508 basechar 0
+AnchorPoint: "Dotaccent" 378 528 basechar 0
 AnchorPoint: "GreekTopSunken" 372 508 basechar 0
 AnchorPoint: "GreekTop" 372 508 basechar 0
 AnchorPoint: "Bottom" 300 0 basechar 0
@@ -65825,6 +65857,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 462 810 basechar 0
+AnchorPoint: "Top" 457 790 basechar 0
 AnchorPoint: "Bottom" 330 0 basechar 0
 LayerCount: 3
 Fore
@@ -66061,6 +66095,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 372 528 basechar 0
+AnchorPoint: "Top" 367 508 basechar 0
 AnchorPoint: "Bottom" 416 0 basechar 0
 LayerCount: 3
 Fore
@@ -66284,6 +66320,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 411 790 basechar 0
+AnchorPoint: "Dotaccent" 416 810 basechar 0
 AnchorPoint: "Bottom" 204 0 basechar 0
 LayerCount: 3
 Fore
@@ -66522,6 +66560,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 296 508 basechar 0
+AnchorPoint: "Dotaccent" 302 528 basechar 0
 AnchorPoint: "GreekTopSunken" 296 508 basechar 0
 AnchorPoint: "GreekTop" 296 508 basechar 0
 AnchorPoint: "Bottom" 210 0 basechar 0
@@ -66799,6 +66839,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 398 772 basechar 0
+AnchorPoint: "Top" 392 752 basechar 0
 AnchorPoint: "Bottom" 220 -162 basechar 0
 LayerCount: 3
 Fore
@@ -67060,6 +67102,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 314 508 basechar 0
+AnchorPoint: "Dotaccent" 320 528 basechar 0
 AnchorPoint: "GreekTopSunken" 314 508 basechar 0
 AnchorPoint: "GreekTop" 314 508 basechar 0
 AnchorPoint: "Bottom" 184 0 basechar 0
@@ -67345,6 +67389,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 405 790 basechar 0
+AnchorPoint: "Dotaccent" 410 810 basechar 0
 AnchorPoint: "Bottom" 254 0 basechar 0
 LayerCount: 3
 Fore
@@ -67547,6 +67593,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 198 508 basechar 0
+AnchorPoint: "Dotaccent" 204 528 basechar 0
 AnchorPoint: "GreekTopSunken" 198 508 basechar 0
 AnchorPoint: "GreekTop" 198 508 basechar 0
 AnchorPoint: "Bottom" 128 0 basechar 0
@@ -67772,6 +67820,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 338 528 basechar 0
+AnchorPoint: "Top" 333 508 basechar 0
 AnchorPoint: "Bottom" 250 0 basechar 0
 LayerCount: 3
 Fore
@@ -68059,6 +68109,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 370 752 basechar 0
+AnchorPoint: "Dotaccent" 376 772 basechar 0
 AnchorPoint: "Bottom" 226 0 basechar 0
 LayerCount: 3
 Fore
@@ -68354,6 +68406,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 336 528 basechar 0
+AnchorPoint: "Top" 331 508 basechar 0
 AnchorPoint: "Bottom" 348 0 basechar 0
 LayerCount: 3
 Fore
@@ -68531,6 +68585,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 354 528 basechar 0
+AnchorPoint: "Top" 349 508 basechar 0
 AnchorPoint: "Bottom" 162 0 basechar 0
 LayerCount: 3
 Fore
@@ -68846,6 +68902,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 371 752 basechar 0
+AnchorPoint: "Dotaccent" 377 772 basechar 0
 AnchorPoint: "Bottom" 246 -162 basechar 0
 LayerCount: 3
 Fore
@@ -69035,6 +69093,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 314 508 basechar 0
+AnchorPoint: "Dotaccent" 320 528 basechar 0
 AnchorPoint: "GreekTopSunken" 314 508 basechar 0
 AnchorPoint: "GreekTop" 314 508 basechar 0
 AnchorPoint: "Bottom" 190 0 basechar 0
@@ -69309,6 +69369,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 375 528 basechar 0
+AnchorPoint: "Top" 370 508 basechar 0
 AnchorPoint: "Bottom" 282 0 basechar 0
 LayerCount: 3
 Fore
@@ -69530,6 +69592,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 334 508 basechar 0
+AnchorPoint: "Dotaccent" 340 528 basechar 0
 AnchorPoint: "Bottom" 182 -182 basechar 0
 AnchorPoint: "GreekTop" 334 508 basechar 0
 AnchorPoint: "GreekTopSunken" 334 508 basechar 0
@@ -69786,6 +69850,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 314 528 basechar 0
+AnchorPoint: "Top" 309 508 basechar 0
 AnchorPoint: "Bottom" 195.838 -128 basechar 0
 LayerCount: 3
 Fore
@@ -69989,6 +70055,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 369 528 basechar 0
+AnchorPoint: "Top" 364 508 basechar 0
 AnchorPoint: "Bottom" 224 0 basechar 0
 LayerCount: 3
 Fore
@@ -70226,6 +70294,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 312 528 basechar 0
+AnchorPoint: "Top" 307 508 basechar 0
 AnchorPoint: "Bottom" 246 0 basechar 0
 LayerCount: 3
 Fore
@@ -70416,6 +70486,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 318 508 basechar 0
+AnchorPoint: "Dotaccent" 324 528 basechar 0
 AnchorPoint: "GreekTopSunken" 318 508 basechar 0
 AnchorPoint: "GreekTop" 318 508 basechar 0
 AnchorPoint: "Bottom" 232 0 basechar 0
@@ -70600,6 +70672,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 463 528 basechar 0
+AnchorPoint: "Top" 458 508 basechar 0
 AnchorPoint: "Bottom" 518 0 basechar 0
 LayerCount: 3
 Fore
@@ -71006,6 +71080,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 369 528 basechar 0
+AnchorPoint: "Top" 364 508 basechar 0
 AnchorPoint: "Bottom" 234 -186 basechar 0
 LayerCount: 3
 Fore
@@ -71231,6 +71307,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 487 752 basechar 0
+AnchorPoint: "Dotaccent" 493 772 basechar 0
 AnchorPoint: "Bottom" 498 0 basechar 0
 LayerCount: 3
 Fore
@@ -71511,6 +71589,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 426 508 basechar 0
+AnchorPoint: "Dotaccent" 432 528 basechar 0
 AnchorPoint: "GreekTopSunken" 426 508 basechar 0
 AnchorPoint: "GreekTop" 426 508 basechar 0
 AnchorPoint: "Bottom" 322 0 basechar 0
@@ -72262,6 +72342,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 192 0 basechar 0
+AnchorPoint: "Top" 469 752 basechar 0
+AnchorPoint: "Dotaccent" 475 772 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -72350,6 +72433,9 @@ Width: 640
 Flags: W
 HStem: -12 24<214.738 307.978> 296 28<90.5913 152.474> 382 28<344.639 460 544 589.62> 696 24<334.227 428.132>
 VStem: 129 68<32.959 176.72> 158 68<152.06 293.863> 194 76<461.903 620.781> 482 72<411.838 613.287> 620 28<276.334 354.094>
+AnchorPoint: "Bottom" 254 0 basechar 0
+AnchorPoint: "Dotaccent" 410 810 basechar 0
+AnchorPoint: "Top" 405 790 basechar 0
 LayerCount: 3
 Fore
 Refer: 532 952 N 1 0 0 1 0 0 2
@@ -72367,6 +72453,9 @@ Flags: W
 HStem: 0 32<106 234.622 328.982 440> 640 78<228.391 309.765> 666 64<561.81 660.062>
 VStem: 344 88<538 599.131> 698 64<498.63 626.955>
 DStem2: 222.97 0 313.97 0 0.262189 0.965016<62.9215 506.164>
+AnchorPoint: "Bottom" 270 0 basechar 0
+AnchorPoint: "Top" 466 762 basechar 0
+AnchorPoint: "Dotaccent" 472 782 basechar 0
 LayerCount: 3
 Fore
 Refer: 513 933 N 1 0 0 1 0 0 2
@@ -72606,6 +72695,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 438 752 basechar 0
+AnchorPoint: "Dotaccent" 444 772 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -72891,6 +72982,10 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "GreekTop" 426 508 basechar 0
+AnchorPoint: "GreekTopSunken" 426 508 basechar 0
+AnchorPoint: "Dotaccent" 432 528 basechar 0
+AnchorPoint: "Top" 426 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -75580,6 +75675,9 @@ Flags: W
 HStem: -12 72<342.693 423.376> 392 64<130.618 205.075>
 VStem: 214 34<280.262 381.556> 302 28<79.9117 190.936>
 DStem2: 210 199 328 249 0.783844 0.620957<0.152737 123.541>
+AnchorPoint: "Bottom" 250 0 basechar 0
+AnchorPoint: "Top" 333 508 basechar 0
+AnchorPoint: "Dotaccent" 338 528 basechar 0
 LayerCount: 3
 Fore
 Refer: 534 954 N 1 0 0 1 0 0 2
@@ -75596,6 +75694,11 @@ VWidth: 959
 Flags: W
 HStem: -282 22<254.091 276.22> -12 24<173.833 250.128> 432 24<267.749 344.86>
 VStem: 44 24<-17.9364 97.8095> 284 38<-256.032 -175> 374 72<202.463 381.897>
+AnchorPoint: "GreekTopSunken" 334 508 basechar 0
+AnchorPoint: "GreekTop" 334 508 basechar 0
+AnchorPoint: "Bottom" 182 -182 basechar 0
+AnchorPoint: "Dotaccent" 340 528 basechar 0
+AnchorPoint: "Top" 334 508 basechar 0
 LayerCount: 3
 Fore
 Refer: 541 961 N 1 0 0 1 0 0 2
