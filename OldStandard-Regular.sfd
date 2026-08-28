@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300584531
-ModificationTime: 1787789243
+ModificationTime: 1787919798
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -73038,6 +73038,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 328 782 basechar 0
+AnchorPoint: "Top" 328 762 basechar 0
+AnchorPoint: "Bottom" 286 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -73070,7 +73073,6 @@ SplineSet
  574 50 428 -18 286 -18 c 0
  167 -18 62 56 62 175 c 0xfa40
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 328 730 m 0,0,1
@@ -74124,8 +74126,11 @@ Width: 670
 VWidth: 1039
 Flags: W
 TeX: 97 0
-HStem: -18 32<290.461 439.675> 698 32<283.149 407.134> 702 20<558.214 590.258>
+HStem: -18 32<290.461 439.675> 698 32<283.149 407.134> 702 20G<558.214 590.258>
 VStem: 70 106<214.363 510.125> 566 28<412 465.036> 570 36<164.753 259>
+AnchorPoint: "Bottom" 352 0 basechar 0
+AnchorPoint: "Top" 348 762 basechar 0
+AnchorPoint: "Dotaccent" 348 782 basechar 0
 LayerCount: 3
 Fore
 Refer: 35 67 N 1 0 0 1 0 0 3
@@ -78376,7 +78381,7 @@ Encoding: 1079 1079 645
 Width: 434
 Flags: W
 TeX: 97 0
-HStem: -12 24<136.75 254.443> 224 28<142 269.936> 444 24<166.204 255.015>
+HStem: -12 24<136.75 254.443> 93 83<89.0689 134.39> 224 28<142 269.936> 444 24<166.204 255.015>
 VStem: 42 46<46.7618 127.5> 58 18<298 327.242> 298 76<286.839 411.615> 302 88<56.2085 185.906>
 TtInstrs:
 SVTCA[y-axis]
@@ -78542,19 +78547,20 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 202 0 basechar 0
 AnchorPoint: "Dotaccent" 196 528 basechar 0
 AnchorPoint: "Top" 196 508 basechar 0
 AnchorPoint: "Enclosing" 221 228 basechar 0
 LayerCount: 3
 Fore
 SplineSet
-42 115 m 0xf2
+42 115 m 0xf9
  42 140 58 176 94 176 c 0
  126 176 140 155 140 131 c 0
  140 112 128 97 108 93 c 0
  94 90 88 87 88 75 c 0
  88 34 150 12 202 12 c 0
- 272 12 302 56 302 125 c 0xf2
+ 272 12 302 56 302 125 c 0xf9
  302 171 289 224 228 224 c 10
  142 224 l 25
  142 252 l 25
@@ -78569,13 +78575,13 @@ SplineSet
  86 432 90 425 98 425 c 0
  104 425 110 428 118 434 c 0
  134 446 171 468 218 468 c 0
- 319 468 374 414 374 344 c 0xec
+ 319 468 374 414 374 344 c 0xf6
  374 291 325 252 282 242 c 9
  282 238 l 17
  328 228 390 194 390 122 c 0
  390 78 365 42 325 16 c 0
  295 -3 247 -12 202 -12 c 0
- 132 -12 42 22 42 115 c 0xf2
+ 132 -12 42 22 42 115 c 0xf9
 EndSplineSet
 Layer: 2
 SplineSet
@@ -80306,12 +80312,12 @@ Flags: W
 TeX: 97 0
 HStem: -12 24<196.77 297.724> 444 24<197.119 298.111>
 VStem: 48 88<115.23 340.77> 342 52<315 404.553> 378 24<108.999 156>
+AnchorPoint: "Bottom" 230 0 basechar 0
 AnchorPoint: "Dotaccent" 248 528 basechar 0
 AnchorPoint: "Top" 248 508 basechar 0
 LayerCount: 3
 Fore
 Refer: 67 99 N 1 0 0 1 0 0 3
-Validated: 32769
 Layer: 2
 Refer: 67 99 N 1 0 0 1 0 0 3
 Validated: 32769
