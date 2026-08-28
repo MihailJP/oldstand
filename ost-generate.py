@@ -44,14 +44,14 @@ def process_font(name, fname, style):
             ( 20   , ( 'gridfit', 'gridfit+smoothing' ) ),
             ( 65535, ( 'antialias', 'gridfit', 'symmetric-smoothing', 'gridfit+smoothing' ) ),
         )
-    font.generate( filename + ".otf",flags=( "opentype","PfEd-colors","PfEd-lookups" ),layer="Fore" )
+    font.generate( filename + ".otf",flags=( "opentype","winkern","no-FFTM-table","no-mac-names" ),layer="Fore" )
 
     woff_meta = base_name + "-WOFF-metadata.xml"
     f = open( woff_meta,'r' )
     lines = f.readlines()
     f.close()
     font.woffMetadata = "".join( lines )
-    font.generate( filename + ".woff",layer="TTF" )
+    font.generate( filename + ".woff",flags=( "opentype","winkern","no-FFTM-table","no-mac-names" ),layer="TTF" )
 
     # Append the 'TT' suffix to various font names, including localized entries
     for i in range( 0,len( ttnames )):
@@ -63,7 +63,7 @@ def process_font(name, fname, style):
     font.fullname = fname + " TT " + style
     font.fontname = name + "TT-" + style
 
-    font.generate( filename + ".ttf",flags=( "opentype","old-kern","PfEd-colors","PfEd-lookups","dummy-dsig" ),layer="TTF" )
+    font.generate( filename + ".ttf",flags=( "opentype","winkern","no-FFTM-table","no-mac-names","dummy-dsig" ),layer="TTF" )
 
     font.close()
 
