@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300650174
-ModificationTime: 1787790725
+ModificationTime: 1787921852
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -68,7 +68,7 @@ Lookup: 5 0 0 "'ccmp' Low Variants for Accents" { "'ccmp' Low Variants for Accen
 Lookup: 1 0 0 "'ss02' Insular Forms for Old English" { "'ss02' Insular Forms for Old English-1"  } ['ss02' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'ss05' Greek Closed Theta" { "'ss05' Greek Closed Theta-1"  } ['ss05' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 6 8 0 "'ss06' Medial/Final Forms for Greek" { "'ss06' Medial/Final Forms for Greek-1"  } ['ss06' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'ss12' Optional Serbian Variant Forms" { "'ss12' Optional Serbian Variant Forms-1"  } ['locl' ('cyrl' <'MKD ' 'SRB ' 'dflt' > ) 'ss12' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss12' Optional Serbian Variant Forms" { "'ss12' Optional Serbian Variant Forms-1"  } ['locl' ('cyrl' <'MKD ' 'SRB ' > ) 'ss12' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'ss15' Old Cyrillic I and N" { "'ss15' Old Cyrillic I and N-1" ("ss15") } ['ss15' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'mgrk' Mathematical Greek" { "'mgrk' Mathematical Greek-1"  } ['mgrk' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'salt' Stylistic Alternatives" { "'salt' Stylistic Alternatives-1"  } ['salt' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]

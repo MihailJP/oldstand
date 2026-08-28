@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300612368
-ModificationTime: 1787791045
+ModificationTime: 1787921828
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -62,7 +62,7 @@ Lookup: 5 0 0 "'ccmp' Capital and Composite Accents" { "'ccmp' Capital and Compo
 Lookup: 5 0 0 "'ccmp' Greek Capital and Composite Accents" { "'ccmp' Greek Capital and Composite Accents-1"  } ['ccmp' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'locl'&'ss01' Localized Forms for Romanian" { "'locl' Localized Forms for Romanian-1"  } ['locl' ('latn' <'MOL ' 'ROM ' > ) 'ss01' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms for Greek" { "'locl' Localized Forms for Greek-1"  } ['locl' ('grek' <'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms for Macedonian and Serbian" { "'locl' Localized Forms for Macedonian and Serbian-1"  } ['locl' ('cyrl' <'MKD ' 'SRB ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms for Macedonian and Serbian" { "'locl' Localized Forms for Macedonian and Serbian-1"  } ['locl' ('cyrl' <'MKD ' 'SRB ' > ) ]
 Lookup: 1 0 0 "'ss11' Localized Forms for Serbian" { "'locl' Localized Forms for Serbian-1"  } ['ss11' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms for Bulgarian" { "'locl' Localized Forms for Bulgarian-1" ("bgr") } ['locl' ('cyrl' <'BGR ' > ) ]
 Lookup: 1 0 0 "'locl'&'ss14' Localized Forms for Old Slavonic" { "'locl' Localized Forms for Old Slavonic-1" ("csl") } ['locl' ('cyrl' <'CSL ' > ) 'ss14' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
