@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300650174
-ModificationTime: 1787921852
+ModificationTime: 1787923829
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -40070,6 +40070,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 334 0 basechar 0
+AnchorPoint: "Top" 326 762 basechar 0
+AnchorPoint: "Dotaccent" 326 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -96863,6 +96866,9 @@ VWidth: 1039
 Flags: W
 HStem: -18 32<306.142 396.974> 331 37<240 460> 698 32<251.724 379.312>
 VStem: 70 170<209.148 331> 460 170<210.13 331 368 518.592>
+AnchorPoint: "Dotaccent" 326 782 basechar 0
+AnchorPoint: "Top" 326 762 basechar 0
+AnchorPoint: "Bottom" 334 0 basechar 0
 LayerCount: 3
 Fore
 Refer: 321 399 N 1 0 0 1 0 0 2
@@ -96878,6 +96884,9 @@ VWidth: 959
 Flags: W
 HStem: -12 24<203.241 259.144> 218 28<168 296> 456 30<143.287 240.468>
 VStem: 50 26<312 366.307> 52 116<100.363 218> 296 128<126.223 218 246 350.129>
+AnchorPoint: "Bottom" 224 0 basechar 0
+AnchorPoint: "Top" 214 508 basechar 0
+AnchorPoint: "Dotaccent" 214 528 basechar 0
 LayerCount: 3
 Fore
 Refer: 396 601 N 1 0 0 1 0 0 2

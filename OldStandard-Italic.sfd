@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300612368
-ModificationTime: 1787921828
+ModificationTime: 1787923707
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -45591,6 +45591,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 278 0 basechar 0
+AnchorPoint: "Top" 460 762 basechar 0
+AnchorPoint: "Dotaccent" 466 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -48702,10 +48705,12 @@ VWidth: 959
 Flags: W
 HStem: -12 24<105.683 177.109> 432 24<184.584 270.598>
 VStem: 45 48<17.0129 136.527> 302 72<230.675 380.98>
+AnchorPoint: "Dotaccent" 255 528 basechar 0
+AnchorPoint: "Top" 249 508 basechar 0
+AnchorPoint: "Bottom" 120 0 basechar 0
 LayerCount: 3
 Fore
 Refer: 397 601 N 1 0 0 1 0 0 2
-Validated: 32769
 Layer: 2
 Refer: 397 601 N 1 0 0 1 0 0 2
 Colour: ffff
@@ -52918,6 +52923,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 120 0 basechar 0
+AnchorPoint: "Top" 249 508 basechar 0
+AnchorPoint: "Dotaccent" 255 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -52940,7 +52948,6 @@ SplineSet
  253 202 207 198 165 179 c 0
  125 161 93 120 93 66 c 0
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 45 72 m 0,0,1
@@ -110505,6 +110512,9 @@ VWidth: 1039
 Flags: W
 HStem: -18 32<243.915 369.864> 334 32<208.917 559> 698 32<374.822 514.801>
 VStem: 92 96<110.865 321.986> 580 96<369.608 587.265>
+AnchorPoint: "Dotaccent" 466 782 basechar 0
+AnchorPoint: "Top" 460 762 basechar 0
+AnchorPoint: "Bottom" 278 0 basechar 0
 LayerCount: 3
 Fore
 Refer: 322 399 N 1 0 0 1 0 0 2
@@ -110520,10 +110530,12 @@ VWidth: 959
 Flags: W
 HStem: -12 24<105.683 177.109> 432 24<184.584 270.598>
 VStem: 45 48<17.0129 136.527> 302 72<230.675 380.98>
+AnchorPoint: "Dotaccent" 255 528 basechar 0
+AnchorPoint: "Top" 249 508 basechar 0
+AnchorPoint: "Bottom" 120 0 basechar 0
 LayerCount: 3
 Fore
 Refer: 397 601 N 1 0 0 1 0 0 2
-Validated: 32769
 Layer: 2
 Refer: 397 601 N 1 0 0 1 0 0 2
 Colour: ffff

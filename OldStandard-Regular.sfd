@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300584531
-ModificationTime: 1787921792
+ModificationTime: 1787923420
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -40832,6 +40832,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 340 762 basechar 0
+AnchorPoint: "Bottom" 340 0 basechar 0
+AnchorPoint: "Dotaccent" 340 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -40852,7 +40855,6 @@ SplineSet
  201 698 136 574 120 453 c 1
  84 453 l 1xb4
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 84 453 m 1,0,1
@@ -41282,6 +41284,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 330 762 basechar 0
+AnchorPoint: "Bottom" 340 0 basechar 0
+AnchorPoint: "Dotaccent" 330 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -43228,6 +43233,9 @@ VWidth: 959
 Flags: W
 HStem: -12 24<190.543 264.202> 206 24<134 324> 444 24<157.819 256.711>
 VStem: 48 86<112.129 206> 58 24<300 353.026> 324 88<118.276 206 230 343.548>
+AnchorPoint: "Dotaccent" 212 528 basechar 0
+AnchorPoint: "Top" 212 508 basechar 0
+AnchorPoint: "Bottom" 227 0 basechar 0
 LayerCount: 3
 Fore
 Refer: 397 601 N 1 0 0 1 0 0 2
@@ -46813,8 +46821,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
-AnchorPoint: "Dotaccent" 220 528 basechar 0
-AnchorPoint: "Top" 220 508 basechar 0
+AnchorPoint: "Dotaccent" 210 528 basechar 0
+AnchorPoint: "Top" 210 508 basechar 0
 AnchorPoint: "Bottom" 202 0 basechar 0
 LayerCount: 3
 Fore
@@ -46834,7 +46842,6 @@ SplineSet
  122 444 80 365 72 300 c 9
  48 300 l 17xe8
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 48 300 m 1,0,1
@@ -47003,6 +47010,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 227 0 basechar 0
+AnchorPoint: "Top" 212 508 basechar 0
+AnchorPoint: "Dotaccent" 212 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -99396,6 +99406,9 @@ VWidth: 1039
 Flags: W
 HStem: -18 32<280.656 409.073> 334 32<176 514> 468 21<83 121> 698 32<255.725 404.501>
 VStem: 70 106<190.151 334> 514 106<213.188 334 366 500.562>
+AnchorPoint: "Dotaccent" 330 782 basechar 0
+AnchorPoint: "Bottom" 340 0 basechar 0
+AnchorPoint: "Top" 330 762 basechar 0
 LayerCount: 3
 Fore
 Refer: 322 399 N 1 0 0 1 0 0 2
@@ -99411,6 +99424,9 @@ VWidth: 959
 Flags: W
 HStem: -12 24<190.543 264.202> 206 24<134 324> 444 24<157.819 256.711>
 VStem: 48 86<112.129 206> 58 24<300 353.026> 324 88<118.276 206 230 343.548>
+AnchorPoint: "Dotaccent" 212 528 basechar 0
+AnchorPoint: "Top" 212 508 basechar 0
+AnchorPoint: "Bottom" 227 0 basechar 0
 LayerCount: 3
 Fore
 Refer: 397 601 N 1 0 0 1 0 0 2
