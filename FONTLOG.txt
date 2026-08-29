@@ -43,6 +43,10 @@ lettertype of the early 20th century.
 
 ChangeLog
 ---------
+2026 August 29 (MihailJP) Version 2.2 mod 2a
+
+    * Add missing anchors in Theta, Kappa, Lambda, and Mu in the Regular font.
+
 2026 August 29 (MihailJP) Version 2.2 mod 2
 
     * Backport additional Cyrillic glyphs from GF version.
