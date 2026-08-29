@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300584531
-ModificationTime: 1787968737
+ModificationTime: 1787986400
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55414,6 +55414,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 360 762 basechar 0
+AnchorPoint: "Dotaccent" 360 782 basechar 0
 AnchorPoint: "Bottom" 360 0 basechar 0
 LayerCount: 3
 Fore
@@ -55523,6 +55525,8 @@ Flags: W
 HStem: 0 32<62 159.643 254.357 347 412 505.155 627.352 714> 680 32<62 159.643 254.357 347 436 498.756 619.518 700>
 VStem: 161 92<32.2373 300 343 679.787>
 DStem2: 253 343 253 300 0.70266 0.711526<0 87.4933 181.541 375.64> 402 451 336 384 0.477867 -0.878432<27.3157 399.062>
+AnchorPoint: "Top" 384 762 basechar 0
+AnchorPoint: "Dotaccent" 384 782 basechar 0
 AnchorPoint: "Bottom" 384 0 basechar 0
 LayerCount: 3
 Fore
@@ -55662,6 +55666,8 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 396 762 basechar 0
+AnchorPoint: "Dotaccent" 396 782 basechar 0
 AnchorPoint: "Bottom" 396 0 basechar 0
 LayerCount: 3
 Fore
@@ -55728,6 +55734,8 @@ Flags: W
 HStem: -12 21<391.975 427.537> 0 32<62 137.829 224.171 300 506 603.643 698.357 796> 680 32<62 159.643 698.357 796>
 VStem: 161 40<50.7454 622> 605 92<32.2373 649>
 DStem2: 274 712 207 622 0.288456 -0.957493<66.8478 574.597> 437 161 422 -12 0.266817 0.963747<0 515.134>
+AnchorPoint: "Top" 436 762 basechar 0
+AnchorPoint: "Dotaccent" 436 782 basechar 0
 AnchorPoint: "Bottom" 436 0 basechar 0
 LayerCount: 3
 Fore
