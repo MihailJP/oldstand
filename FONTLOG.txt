@@ -43,13 +43,33 @@ lettertype of the early 20th century.
 
 ChangeLog
 ---------
+2026 August 29 (MihailJP) Version 2.2 mod 2
+
+    * Backport additional Cyrillic glyphs from GF version.
+
+    * Add some kerning and missing TTF instructions.
+
+    * Drop Graphite table: SIL seems to consider their Graphite is deprecated
+      seeing removal from some of their fonts. Since the configuration files
+      are difficult to update, I cannot continue to support Graphite any longer.
+
+    * Add anchor points to schwa, open O, Cyrillic ES, ZE, U, and Greek letters.
+
+    * Fix issue that Serbian/Macedonian `locl` feature included `dflt` language.
+
+    * Drop unneeded metadata from resulting fonts.
+
+    * Fix uni049D in the Regular font.
+
+    * Update `ccmp` feature.
+
 2024 April 20 (MihailJP) Version 2.2 mod 1
 
-    * Add Macedo-Serbian Cyrillic variant
+    * Add Macedo-Serbian Cyrillic variant.
 
-    * Add Bulgarian Cyrillic variant
+    * Add Bulgarian Cyrillic variant.
 
-    * Fix advance width of ligatures
+    * Fix advance width of ligatures.
 
 2011 April 30 (Alexey Kryukov) Version 2.2
 

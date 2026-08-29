@@ -18,7 +18,7 @@
 ZIP="zip -DrX"
 PACK_NAME=oldstandard
 DOCS="OFL.txt OFL-FAQ.txt FONTLOG.txt"
-VERSION="2.2-mod-1"
+VERSION="2.2-mod-2"
 
 fontforge -script ost-generate.py
 
