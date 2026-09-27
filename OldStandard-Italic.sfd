@@ -20,7 +20,7 @@ Layer: 2 1 "TTF" 0
 XUID: [1021 675 718133685 4816453]
 FSType: 0
 OS2Version: 0
-OS2_WeightWidthSlopeOnly: 0
+OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300612368
 ModificationTime: 1788884827
