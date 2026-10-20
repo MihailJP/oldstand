@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300584531
-ModificationTime: 1788883512
+ModificationTime: 1792500423
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -161,45 +161,45 @@ KernClass2: 20 26 "'kern' Horizontal Kerning for Greek"
  36 omega omegatonos uni1FF3 uni1FF4 psi
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -144 {} 0 {} 0 {} 0 {} 0 {} -48 {} 0 {} -48 {} 0 {} -88 {} -72 {} -80 {} 0 {} -96 {} 0 {} -48 {} 0 {} -64 {} -24 {} 0 {} -48 {} -23 {} -60 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} -40 {} 0 {} -44 {} 0 {} -18 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -68 {} 0 {} -84 {} -42 {} 0 {} -84 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} 0 {} -52 {} 0 {} -60 {} 0 {} 0 {} -52 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -44 {} 0 {} -48 {} -32 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} -44 {} 0 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -144 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -48 {} 0 {} -88 {} -72 {} -80 {} 0 {} -96 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} -40 {} 0 {} -60 {} 0 {} -44 {} 0 {} -32 {} 0 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -94 {} 0 {} -72 {} -76 {} 0 {} -72 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} 0 {} -80 {} -36 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -52 {} 0 {} 0 {} -48 {} 0 {} -56 {} 0 {} 0 {} -48 {} 0 {} 0 {} -52 {} 0 {} -88 {} -44 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} -56 {} 0 {} -64 {} 0 {} 0 {} -56 {} 0 {} 0 {} -48 {} 0 {} -72 {} -44 {} 0 {} -72 {} 0 {} -62 {} 0 {} -24 {} 0 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -122 {} 0 {} -132 {} 0 {} 0 {} -132 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} 0 {} 0 {} -60 {} 0 {} -68 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -180 {} 0 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -236 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -188 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -204 {} 0 {} 0 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 KernClass2: 25 25 "'kern' Horizontal Kerning for Latin"
- 204 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek Aringacute uni0200 uni0202 uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6
+ 212 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni01CD Aringacute uni0200 uni0202 uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6
  33 B uni0243 uni1E02 uni1E04 uni1E06
  55 C Ccedilla Cacute Ccircumflex Cdotaccent Ccaron uni1E08
  59 D Eth Dcaron Dcroat uni1E0A uni1E0C uni1E0E uni1E10 uni1E12
  9 F uni1E1E
- 121 G N Ntilde Gcircumflex Gbreve Gdotaccent Gcommaaccent Nacute Ncommaaccent uni01F4 uni1E20 uni1E44 uni1E46 uni1E48 uni1E4A
+ 128 G N Ntilde Gcircumflex Gbreve Gdotaccent Gcommaaccent Nacute Ncommaaccent Gcaron uni01F4 uni1E20 uni1E44 uni1E46 uni1E48 uni1E4A
  29 J Jcircumflex uni01C7 uni01CA
  38 K Kcommaaccent uni1E30 uni1E32 uni1E34
  47 L Lacute Lslash uni1E36 uni1E38 uni1E3A uni1E3C
- 247 O Ograve Oacute Ocircumflex Otilde Odieresis Omacron Obreve Ohungarumlaut uni018E Ohorn Oogonek uni01EC uni020C uni020E uni1E4C uni1E4E uni1E50 uni1E52 uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2
+ 255 O Ograve Oacute Ocircumflex Otilde Odieresis Omacron Obreve Ohungarumlaut uni018E Ohorn uni01D1 Oogonek uni01EC uni020C uni020E uni1E4C uni1E4E uni1E50 uni1E52 uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2
  17 P uni1E54 uni1E56
  69 R Racute Rcommaaccent uni0210 uni0212 uni1E58 uni1E5A uni1E5C uni1E5E
  89 S Sacute Scircumflex Scedilla Scaron Scommaaccent uni1E60 uni1E62 uni1E64 uni1E66 uni1E68
  61 T Tcommaaccent Tcaron uni021A uni1E6A uni1E6C uni1E6E uni1E70
- 205 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Uhorn uni0214 uni0216 uni1E72 uni1E74 uni1E76 uni1E78 uni1E7A uni1EE4 uni1EE6 uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0
+ 213 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Uhorn uni01D3 uni0214 uni0216 uni1E72 uni1E74 uni1E76 uni1E78 uni1E7A uni1EE4 uni1EE6 uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0
  71 V W Wcircumflex uni1E7C uni1E7E Wgrave Wacute Wdieresis uni1E86 uni1E88
  17 X uni1E8A uni1E8C
  65 Y Yacute Ydieresis uni0232 uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8
- 204 a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek aringacute uni0201 uni0203 uni1E01 uni1EA1 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7
- 259 b o p ograve oacute ocircumflex otilde odieresis thorn omacron obreve ohungarumlaut uni01DD oogonek uni01ED uni020D uni020F uni0259 uni1E03 uni1E05 uni1E07 uni1E4D uni1E4F uni1E51 uni1E53 uni1E55 uni1E57 uni1ECD uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9
+ 212 a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek uni01CE aringacute uni0201 uni0203 uni1E01 uni1EA1 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7
+ 267 b o p ograve oacute ocircumflex otilde odieresis thorn omacron obreve ohungarumlaut uni01D2 uni01DD oogonek uni01ED uni020D uni020F uni0259 uni1E03 uni1E05 uni1E07 uni1E4D uni1E4F uni1E51 uni1E53 uni1E55 uni1E57 uni1ECD uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9
  79 v w wcircumflex uni1E7D uni1E7F wgrave wacute wdieresis uni1E87 uni1E89 uni1E98
  17 x uni1E8B uni1E8D
  65 y yacute ydieresis uni0233 uni1E8F uni1E99 ygrave uni1EF7 uni1EF9
  22 quoteleft quotedblleft
  21 comma period ellipsis
- 204 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek Aringacute uni0200 uni0202 uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6
- 124 C G Ccedilla Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent Gcommaaccent uni018E uni01F4 uni1E08 uni1E20
+ 212 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni01CD Aringacute uni0200 uni0202 uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6
+ 131 C G Ccedilla Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent Gcommaaccent uni018E Gcaron uni01F4 uni1E08 uni1E20
  13 J Jcircumflex
- 244 O Q Ograve Oacute Ocircumflex Otilde Odieresis Omacron Obreve Ohungarumlaut OE Ohorn Oogonek uni01EC uni020C uni020E uni1E4C uni1E4E uni1E50 uni1E52 uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2
+ 252 O Q Ograve Oacute Ocircumflex Otilde Odieresis Omacron Obreve Ohungarumlaut OE Ohorn uni01D1 Oogonek uni01EC uni020C uni020E uni1E4C uni1E4E uni1E50 uni1E52 uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2
  61 T Tcommaaccent Tcaron uni021A uni1E6A uni1E6C uni1E6E uni1E70
- 205 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Uhorn uni0214 uni0216 uni1E72 uni1E74 uni1E76 uni1E78 uni1E7A uni1EE4 uni1EE6 uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0
+ 213 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Uhorn uni01D3 uni0214 uni0216 uni1E72 uni1E74 uni1E76 uni1E78 uni1E7A uni1EE4 uni1EE6 uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0
  71 V W Wcircumflex uni1E7C uni1E7E Wgrave Wacute Wdieresis uni1E86 uni1E88
  17 X uni1E8A uni1E8C
  65 Y Yacute Ydieresis uni0232 uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8
  18 AE uni01E2 AEacute
- 60 a aacute ae aogonek uni01E3 aeacute uni1E01 uni1E9A uni1EA1 
- 171 agrave acircumflex atilde adieresis aring amacron abreve aringacute uni0201 uni0203 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7
+ 59 a aacute ae aogonek uni01E3 aeacute uni1E01 uni1E9A uni1EA1
+ 179 agrave acircumflex atilde adieresis aring amacron abreve uni01CE aringacute uni0201 uni0203 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7
  173 c d e o ccedilla eacute oacute dcaron dcroat eogonek oe ohorn uni01DD oogonek uni0229 uni0259 uni1E09 uni1E0D uni1E0F uni1E11 uni1E13 uni1E19 uni1E1B uni1ECD uni1EDB uni1EE3
- 395 egrave ecircumflex edieresis ograve ocircumflex otilde odieresis cacute ccircumflex cdotaccent ccaron emacron ebreve edotaccent ecaron omacron obreve ohungarumlaut uni01ED uni0205 uni0207 uni020D uni020F uni1E0B uni1E15 uni1E17 uni1E1D uni1E4D uni1E4F uni1E51 uni1E53 uni1EBB uni1EBD uni1EBF uni1EC1 uni1EC3 uni1EC5 uni1EC7 uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9 uni1EDD uni1EDF uni1EE1
+ 403 egrave ecircumflex edieresis ograve ocircumflex otilde odieresis cacute ccircumflex cdotaccent ccaron emacron ebreve edotaccent ecaron omacron obreve ohungarumlaut uni01D2 uni01ED uni0205 uni0207 uni020D uni020F uni1E0B uni1E15 uni1E17 uni1E1D uni1E4D uni1E4F uni1E51 uni1E53 uni1EBB uni1EBD uni1EBF uni1EC1 uni1EC3 uni1EC5 uni1EC7 uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9 uni1EDD uni1EDF uni1EE1
  9 g uni01F5
  100 i m n iacute dotlessi nacute uni1E2D uni1E3F uni1E41 uni1E43 uni1E45 uni1E47 uni1E49 uni1E4B uni1ECB
  30 dotlessj j jcircumflex uni01F0
@@ -1924,7 +1924,7 @@ Grid
  340 -46 l 1049
 EndSplineSet
 AnchorClass2: "Dotaccent" "'mark' Positioning for Dotaccent" "Enclosing" "'mark' Positioning for Enclosing Figures" "Top" "'mark' Positioning for Top Accents" "Bottom" "'mark' Positioning for Bottom Accents" "GreekTop" "'mark' Positioning for Greek Accents" "GreekTopSunken" "'mark' Lower Positioning for Greek Accents" "GreekCap" "'mark' Positioning for Greek Capital Accents" "TopMark" "'mkmk' Standard Mark to Mark Positioning" "GreekTopMark" "'mkmk' Greek Mark to Mark Positioning" "GreekTopMarkSunken" "'mkmk' Greek Lower Mark to Mark Positioning"
-BeginChars: 65683 1936
+BeginChars: 65683 1946
 
 StartChar: space
 Encoding: 32 32 0
@@ -216042,6 +216042,175 @@ SplineSet
  151 113 151 113 99.5 168 c 128,-1,14
  48 223 48 223 48 303 c 128,-1,15
 EndSplineSet
+EndChar
+
+StartChar: uni01CD
+Encoding: 461 461 1936
+Width: 764
+VWidth: 1039
+Flags: W
+HStem: 0 32<46 130.962 222.043 320 432 530.344 643.17 742> 212 32<259 471> 692 20G<376.916 415.824> 762 62<345 447>
+VStem: 236 320
+DStem2: 169 105 224 145 0.333876 0.942617<-2.5226 127.236 161.073 484.629> 409 712 367 549 0.322916 -0.946428<140.705 462.949 496.787 659.683>
+LayerCount: 3
+Fore
+Refer: 1601 63178 N 1 0 0 1 176 0 2
+Refer: 33 65 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1601 63178 N 1 0 0 1 176 0 2
+Refer: 33 65 N 1 0 0 1 0 0 3
+Colour: ffff
+EndChar
+
+StartChar: uni01CE
+Encoding: 462 462 1937
+Width: 494
+VWidth: 959
+Flags: W
+HStem: -12 36<148.286 235.423 387.82 435.246> 444 24<164.212 268.927> 508 64<176 280>
+VStem: 46 84<38.0659 179.664> 78 47<327 414.576> 96 264 308 72<32.0085 84 99.0637 245 266 402.788> 458 18<65.7282 130>
+DStem2: 216 249 221 226 0.983353 0.181707<-49.1725 89.7416>
+LayerCount: 3
+Fore
+Refer: 407 711 N 1 0 0 1 8 0 2
+Refer: 65 97 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 407 711 N 1 0 0 1 8 0 2
+Refer: 65 97 N 1 0 0 1 0 0 3
+Colour: ffff
+EndChar
+
+StartChar: uni01CF
+Encoding: 463 463 1938
+Width: 394
+VWidth: 1039
+Flags: W
+HStem: 0 32<62 159.643 254.357 352> 680 32<62 159.643 254.357 352> 762 62<157 259>
+VStem: 48 320 161 92<32.2373 679.787>
+LayerCount: 3
+Fore
+Refer: 1601 63178 N 1 0 0 1 -12 0 2
+Refer: 41 73 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1601 63178 N 1 0 0 1 -12 0 2
+Refer: 41 73 N 1 0 0 1 0 0 3
+Colour: ffff
+EndChar
+
+StartChar: uni01D0
+Encoding: 464 464 1939
+Width: 270
+Flags: W
+HStem: 0 24<38 100.812 175.188 238> 432 24<38 100.812> 508 64<86 190>
+VStem: 6 264 102 72<24.0044 431.996>
+LayerCount: 3
+Fore
+Refer: 407 711 N 1 0 0 1 -82 0 2
+Refer: 240 305 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 407 711 N 1 0 0 1 -82 0 2
+Refer: 240 305 N 1 0 0 1 0 0 3
+Colour: ffff
+EndChar
+
+StartChar: uni01D1
+Encoding: 465 465 1940
+Width: 700
+VWidth: 1039
+Flags: W
+HStem: -18 32<290.985 429.015> 698 32<290.985 429.015> 762 62<309 411>
+VStem: 70 106<217.164 494.836> 200 320 544 106<217.164 494.836>
+CounterMasks: 1 1c
+LayerCount: 3
+Fore
+Refer: 1601 63178 N 1 0 0 1 140 0 2
+Refer: 47 79 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1601 63178 N 1 0 0 1 140 0 2
+Refer: 47 79 N 1 0 0 1 0 0 3
+Colour: ffff
+EndChar
+
+StartChar: uni01D2
+Encoding: 466 466 1941
+Width: 496
+Flags: W
+HStem: -12 24<202.931 293.069> 444 24<202.931 293.069> 508 64<196 300>
+VStem: 48 88<120.082 335.918> 116 264 360 88<120.082 335.918>
+LayerCount: 3
+Fore
+Refer: 407 711 N 1 0 0 1 28 0 2
+Refer: 79 111 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 407 711 N 1 0 0 1 28 0 2
+Refer: 79 111 N 1 0 0 1 0 0 3
+Colour: ffff
+EndChar
+
+StartChar: uni01D3
+Encoding: 467 467 1942
+Width: 780
+VWidth: 1039
+Flags: W
+HStem: -18 32<336.196 503.254> 680 32<52 149.517 244.483 343 514 589.131 676.869 752> 762 62<361 463>
+VStem: 151 92<125.127 679.677> 252 320 613 40<114.11 657.309>
+LayerCount: 3
+Fore
+Refer: 1601 63178 N 1 0 0 1 192 0 2
+Refer: 53 85 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1601 63178 N 1 0 0 1 192 0 2
+Refer: 53 85 N 1 0 0 1 0 0 3
+Colour: ffff
+EndChar
+
+StartChar: uni01D4
+Encoding: 468 468 1943
+Width: 534
+Flags: W
+HStem: -12 28<201.671 287.579> 0 24<439.188 502> 432 24<32 94.8125 302 364.812> 508 64<210 314>
+VStem: 96 72<47.2286 431.996> 130 264 366 72<24 82 93.3369 432>
+LayerCount: 3
+Fore
+Refer: 407 711 N 1 0 0 1 42 0 2
+Refer: 85 117 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 407 711 N 1 0 0 1 42 0 2
+Refer: 85 117 N 1 0 0 1 0 0 3
+Colour: ffff
+EndChar
+
+StartChar: Gcaron
+Encoding: 486 486 1944
+Width: 720
+VWidth: 1039
+Flags: W
+HStem: -18 32<280.29 404.786> 306 32<360 496.643 591.357 690> 698 32<279.811 407.134> 702 20G<558.214 590.258> 762 62<297 399>
+VStem: 70 106<207.373 511.457> 188 320 498 92<112.519 305.787> 558 32<-13 111.965> 565 25<412 456.602>
+LayerCount: 3
+Fore
+Refer: 1601 63178 N 1 0 0 1 128 0 2
+Refer: 39 71 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1601 63178 N 1 0 0 1 128 0 2
+Refer: 39 71 N 1 0 0 1 0 0 3
+Colour: ffff
+EndChar
+
+StartChar: gcaron
+Encoding: 487 487 1945
+Width: 540
+Flags: W
+HStem: -238 24<181.254 359.073> -26 66<143.09 424.983> 140 24<202.97 291.715> 444 24<204.017 292.765 418.128 472.622> 508 64<210 314>
+VStem: 52 44<-168.115 -67.0847> 62 40<46.0963 106.203> 70 80<220.458 386.211> 130 264 346 80<220.455 385.304> 448 36<-157.234 -49.9844> 474 54<380.5 443.421>
+LayerCount: 3
+Fore
+Refer: 407 711 N 1 0 0 1 42 0 2
+Refer: 71 103 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 407 711 N 1 0 0 1 42 0 2
+Refer: 71 103 N 1 0 0 1 0 0 3
+Colour: ffff
 EndChar
 EndChars
 EndSplineFont
