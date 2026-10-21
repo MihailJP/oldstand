@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300612368
-ModificationTime: 1792590598
+ModificationTime: 1792595490
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -269,7 +269,7 @@ ChainSub2: class "'frac' Diagonal Fractions Contextual-1" 3 3 1 1
   FClassNames: "0"
 EndFPST
 ContextSub2: class "'ccmp' Decompose Accented" 4 1 1 2
-  Class: 21 i j iogonek afii10103
+  Class: 29 i j iogonek uni0268 afii10103
   Class: 421 Atilde Adieresis Aring Edieresis Idieresis Otilde Odieresis Udieresis atilde adieresis aring edieresis idieresis otilde odieresis udieresis ydieresis Amacron amacron Abreve abreve Emacron emacron Ebreve ebreve Itilde itilde Imacron imacron Ibreve ibreve Omacron omacron Obreve obreve Utilde utilde Umacron umacron Ubreve ubreve Uring uring Ydieresis uni01E2 uni01E3 uni01EC uni01ED afii10023 afii10056 afii10071 afii10104
   Class: 344 gravecomb acutecomb circumflexcmb tildecomb macroncmb brevecmb uni0307 uni0308 uni030A uni030B uni030C uni030F uni0311 uni0312 uni0313 uni0314 uni033E uni0351 uni0357 uni0363 uni0364 uni0365 uni0366 uni0367 uni0368 uni0369 uni036A uni036B uni036C uni036D uni036E uni036F uni0483 uni0485 uni0486 uni0486_gravecomb uni0486_acutecomb brevecmb.cyrl
  2 0 0
@@ -1834,7 +1834,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 510026 293601 146800 97867 478151 1048576 97867 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Dotaccent" "'mark' Positioning for Dotaccent" "Enclosing" "'mark' Positioning for Enclosing Figures" "Top" "'mark' Positioning for Top Accents" "Bottom" "'mark' Positioning for Bottom Accents" "GreekTop" "'mark' Positioning for Greek Accents" "GreekTopSunken" "'mark' Lower Positioning for Greek Accents" "GreekCap" "'mark' Positioning for Greek Capital Accents" "TopMark" "'mkmk' Standard Mark to Mark Positioning" "GreekTopMark" "'mkmk' Greek Mark to Mark Positioning" "GreekTopMarkSunken" "'mkmk' Greek Lower Mark to Mark Positioning"
-BeginChars: 65658 1849
+BeginChars: 65659 1852
 
 StartChar: space
 Encoding: 32 32 0
@@ -216478,6 +216478,511 @@ Fore
 Refer: 1660 -1 N 1 0 0 1 0 0 3
 Layer: 2
 Refer: 1660 -1 N 1 0 0 1 0 0 3
+Colour: ffff
+EndChar
+
+StartChar: uni0197
+Encoding: 407 407 1849
+Width: 400
+VWidth: 1039
+Flags: MW
+HStem: 0 32<-2 103.609 197.755 286> 356 36<96 188 289 382> 680 32<182 270.346 364.517 470>
+DStem2: 108 59 199 59 0.263117 0.964764<2.00094 307.584 368.891 637.53>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 27
+ 3
+ 0
+CALL
+PUSHB_2
+ 26
+ 7
+MIRP[min,black]
+PUSHB_1
+ 1
+SHP[rp2]
+PUSHB_3
+ 13
+ 6
+ 0
+CALL
+PUSHB_2
+ 12
+ 7
+MIRP[min,black]
+PUSHB_1
+ 15
+SHP[rp2]
+PUSHB_5
+ 7
+ 6
+ 27
+ 13
+ 13
+CALL
+PUSHB_2
+ 5
+ 22
+SHP[rp1]
+SHP[rp1]
+PUSHB_2
+ 7
+ 10
+MIRP[min,black]
+PUSHB_2
+ 8
+ 19
+SHP[rp2]
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 28
+MDAP[rnd]
+PUSHB_2
+ 29
+ 1
+CALL
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 15807
+ -4311
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 4
+SRP0
+PUSHB_1
+ 9
+MDRP[grey]
+PUSHB_2
+ 23
+ 17
+MIRP[rp0,min,black]
+PUSHB_1
+ 18
+MDRP[grey]
+SFVTCA[x-axis]
+PUSHB_1
+ 4
+SRP0
+PUSHB_4
+ 5
+ 4
+ 9
+ 19
+CALL
+PUSHB_4
+ 8
+ 4
+ 9
+ 19
+CALL
+PUSHB_1
+ 23
+SRP0
+PUSHB_4
+ 19
+ 23
+ 18
+ 19
+CALL
+PUSHB_4
+ 22
+ 23
+ 18
+ 19
+CALL
+SPVTCA[x-axis]
+SVTCA[y-axis]
+PUSHB_4
+ 4
+ 9
+ 18
+ 23
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_8
+ 4
+ 5
+ 8
+ 9
+ 18
+ 19
+ 22
+ 23
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Dotaccent" 352 782 basechar 0
+AnchorPoint: "Top" 346 762 basechar 0
+AnchorPoint: "Bottom" 145 0 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+-10 0 m 1
+ -2 32 l 1
+ 74 32 l 2
+ 93 32 103 41 108 59 c 2
+ 188 356 l 1
+ 88 356 l 1
+ 96 392 l 1
+ 198 392 l 1
+ 269 653 l 2
+ 275 672 268 680 250 680 c 2
+ 174 680 l 1
+ 182 712 l 1
+ 478 712 l 1
+ 470 680 l 1
+ 394 680 l 2
+ 376 680 365 672 360 653 c 2
+ 289 392 l 1
+ 390 392 l 1
+ 382 356 l 1
+ 280 356 l 1
+ 199 59 l 2
+ 194 41 200 32 218 32 c 2
+ 294 32 l 1
+ 286 0 l 1
+ -10 0 l 1
+EndSplineSet
+Layer: 2
+SplineSet
+-10 0 m 1,0,-1
+ -2 32 l 1,1,-1
+ 74 32 l 2,2,3
+ 100 32 100 32 108 59 c 2,4,-1
+ 188 356 l 1,5,-1
+ 88 356 l 1,6,-1
+ 96 392 l 1,7,-1
+ 198 392 l 1,8,-1
+ 269 653 l 2,9,10
+ 278 680 278 680 250 680 c 2,11,-1
+ 174 680 l 1,12,-1
+ 182 712 l 1,13,-1
+ 478 712 l 1,14,-1
+ 470 680 l 1,15,-1
+ 394 680 l 2,16,17
+ 367 680 367 680 360 653 c 2,18,-1
+ 289 392 l 1,19,-1
+ 390 392 l 1,20,-1
+ 382 356 l 1,21,-1
+ 280 356 l 1,22,-1
+ 199 59 l 2,23,24
+ 192 32 192 32 218 32 c 2,25,-1
+ 294 32 l 1,26,-1
+ 286 0 l 1,27,-1
+ -10 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni0268.dotless
+Encoding: 65658 -1 1850
+Width: 334
+Flags: MW
+HStem: -12 30<152.687 204.819> 214 28<66 129 222 286> 426 30<142.051 193.962>
+VStem: 97 52<18.2187 122.144> 197 52<322.374 425.807>
+DStem2: 117 186 165 109 0.394663 0.918826<-100.35 30.4631 60.9262 62.4308 92.8939 210.705>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 23
+ 3
+ 0
+CALL
+PUSHB_2
+ 17
+ 7
+MIRP[min,black]
+PUSHB_3
+ 3
+ 4
+ 0
+CALL
+PUSHB_2
+ 37
+ 7
+MIRP[min,black]
+PUSHB_5
+ 31
+ 30
+ 23
+ 3
+ 13
+CALL
+PUSHB_2
+ 12
+ 29
+SHP[rp1]
+SHP[rp1]
+PUSHB_2
+ 31
+ 9
+MIRP[min,black]
+PUSHB_2
+ 9
+ 32
+SHP[rp2]
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 42
+MDAP[rnd]
+PUSHB_1
+ 26
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 15
+ 11
+ 0
+ 37
+ 4
+CALL
+PUSHB_1
+ 15
+SRP0
+PUSHB_2
+ 35
+ 1
+CALL
+PUSHB_5
+ 6
+ 11
+ 0
+ 37
+ 4
+CALL
+PUSHB_2
+ 43
+ 1
+CALL
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 15054
+ -6466
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 28
+SRP0
+PUSHB_1
+ 33
+MDRP[grey]
+PUSHB_2
+ 13
+ 28
+MIRP[rp0,min,black]
+PUSHB_1
+ 8
+MDRP[grey]
+SFVTCA[x-axis]
+PUSHB_4
+ 9
+ 13
+ 8
+ 19
+CALL
+PUSHB_4
+ 12
+ 13
+ 8
+ 19
+CALL
+PUSHB_1
+ 28
+SRP0
+PUSHB_4
+ 29
+ 28
+ 33
+ 19
+CALL
+PUSHB_4
+ 32
+ 28
+ 33
+ 19
+CALL
+SPVTCA[x-axis]
+SVTCA[y-axis]
+PUSHB_4
+ 8
+ 13
+ 28
+ 33
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_8
+ 8
+ 9
+ 12
+ 13
+ 28
+ 29
+ 32
+ 33
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+PUSHB_2
+ 35
+ 15
+SRP1
+SRP2
+PUSHB_4
+ 3
+ 17
+ 23
+ 37
+DEPTH
+SLOOP
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 30
+ 17
+SRP1
+SRP2
+PUSHB_3
+ 19
+ 20
+ 26
+IP
+IP
+IP
+PUSHB_2
+ 37
+ 31
+SRP1
+SRP2
+PUSHB_3
+ 0
+ 6
+ 41
+IP
+IP
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Dotaccent" 230 528 basechar 0
+AnchorPoint: "Bottom" 158 0 basechar 0
+AnchorPoint: "Top" 224 508 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+36 268 m 1
+ 68 362 121 456 186 456 c 0
+ 219 456 249 424 249 360 c 0
+ 249 331 239 281 229 258 c 2
+ 222 242 l 1
+ 293 242 l 1
+ 286 214 l 1
+ 210 214 l 1
+ 165 109 l 2
+ 160 98 149 68 149 50 c 0
+ 149 33 156 18 172 18 c 0
+ 224 18 271 130 290 182 c 1
+ 310 176 l 1
+ 278 82 226 -12 161 -12 c 0
+ 128 -12 97 16 97 84 c 0
+ 97 113 106 160 117 186 c 2
+ 129 214 l 1
+ 59 214 l 1
+ 66 242 l 1
+ 141 242 l 1
+ 181 335 l 2
+ 186 346 197 376 197 394 c 0
+ 197 411 191 426 175 426 c 0
+ 123 426 75 314 56 262 c 1
+ 36 268 l 1
+EndSplineSet
+Layer: 2
+SplineSet
+36 268 m 1,0,1
+ 63 348 63 348 102 402 c 128,-1,2
+ 141 456 141 456 186 456 c 0,3,4
+ 212 456 212 456 230.5 431 c 128,-1,5
+ 249 406 249 406 249 360 c 0,6,7
+ 249 304 249 304 229 258 c 2,8,-1
+ 222 242 l 1,9,-1
+ 293 242 l 1,10,-1
+ 286 214 l 1,11,-1
+ 210 214 l 1,12,-1
+ 165 109 l 2,13,14
+ 149 74 149 74 149 50 c 0,15,16
+ 149 18 149 18 172 18 c 0,17,18
+ 230 18 230 18 290 182 c 1,19,-1
+ 310 176 l 1,20,21
+ 283 95 283 95 244.5 41.5 c 128,-1,22
+ 206 -12 206 -12 161 -12 c 0,23,24
+ 134 -12 134 -12 115.5 12 c 128,-1,25
+ 97 36 97 36 97 84 c 0,26,27
+ 97 139 97 139 117 186 c 2,28,-1
+ 129 214 l 1,29,-1
+ 59 214 l 1,30,-1
+ 66 242 l 1,31,-1
+ 141 242 l 1,32,-1
+ 181 335 l 2,33,34
+ 197 370 197 370 197 394 c 0,35,36
+ 197 426 197 426 175 426 c 0,37,38
+ 151 426 151 426 125 393.5 c 128,-1,39
+ 99 361 99 361 84 329 c 128,-1,40
+ 69 297 69 297 56 262 c 1,41,-1
+ 36 268 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uni0268
+Encoding: 616 616 1851
+Width: 334
+Flags: W
+HStem: -12 30<152.687 204.819> 214 28<66 129 222 286> 426 30<142.051 193.962> 586 104<225.236 310.764>
+VStem: 97 52<18.2187 122.144> 197 52<322.374 425.807> 216 104<595.236 680.764>
+DStem2: 117 186 165 109 0.394663 0.918826<-100.35 30.4631 60.9262 62.4308 92.8939 210.705>
+AnchorPoint: "Bottom" 158 0 basechar 0
+LayerCount: 3
+Fore
+Refer: 409 729 N 1 0 0 1 -64 42 2
+Refer: 1850 -1 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 409 729 N 1 0 0 1 -64 42 2
+Refer: 1850 -1 N 1 0 0 1 0 0 3
+Substitution2: "Dotless Variants-1" uni0268.dotless
 Colour: ffff
 EndChar
 EndChars
