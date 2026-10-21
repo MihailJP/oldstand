@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300584531
-ModificationTime: 1792508372
+ModificationTime: 1792590436
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -161,7 +161,7 @@ KernClass2: 20 26 "'kern' Horizontal Kerning for Greek"
  36 omega omegatonos uni1FF3 uni1FF4 psi
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -144 {} 0 {} 0 {} 0 {} 0 {} -48 {} 0 {} -48 {} 0 {} -88 {} -72 {} -80 {} 0 {} -96 {} 0 {} -48 {} 0 {} -64 {} -24 {} 0 {} -48 {} -23 {} -60 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} -40 {} 0 {} -44 {} 0 {} -18 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -68 {} 0 {} -84 {} -42 {} 0 {} -84 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} 0 {} -52 {} 0 {} -60 {} 0 {} 0 {} -52 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -44 {} 0 {} -48 {} -32 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} -44 {} 0 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -144 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -48 {} 0 {} -88 {} -72 {} -80 {} 0 {} -96 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} -40 {} 0 {} -60 {} 0 {} -44 {} 0 {} -32 {} 0 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -94 {} 0 {} -72 {} -76 {} 0 {} -72 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} 0 {} -80 {} -36 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -52 {} 0 {} 0 {} -48 {} 0 {} -56 {} 0 {} 0 {} -48 {} 0 {} 0 {} -52 {} 0 {} -88 {} -44 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} -56 {} 0 {} -64 {} 0 {} 0 {} -56 {} 0 {} 0 {} -48 {} 0 {} -72 {} -44 {} 0 {} -72 {} 0 {} -62 {} 0 {} -24 {} 0 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -122 {} 0 {} -132 {} 0 {} 0 {} -132 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} 0 {} 0 {} -60 {} 0 {} -68 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -180 {} 0 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -236 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -188 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -204 {} 0 {} 0 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 KernClass2: 25 25 "'kern' Horizontal Kerning for Latin"
- 212 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni01CD Aringacute uni0200 uni0202 uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6
+ 228 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni01CD Aringacute uni0200 uni0202 uni0245 uni028C uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6
  33 B uni0243 uni1E02 uni1E04 uni1E06
  55 C Ccedilla Cacute Ccircumflex Cdotaccent Ccaron uni1E08
  59 D Eth Dcaron Dcroat uni1E0A uni1E0C uni1E0E uni1E10 uni1E12
@@ -186,7 +186,7 @@ KernClass2: 25 25 "'kern' Horizontal Kerning for Latin"
  65 y yacute ydieresis uni0233 uni1E8F uni1E99 ygrave uni1EF7 uni1EF9
  22 quoteleft quotedblleft
  21 comma period ellipsis
- 212 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni01CD Aringacute uni0200 uni0202 uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6
+ 228 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni01CD Aringacute uni0200 uni0202 uni0245 uni028C uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6
  131 C G Ccedilla Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent Gcommaaccent uni018E Gcaron uni01F4 uni1E08 uni1E20
  13 J Jcircumflex
  252 O Q Ograve Oacute Ocircumflex Otilde Odieresis Omacron Obreve Ohungarumlaut OE Ohorn uni01D1 Oogonek uni01EC uni020C uni020E uni1E4C uni1E4E uni1E50 uni1E52 uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2
@@ -1924,7 +1924,7 @@ Grid
  340 -46 l 1049
 EndSplineSet
 AnchorClass2: "Dotaccent" "'mark' Positioning for Dotaccent" "Enclosing" "'mark' Positioning for Enclosing Figures" "Top" "'mark' Positioning for Top Accents" "Bottom" "'mark' Positioning for Bottom Accents" "GreekTop" "'mark' Positioning for Greek Accents" "GreekTopSunken" "'mark' Lower Positioning for Greek Accents" "GreekCap" "'mark' Positioning for Greek Capital Accents" "TopMark" "'mkmk' Standard Mark to Mark Positioning" "GreekTopMark" "'mkmk' Greek Mark to Mark Positioning" "GreekTopMarkSunken" "'mkmk' Greek Lower Mark to Mark Positioning"
-BeginChars: 65683 1948
+BeginChars: 65683 1950
 
 StartChar: space
 Encoding: 32 32 0
@@ -216698,6 +216698,41 @@ SplineSet
  -21 -238 -21 -238 -51.5 -212.5 c 128,-1,50
  -82 -187 -82 -187 -82 -144 c 0,0,1
 EndSplineSet
+EndChar
+
+StartChar: uni0245
+Encoding: 581 581 1948
+Width: 764
+VWidth: 1039
+Flags: W
+HStem: 0 32<46 130.563 228.407 320 432 530.344 643.17 742> 692 20G<374.916 415.824>
+DStem2: 167 105 230 145 0.333876 0.942617<-1.73546 485.297> 409 712 367 549 0.322916 -0.946428<140.705 659.683>
+AnchorPoint: "Bottom" 396 0 basechar 0
+AnchorPoint: "Dotaccent" 396 782 basechar 0
+AnchorPoint: "Top" 396 762 basechar 0
+LayerCount: 3
+Fore
+Refer: 504 923 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 504 923 N 1 0 0 1 0 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni028C
+Encoding: 652 652 1949
+Width: 530
+Flags: W
+HStem: 0 24<24 82.924 155.172 206 296 351.816 452.529 512> 447 21G<241.143 274.376>
+DStem2: 238 351 248 468 0.324324 0.945946<-301.902 0> 238 351 266 468 0.386277 -0.922383<0 324.8>
+AnchorPoint: "Dotaccent" 268 528 basechar 0
+AnchorPoint: "Bottom" 268 0 basechar 0
+AnchorPoint: "Top" 268 508 basechar 0
+LayerCount: 3
+Fore
+Refer: 86 118 N -1 0 0 -1 530 456 3
+Layer: 2
+Refer: 86 118 N -1 0 0 -1 530 456 2
+Colour: ffff
 EndChar
 EndChars
 EndSplineFont
