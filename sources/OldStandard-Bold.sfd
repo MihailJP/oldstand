@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300650174
-ModificationTime: 1792852245
+ModificationTime: 1792854858
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -54,34 +54,35 @@ OS2StrikeYSize: 40
 OS2StrikeYPos: 212
 OS2FamilyClass: 768
 OS2Vendor: 'PfEd'
-Lookup: 3 0 0 "'aalt' Access All Alternates in Latin lookup 0" { "'aalt' Access All Alternates in Latin lookup 0 subtable"  } ['aalt' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' Standard Composition Rules" { "'ccmp' Standard Composition Rules-1"  } ['ccmp' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 5 0 0 "'ccmp' Decompose Accented" { "'ccmp' Decompose Accented"  } ['ccmp' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 5 0 0 "'ccmp' Capital and Composite Accents" { "'ccmp' Capital and Composite Accents-1"  } ['ccmp' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 5 0 0 "'ccmp' Greek Capital and Composite Accents" { "'ccmp' Greek Capital and Composite Accents-1"  } ['ccmp' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 0 "'ccmp' Cyrillic Small Yat with Acute" { "'ccmp' Cyrillic Small Yat with Acute-1"  } ['ccmp' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'locl'&'ss01' Localized Forms for Romanian" { "'locl' Localized Forms for Romanian-1"  } ['locl' ('latn' <'MOL ' 'ROM ' > ) 'ss01' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 3 0 0 "'aalt' Access All Alternates in Latin lookup 0" { "'aalt' Access All Alternates in Latin lookup 0 subtable"  } ['aalt' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Standard Composition Rules" { "'ccmp' Standard Composition Rules-1"  } ['ccmp' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 5 0 0 "'ccmp' Decompose Accented" { "'ccmp' Decompose Accented"  } ['ccmp' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 5 0 0 "'ccmp' Capital and Composite Accents" { "'ccmp' Capital and Composite Accents-1"  } ['ccmp' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 5 0 0 "'ccmp' Greek Capital and Composite Accents" { "'ccmp' Greek Capital and Composite Accents-1"  } ['ccmp' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Cyrillic Small Yat with Acute" { "'ccmp' Cyrillic Small Yat with Acute-1"  } ['ccmp' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl'&'ss01' Localized Forms for Romanian" { "'locl' Localized Forms for Romanian-1"  } ['locl' ('latn' <'MOL ' 'ROM ' > ) 'ss01' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms for Greek" { "'locl' Localized Forms for Greek-l"  } ['locl' ('grek' <'dflt' > ) ]
-Lookup: 1 0 0 "'locl'&'ss14' Localized Forms for Old Slavonic" { "'locl' Localized Forms for Old Slavonic-1" ("csl") } ['locl' ('cyrl' <'CSL ' > ) 'ss14' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl'&'ss14' Localized Forms for Old Slavonic" { "'locl' Localized Forms for Old Slavonic-1" ("csl") } ['locl' ('cyrl' <'CSL ' > ) 'ss14' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms for Bulgarian" { "'locl' Localized Forms for Bulgarian-1" ("bgr") } ['locl' ('cyrl' <'BGR ' > ) ]
-Lookup: 5 0 0 "'ccmp' Low Variants for Accents" { "'ccmp' Low Variants for Accents-1"  } ['ccmp' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'ss02' Insular Forms for Old English" { "'ss02' Insular Forms for Old English-1"  } ['ss02' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'ss05' Greek Closed Theta" { "'ss05' Greek Closed Theta-1"  } ['ss05' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 8 0 "'ss06' Medial/Final Forms for Greek" { "'ss06' Medial/Final Forms for Greek-1"  } ['ss06' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'ss12' Optional Serbian Variant Forms" { "'ss12' Optional Serbian Variant Forms-1"  } ['locl' ('cyrl' <'MKD ' 'SRB ' > ) 'ss12' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'ss15' Old Cyrillic I and N" { "'ss15' Old Cyrillic I and N-1" ("ss15") } ['ss15' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'mgrk' Mathematical Greek" { "'mgrk' Mathematical Greek-1"  } ['mgrk' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'salt' Stylistic Alternatives" { "'salt' Stylistic Alternatives-1"  } ['salt' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'subs' Subscript Forms" { "'subs' Subscript Forms-1" ("inferior") } ['subs' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'sups' Superscript Forms" { "'sups' Superscript Forms-1" ("superior") } ['frac' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) 'sups' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'case' Case-Sensitive Forms for Greek" { "'case' Case-Sensitive Forms for Greek-1"  } ['case' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 1 "'rlig' Standard Ligatures with ZWJ" { "'rlig' Standard Ligatures with ZWJ"  } ['rlig' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures for Latin" { "'liga' Standard Ligatures for Latin-1"  } ['liga' ('latn' <'AZE ' 'CRT ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 5 0 0 "'locl' Catalan punt volat" { "'locl' Catalan punt volat-1"  } ['locl' ('latn' <'CAT ' > ) ]
+Lookup: 5 0 0 "'ccmp' Low Variants for Accents" { "'ccmp' Low Variants for Accents-1"  } ['ccmp' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss02' Insular Forms for Old English" { "'ss02' Insular Forms for Old English-1"  } ['ss02' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss05' Greek Closed Theta" { "'ss05' Greek Closed Theta-1"  } ['ss05' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 6 8 0 "'ss06' Medial/Final Forms for Greek" { "'ss06' Medial/Final Forms for Greek-1"  } ['ss06' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss12' Optional Serbian Variant Forms" { "'ss12' Optional Serbian Variant Forms-1"  } ['locl' ('cyrl' <'MKD ' 'SRB ' > ) 'ss12' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss15' Old Cyrillic I and N" { "'ss15' Old Cyrillic I and N-1" ("ss15") } ['ss15' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'mgrk' Mathematical Greek" { "'mgrk' Mathematical Greek-1"  } ['mgrk' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'salt' Stylistic Alternatives" { "'salt' Stylistic Alternatives-1"  } ['salt' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'subs' Subscript Forms" { "'subs' Subscript Forms-1" ("inferior") } ['subs' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sups' Superscript Forms" { "'sups' Superscript Forms-1" ("superior") } ['frac' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) 'sups' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'case' Case-Sensitive Forms for Greek" { "'case' Case-Sensitive Forms for Greek-1"  } ['case' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'rlig' Standard Ligatures with ZWJ" { "'rlig' Standard Ligatures with ZWJ"  } ['rlig' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures for Latin" { "'liga' Standard Ligatures for Latin-1"  } ['liga' ('latn' <'AZE ' 'CAT ' 'CRT ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Standard Ligatures for Latin except Turkish" { "'liga' Standard Ligatures for Latin except Turkish-1"  } ['liga' ('latn' <'MOL ' 'NLD ' 'ROM ' 'dflt' > ) ]
 Lookup: 4 0 0 "'liga' Standard Ligatures for Nederlands" { "'liga' Standard Ligatures for Nederlands-1"  } ['liga' ('latn' <'NLD ' > ) ]
 Lookup: 4 0 0 "'dlig' Discretionary Ligatures for German" { "'dlig' Discretionary Ligatures for German-1"  } ['dlig' ('latn' <'DEU ' > ) ]
-Lookup: 1 0 0 "'frac' Diagonal Fractions" { "'frac' Diagonal Fractions-1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "'frac' Diagonal Fractions Contextual" { "'frac' Diagonal Fractions Contextual-1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'frac' Diagonal Fractions" { "'frac' Diagonal Fractions-1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 6 0 0 "'frac' Diagonal Fractions Contextual" { "'frac' Diagonal Fractions Contextual-1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "Dotless Variants" { "Dotless Variants-1"  } []
 Lookup: 2 0 0 "Decompose Accented" { "Decompose Accented-1"  } []
 Lookup: 1 0 0 "Low Variants for Accents" { "Low Variants for Accents-1" ("low") } []
@@ -100,11 +101,12 @@ Lookup: 1 0 0 "Medial/Final forms for Greek" { "Medial/Final Forms for Greek-1" 
 Lookup: 1 0 0 "Cyrillic Breve" { "Cyrillic Breve-1"  } []
 Lookup: 1 0 0 "Cyrillic Capital Breve" { "Cyrillic Capital Breve-1"  } []
 Lookup: 1 0 0 "Superscripts to Denominators" { "Superscripts to Denominators-1" ("dnom") } []
-Lookup: 263 0 0 "'RQD ' Enclosed Cyrillic Letters" { "'RQD ' Enclosed Cyrillic Letters-1"  } [' RQD' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 263 0 0 "'RQD ' Greek Caps after Accents Positioning" { "'RQD ' Greek Caps after Accents Positioning-1"  } [' RQD' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning" { "'mark' Positioning for Dotaccent"  "'mark' Positioning for Top Accents"  "'mark' Positioning for Bottom Accents"  "'mark' Positioning for Enclosing Figures"  "'mark' Positioning for Greek Accents"  "'mark' Lower Positioning for Greek Accents"  "'mark' Positioning for Greek Capital Accents"  } ['mark' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 262 0 0 "'mkmk' Mark to Mark Positioning" { "'mkmk' Standard Mark to Mark Positioning"  "'mkmk' Greek Mark to Mark Positioning"  "'mkmk' Greek Lower Mark to Mark Positioning"  } ['mkmk' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 258 8 0 "'kern' Horizontal Kerning" { "'kern' Horizontal Kerning for Latin" [150,0,0] "'kern' Horizontal Kerning for Greek"  "'kern' Horizontal Kerning for Cyrillic" [150,0,0] } ['kern' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 0 "Punt volat composition" { "Punt volat composition-1"  } []
+Lookup: 263 0 0 "'RQD ' Enclosed Cyrillic Letters" { "'RQD ' Enclosed Cyrillic Letters-1"  } [' RQD' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 263 0 0 "'RQD ' Greek Caps after Accents Positioning" { "'RQD ' Greek Caps after Accents Positioning-1"  } [' RQD' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning" { "'mark' Positioning for Dotaccent"  "'mark' Positioning for Top Accents"  "'mark' Positioning for Bottom Accents"  "'mark' Positioning for Enclosing Figures"  "'mark' Positioning for Greek Accents"  "'mark' Lower Positioning for Greek Accents"  "'mark' Positioning for Greek Capital Accents"  } ['mark' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 262 0 0 "'mkmk' Mark to Mark Positioning" { "'mkmk' Standard Mark to Mark Positioning"  "'mkmk' Greek Mark to Mark Positioning"  "'mkmk' Greek Lower Mark to Mark Positioning"  } ['mkmk' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Horizontal Kerning" { "'kern' Horizontal Kerning for Latin" [150,0,0] "'kern' Horizontal Kerning for Greek"  "'kern' Horizontal Kerning for Cyrillic" [150,0,0] } ['kern' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 257 0 0 "Greek Caps after Oxia" { "Greek Caps after Oxia-1"  } []
 Lookup: 257 0 0 "Greek Caps after Varia" { "Greek Caps after Varia-1"  } []
 Lookup: 257 0 0 "Greek Caps after Breathings" { "Greek Caps after Breathings-1"  } []
@@ -260,6 +262,18 @@ KernClass2: 22 25 "'kern' Horizontal Kerning for Cyrillic"
  23 afii10087 afii10072.bgr
  24 quoteright quotedblright
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} -12 {} -48 {} -48 {} -76 {} -66 {} -76 {} 0 {} -132 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -138 {} 0 {} 0 {} 0 {} -48 {} -32 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -74 {} -80 {} -80 {} -36 {} 0 {} -52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} -28 {} 0 {} -64 {} -44 {} 0 {} 0 {} -96 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -60 {} 0 {} -38 {} 0 {} 0 {} 0 {} -32 {} 0 {} -80 {} -38 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} -128 {} -122 {} -72 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -66 {} -44 {} 0 {} 0 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} -72 {} -88 {} -38 {} 0 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -52 {} -40 {} 0 {} -68 {} -56 {} 0 {} 0 {} -92 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -144 {} -62 {} 0 {} -88 {} -68 {} -80 {} 0 {} 0 {} -76 {} 0 {} 0 {} -128 {} -104 {} -88 {} -128 {} -128 {} -112 {} -96 {} -144 {} 0 {} -84 {} 0 {} 0 {} -48 {} 0 {} -72 {} -62 {} 0 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} -46 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} -24 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} -48 {} 0 {} 0 {} 0 {} -94 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} -60 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} -12 {} 0 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -42 {} 0 {} 0 {} 0 {} -28 {} 0 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -32 {} 0 {} 0 {} -44 {} -42 {} 0 {} 0 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -8 {} 0 {} 0 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -92 {} -56 {} 0 {} -60 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} -56 {} 0 {} -80 {} -80 {} 0 {} 0 {} -104 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -176 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -76 {} 0 {} -132 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} -138 {}
+ContextSub2: glyph "'locl' Catalan punt volat-1" 0 0 0 2
+ String: 18 L periodcentered L
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Punt volat composition"
+ String: 18 l periodcentered l
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Punt volat composition"
+EndFPST
 ChainSub2: class "'frac' Diagonal Fractions Contextual-1" 3 3 1 1
   Class: 112 uni2215.frac zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom
   Class: 129 zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior
@@ -34041,6 +34055,7 @@ Refer: 44 76 N 1 0 0 1 0 0 3
 Layer: 2
 Refer: 44 76 N 1 0 0 1 0 0 2
 Refer: 1509 61421 N 1 0 0 1 342 -416 2
+Ligature2: "Punt volat composition-1" L periodcentered
 Colour: ffff
 EndChar
 
@@ -34058,6 +34073,7 @@ Refer: 76 108 N 1 0 0 1 0 0 2
 Layer: 2
 Refer: 76 108 N 1 0 0 1 0 0 2
 Refer: 408 729 N 1 0 0 1 136 -252 2
+Ligature2: "Punt volat composition-1" l periodcentered
 Colour: ffff
 EndChar
 
