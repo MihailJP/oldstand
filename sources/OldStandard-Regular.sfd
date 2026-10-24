@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300584531
-ModificationTime: 1792848333
+ModificationTime: 1792852260
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1925,7 +1925,7 @@ Grid
  340 -46 l 1049
 EndSplineSet
 AnchorClass2: "Dotaccent" "'mark' Positioning for Dotaccent" "Enclosing" "'mark' Positioning for Enclosing Figures" "Top" "'mark' Positioning for Top Accents" "Bottom" "'mark' Positioning for Bottom Accents" "GreekTop" "'mark' Positioning for Greek Accents" "GreekTopSunken" "'mark' Lower Positioning for Greek Accents" "GreekCap" "'mark' Positioning for Greek Capital Accents" "TopMark" "'mkmk' Standard Mark to Mark Positioning" "GreekTopMark" "'mkmk' Greek Mark to Mark Positioning" "GreekTopMarkSunken" "'mkmk' Greek Lower Mark to Mark Positioning"
-BeginChars: 65684 1965
+BeginChars: 65684 1966
 
 StartChar: space
 Encoding: 32 32 0
@@ -220446,8 +220446,206 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: uni20BC
+Encoding: 8380 8380 1964
+Width: 840
+VWidth: 1039
+Flags: W
+HStem: 0 32<261 382.643 477.357 599> 552 32<329.148 384 476 530.816> 680 32<261 382.643 477.357 599>
+VStem: 58 106<0 214.604> 384 92<32.2373 552 584 679.787> 696 106<0 214.604>
+CounterMasks: 1 1c
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 29
+ 3
+ 0
+CALL
+PUSHB_2
+ 0
+ 17
+SHP[rp1]
+SHP[rp1]
+PUSHB_2
+ 30
+ 9
+MIRP[min,black]
+PUSHB_1
+ 26
+SHP[rp2]
+PUSHB_3
+ 8
+ 6
+ 0
+CALL
+PUSHB_2
+ 7
+ 9
+MIRP[min,black]
+PUSHB_1
+ 10
+SHP[rp2]
+PUSHB_5
+ 3
+ 34
+ 29
+ 8
+ 13
+CALL
+PUSHB_1
+ 23
+SHP[rp1]
+PUSHB_2
+ 3
+ 9
+MIRP[min,black]
+PUSHB_1
+ 14
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 40
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 39
+ 17
+MIRP[min,black]
+PUSHB_1
+ 39
+SRP0
+PUSHB_2
+ 33
+ 1
+CALL
+PUSHB_1
+ 3
+SHP[rp2]
+PUSHB_2
+ 24
+ 16
+MIRP[min,black]
+PUSHB_1
+ 13
+SHP[rp2]
+PUSHB_3
+ 24
+ 33
+ 10
+CALL
+PUSHB_4
+ 64
+ 24
+ 28
+ 9
+CALL
+PUSHB_1
+ 9
+SHP[rp2]
+PUSHB_3
+ 33
+ 24
+ 10
+CALL
+PUSHB_4
+ 64
+ 33
+ 29
+ 9
+CALL
+PUSHB_1
+ 7
+SHP[rp2]
+PUSHB_1
+ 24
+SRP0
+PUSHB_2
+ 18
+ 1
+CALL
+PUSHB_2
+ 17
+ 17
+MIRP[min,black]
+PUSHB_2
+ 41
+ 1
+CALL
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+58 0 m 1
+ 58 357 206.303710938 584 384 584 c 1
+ 384 653 l 2
+ 384 672 376 680 357 680 c 2
+ 261 680 l 1
+ 261 712 l 1
+ 599 712 l 1
+ 599 680 l 1
+ 503 680 l 2
+ 484 680 476 672 476 653 c 2
+ 476 584 l 17
+ 654 584 802 357 802 0 c 1
+ 696 0 l 1
+ 696 237 634 552 476 552 c 1
+ 476 59 l 2
+ 476 41 484 32 503 32 c 2
+ 599 32 l 1
+ 599 0 l 1
+ 261 0 l 1
+ 261 32 l 1
+ 357 32 l 2
+ 376 32 384 41 384 59 c 2
+ 384 552 l 17
+ 225.875 552 164 237 164 0 c 1
+ 58 0 l 1
+EndSplineSet
+Layer: 2
+SplineSet
+58 0 m 1,0,1
+ 58 261 58 261 152.5 422.5 c 128,-1,2
+ 247 584 247 584 384 584 c 1,3,-1
+ 384 653 l 2,4,5
+ 384 680 384 680 357 680 c 2,6,-1
+ 261 680 l 1,7,-1
+ 261 712 l 1,8,-1
+ 599 712 l 1,9,-1
+ 599 680 l 1,10,-1
+ 503 680 l 2,11,12
+ 476 680 476 680 476 653 c 2,13,-1
+ 476 584 l 1,14,15
+ 613 584 613 584 707.5 422.5 c 128,-1,16
+ 802 261 802 261 802 0 c 1,17,-1
+ 696 0 l 1,18,19
+ 696 94 696 94 683.5 187 c 128,-1,20
+ 671 280 671 280 646 364 c 128,-1,21
+ 621 448 621 448 576.5 500 c 128,-1,22
+ 532 552 532 552 476 552 c 1,23,-1
+ 476 59 l 2,24,25
+ 476 32 476 32 503 32 c 2,26,-1
+ 599 32 l 1,27,-1
+ 599 0 l 1,28,-1
+ 261 0 l 1,29,-1
+ 261 32 l 1,30,-1
+ 357 32 l 2,31,32
+ 384 32 384 32 384 59 c 2,33,-1
+ 384 552 l 1,34,35
+ 328 552 328 552 283.5 500 c 128,-1,36
+ 239 448 239 448 214 364 c 128,-1,37
+ 189 280 189 280 176.5 187 c 128,-1,38
+ 164 94 164 94 164 0 c 1,39,-1
+ 58 0 l 1,0,1
+EndSplineSet
+EndChar
+
 StartChar: uni20A6
-Encoding: 8358 8358 1964
+Encoding: 8358 8358 1965
 Width: 770
 VWidth: 1039
 Flags: MW
