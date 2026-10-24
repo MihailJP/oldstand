@@ -18,13 +18,13 @@
 ZIP="zip -DrX"
 PACK_NAME=oldstandard
 DOCS="OFL.txt OFL-FAQ.txt FONTLOG.txt"
-VERSION="2.2-mod-3"
+VERSION=$(grep '^Version:' sources/OldStandard-Regular.sfd | sed -e 's/^Version: //')
 
-fontforge -script ost-generate.py
+fontforge -script scripts/ost-generate.py
 
 rm -f *.zip
 
-$ZIP $PACK_NAME-$VERSION.ttf.zip *.ttf $DOCS
-$ZIP $PACK_NAME-$VERSION.woff.zip *.woff $DOCS
-$ZIP $PACK_NAME-$VERSION.otf.zip *.otf $DOCS
-$ZIP $PACK_NAME-$VERSION.src.zip genfonts.sh ost-generate.py *metadata.xml *.sfd $DOCS
+$ZIP -j $PACK_NAME-$VERSION.ttf.zip fonts/ttf/*.ttf $DOCS
+$ZIP -j $PACK_NAME-$VERSION.woff.zip fonts/woff/*.woff $DOCS
+$ZIP -j $PACK_NAME-$VERSION.otf.zip fonts/otf/*.otf $DOCS
+$ZIP $PACK_NAME-$VERSION.src.zip genfonts.sh scripts/ost-generate.py sources/*metadata.xml sources/*.sfd $DOCS

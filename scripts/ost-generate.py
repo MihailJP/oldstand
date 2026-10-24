@@ -14,21 +14,27 @@
 #####################################################################/
 
 import fontforge
+from os.path import dirname
+from os import makedirs
 
+script_dir = dirname(__file__)
 base_name = "OldStandard"
 full_name = "Old Standard"
 styles = ("Regular", "Italic", "Bold")
 
+sources_dir = script_dir + "/../sources/"
+otf_dir = script_dir + "/../fonts/otf/"
+woff_dir = script_dir + "/../fonts/woff/"
+ttf_dir = script_dir + "/../fonts/ttf/"
+
+makedirs(otf_dir, exist_ok=True)
+makedirs(woff_dir, exist_ok=True)
+makedirs(ttf_dir, exist_ok=True)
+
 def process_font(name, fname, style):
+
     filename = name + "-" + style
-    font = fontforge.open(filename + ".sfd")
-
-    # This breaks Graphite rendering in Evince: see the page 40 in the manual
-    #font.head_optimized_for_cleartype = True
-
-    # Set encoding to mac in order to get first 256 GID's mapped as in the MacRoman
-    # codepage (otherwise we would get a defective cmap table for the Mac platform)
-    font.encoding = "mac"
+    font = fontforge.open(sources_dir + filename + ".sfd")
 
     # Add localized Fullname entries. Since we change family name for TTF output,
     # there is no reason to store them directly in the file
@@ -44,14 +50,14 @@ def process_font(name, fname, style):
             ( 20   , ( 'gridfit', 'gridfit+smoothing' ) ),
             ( 65535, ( 'antialias', 'gridfit', 'symmetric-smoothing', 'gridfit+smoothing' ) ),
         )
-    font.generate( filename + ".otf",flags=( "opentype","winkern","no-FFTM-table","no-mac-names" ),layer="Fore" )
+    font.generate( otf_dir + filename + ".otf",flags=( "opentype","winkern","no-FFTM-table","no-mac-names" ),layer="Fore" )
 
     woff_meta = base_name + "-WOFF-metadata.xml"
-    f = open( woff_meta,'r' )
+    f = open( sources_dir + woff_meta,'r' )
     lines = f.readlines()
     f.close()
     font.woffMetadata = "".join( lines )
-    font.generate( filename + ".woff",flags=( "opentype","winkern","no-FFTM-table","no-mac-names" ),layer="TTF" )
+    font.generate( woff_dir + filename + ".woff",flags=( "opentype","winkern","no-FFTM-table","no-mac-names" ),layer="TTF" )
 
     # Append the 'TT' suffix to various font names, including localized entries
     for i in range( 0,len( ttnames )):
@@ -63,7 +69,7 @@ def process_font(name, fname, style):
     font.fullname = fname + " TT " + style
     font.fontname = name + "TT-" + style
 
-    font.generate( filename + ".ttf",flags=( "opentype","winkern","no-FFTM-table","no-mac-names","dummy-dsig" ),layer="TTF" )
+    font.generate(ttf_dir + filename + ".ttf",flags=( "opentype","winkern","no-FFTM-table","no-mac-names","dummy-dsig" ),layer="TTF" )
 
     font.close()
 
