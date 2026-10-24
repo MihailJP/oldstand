@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300584531
-ModificationTime: 1792834152
+ModificationTime: 1792841612
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -178,12 +178,12 @@ KernClass2: 25 26 "'kern' Horizontal Kerning for Latin"
  213 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Uhorn uni01D3 uni0214 uni0216 uni1E72 uni1E74 uni1E76 uni1E78 uni1E7A uni1EE4 uni1EE6 uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0
  71 V W Wcircumflex uni1E7C uni1E7E Wgrave Wacute Wdieresis uni1E86 uni1E88
  17 X uni1E8A uni1E8C
- 65 Y Yacute Ydieresis uni0232 uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8
+ 85 Y Yacute Ycircumflex Ydieresis uni01B3 uni0232 uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8
  212 a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek uni01CE aringacute uni0201 uni0203 uni1E01 uni1EA1 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7
  275 b o p ograve oacute ocircumflex otilde odieresis thorn omacron obreve ohungarumlaut uni01D2 uni01DD oogonek uni01ED uni020D uni020F uni0253 uni0259 uni1E03 uni1E05 uni1E07 uni1E4D uni1E4F uni1E51 uni1E53 uni1E55 uni1E57 uni1ECD uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9
  79 v w wcircumflex uni1E7D uni1E7F wgrave wacute wdieresis uni1E87 uni1E89 uni1E98
  17 x uni1E8B uni1E8D
- 65 y yacute ydieresis uni0233 uni1E8F uni1E99 ygrave uni1EF7 uni1EF9
+ 85 y yacute ydieresis ycircumflex uni01B4 uni0233 uni1E8F uni1E99 ygrave uni1EF7 uni1EF9
  22 quoteleft quotedblleft
  21 comma period ellipsis
  228 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni01CD Aringacute uni0200 uni0202 uni0245 uni028C uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6
@@ -194,7 +194,7 @@ KernClass2: 25 26 "'kern' Horizontal Kerning for Latin"
  213 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Uhorn uni01D3 uni0214 uni0216 uni1E72 uni1E74 uni1E76 uni1E78 uni1E7A uni1EE4 uni1EE6 uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0
  71 V W Wcircumflex uni1E7C uni1E7E Wgrave Wacute Wdieresis uni1E86 uni1E88
  17 X uni1E8A uni1E8C
- 65 Y Yacute Ydieresis uni0232 uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8
+ 73 Y Yacute Ydieresis uni01B3 uni0232 uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8
  18 AE uni01E2 AEacute
  15 uni0181 uni018A
  59 a aacute ae aogonek uni01E3 aeacute uni1E01 uni1E9A uni1EA1
@@ -208,7 +208,7 @@ KernClass2: 25 26 "'kern' Horizontal Kerning for Latin"
  17 v uni1E7D uni1E7F
  53 w wcircumflex wgrave wacute wdieresis uni1E87 uni1E89
  9 x uni1E8B
- 24 y yacute uni1E8F uni1EF5
+ 32 y yacute uni01B4 uni1E8F uni1EF5
  24 quoteright quotedblright
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -48 {} 0 {} -48 {} -88 {} -80 {} -164 {} 0 {} -120 {} 0 {} -123 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} -64 {} 0 {} -44 {} -144 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} -22 {} -32 {} 0 {} -40 {} -48 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} -44 {} -44 {} 0 {} -48 {} -88 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -88 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -148 {} 0 {} -64 {} -48 {} -72 {} 0 {} -72 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -94 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -16 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} -56 {} 0 {} -56 {} 0 {} -123 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} -28 {} -80 {} -32 {} -64 {} -80 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -94 {} -72 {} 0 {} -128 {} 0 {} 0 {} -22 {} 0 {} 0 {} 0 {} -142 {} 0 {} -44 {} -28 {} -52 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} -44 {} 0 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} -80 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -104 {} 0 {} -52 {} -36 {} -68 {} 0 {} -44 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} -28 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} -122 {} 0 {} -48 {} 0 {} -48 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -152 {} -144 {} 0 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} -152 {} 0 {} -80 {} -56 {} -96 {} 0 {} -96 {} -44 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -88 {} -112 {} 0 {} 0 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} -120 {} 0 {} -64 {} -44 {} -72 {} 0 {} -72 {} -64 {} 0 {} -32 {} -32 {} -24 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -123 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -32 {} -24 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -123 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -42 {} -16 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -32 {} 0 {} -48 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -32 {} 0 {} -48 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -180 {} 0 {} -102 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 KernClass2: 32 32 "'kern' Horizontal Kerning for Cyrillic"
@@ -1925,7 +1925,7 @@ Grid
  340 -46 l 1049
 EndSplineSet
 AnchorClass2: "Dotaccent" "'mark' Positioning for Dotaccent" "Enclosing" "'mark' Positioning for Enclosing Figures" "Top" "'mark' Positioning for Top Accents" "Bottom" "'mark' Positioning for Bottom Accents" "GreekTop" "'mark' Positioning for Greek Accents" "GreekTopSunken" "'mark' Lower Positioning for Greek Accents" "GreekCap" "'mark' Positioning for Greek Capital Accents" "TopMark" "'mkmk' Standard Mark to Mark Positioning" "GreekTopMark" "'mkmk' Greek Mark to Mark Positioning" "GreekTopMarkSunken" "'mkmk' Greek Lower Mark to Mark Positioning"
-BeginChars: 65684 1959
+BeginChars: 65684 1961
 
 StartChar: space
 Encoding: 32 32 0
@@ -218705,6 +218705,586 @@ SplineSet
  228 24 l 1,57,-1
  228 0 l 1,58,-1
  28 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni01B3
+Encoding: 435 435 1959
+Width: 728
+VWidth: 1039
+Flags: MW
+HStem: 0 32<224 345.517 440.483 562> 680 32<42 132.662 259.343 352> 688 32<627.298 709.616>
+VStem: 347 92<32.323 318> 724 78<596.82 678.656>
+DStem2: 262 633 153 636 0.520798 -0.85368<-21.143 310.219> 420 366 439 335 0.465393 0.885104<0 376.514>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 32
+ 3
+ 0
+CALL
+PUSHB_2
+ 33
+ 9
+MIRP[min,black]
+PUSHB_1
+ 29
+SHP[rp2]
+PUSHB_3
+ 1
+ 6
+ 0
+CALL
+PUSHB_2
+ 0
+ 9
+MIRP[min,black]
+PUSHB_1
+ 3
+SHP[rp2]
+PUSHB_3
+ 13
+ 6
+ 0
+CALL
+PUSHB_2
+ 23
+ 9
+MIRP[min,black]
+PUSHB_3
+ 23
+ 13
+ 10
+CALL
+PUSHB_4
+ 0
+ 23
+ 19
+ 9
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 42
+MDAP[rnd]
+PUSHB_1
+ 37
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 26
+ 16
+MIRP[min,black]
+PUSHB_3
+ 26
+ 37
+ 10
+CALL
+PUSHB_4
+ 64
+ 26
+ 31
+ 9
+CALL
+PUSHB_3
+ 37
+ 26
+ 10
+CALL
+PUSHB_4
+ 64
+ 37
+ 32
+ 9
+CALL
+PUSHB_1
+ 26
+SRP0
+PUSHB_2
+ 21
+ 1
+CALL
+PUSHB_2
+ 16
+ 12
+MIRP[min,black]
+PUSHB_2
+ 43
+ 1
+CALL
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ -13987
+ -8533
+ 21
+CALL
+SPVFS
+SFVTCA[y-axis]
+PUSHB_1
+ 37
+MDAP[no-rnd]
+SFVTPV
+PUSHB_1
+ 38
+MDRP[grey]
+PUSHB_2
+ 10
+ 16
+MIRP[rp0,min,black]
+PUSHB_1
+ 9
+MDRP[grey]
+PUSHW_3
+ 14502
+ -7625
+ 21
+CALL
+SPVFS
+SFVTCA[y-axis]
+PUSHB_1
+ 26
+MDAP[no-rnd]
+SFVTPV
+PUSHB_1
+ 25
+MDRP[grey]
+PUSHB_2
+ 9
+ 10
+SFVTL[parallel]
+PUSHB_2
+ 10
+ 9
+MIRP[rp0,min,black]
+SFVTPV
+PUSHB_1
+ 11
+MDRP[grey]
+SVTCA[y-axis]
+PUSHB_7
+ 9
+ 10
+ 11
+ 25
+ 26
+ 37
+ 38
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_5
+ 9
+ 10
+ 11
+ 25
+ 38
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 26
+ 37
+SRP1
+SRP2
+PUSHB_2
+ 3
+ 2
+IP
+IP
+PUSHB_1
+ 21
+SRP1
+PUSHB_1
+ 13
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Dotaccent" 392 782 basechar 0
+AnchorPoint: "Bottom" 392 0 basechar 0
+AnchorPoint: "Top" 392 762 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+42 680 m 1xd8
+ 42 712 l 1
+ 352 712 l 1
+ 352 680 l 1
+ 292 680 l 2xd8
+ 272 680 257 669 257 655 c 0
+ 257 649 257 640 262 633 c 2
+ 420 366 l 1
+ 567 648 l 2
+ 589 692 634 720 696 720 c 0
+ 756 720 802 681 802 635 c 0
+ 802 609 785 592 764 592 c 0
+ 737 592 728 614 724 640 c 0
+ 718 670 701 688 677 688 c 0xb8
+ 651 688 619 675 602 645 c 2
+ 439 335 l 1
+ 439 59 l 2
+ 439 41 448 32 466 32 c 2
+ 562 32 l 1
+ 562 0 l 1
+ 224 0 l 1
+ 224 32 l 1
+ 320 32 l 2
+ 338 32 347 41 347 59 c 2
+ 347 318 l 1
+ 153 636 l 2
+ 133 669 121 680 94 680 c 2
+ 42 680 l 1xd8
+EndSplineSet
+Layer: 2
+SplineSet
+42 680 m 1,0,-1
+ 42 712 l 1,1,-1
+ 352 712 l 1,2,-1
+ 352 680 l 1,3,-1
+ 292 680 l 2,4,5
+ 277 680 277 680 267 673 c 128,-1,6
+ 257 666 257 666 257 655 c 0,7,8
+ 257 640 257 640 262 633 c 2,9,-1
+ 420 366 l 1,10,-1
+ 567 648 l 2,11,12
+ 603 720 603 720 696 720 c 0,13,14
+ 741 720 741 720 771.5 695 c 128,-1,15
+ 802 670 802 670 802 635 c 0,16,17
+ 802 616 802 616 791 604 c 128,-1,18
+ 780 592 780 592 764 592 c 0,19,20
+ 731 592 731 592 724 640 c 0,21,22
+ 714 688 714 688 677 688 c 0,23,24
+ 626 688 626 688 602 645 c 2,25,-1
+ 439 335 l 1,26,-1
+ 439 59 l 2,27,28
+ 439 32 439 32 466 32 c 2,29,-1
+ 562 32 l 1,30,-1
+ 562 0 l 1,31,-1
+ 224 0 l 1,32,-1
+ 224 32 l 1,33,-1
+ 320 32 l 2,34,35
+ 347 32 347 32 347 59 c 2,36,-1
+ 347 318 l 1,37,-1
+ 153 636 l 2,38,39
+ 138 662 138 662 126 671 c 128,-1,40
+ 114 680 114 680 94 680 c 2,41,-1
+ 42 680 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni01B4
+Encoding: 436 436 1960
+Width: 643
+Flags: MW
+HStem: -238 32<124.099 186.413> 432 24<18 84.8576 184.184 244> 444 24<455.275 524.715>
+VStem: 42 82<-205.7 -126.379> 544 79<353.655 433.988>
+DStem2: 186 375 110 373 0.325144 -0.945665<-32.8884 324.134> 225 -127 253 -139 0.299635 0.954054<-66.8633 91.0928 205.517 580.263>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 32
+ 1
+ 0
+CALL
+PUSHB_2
+ 49
+ 9
+MIRP[min,black]
+PUSHB_3
+ 49
+ 32
+ 10
+CALL
+PUSHB_4
+ 0
+ 49
+ 40
+ 9
+CALL
+PUSHB_3
+ 1
+ 4
+ 0
+CALL
+PUSHB_2
+ 0
+ 7
+MIRP[min,black]
+PUSHB_1
+ 3
+SHP[rp2]
+PUSHB_3
+ 14
+ 4
+ 0
+CALL
+PUSHB_2
+ 26
+ 7
+MIRP[min,black]
+PUSHB_3
+ 26
+ 14
+ 10
+CALL
+PUSHB_4
+ 0
+ 26
+ 21
+ 9
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 59
+MDAP[rnd]
+PUSHB_1
+ 36
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 47
+ 15
+MIRP[min,black]
+PUSHB_3
+ 47
+ 36
+ 10
+CALL
+PUSHB_4
+ 0
+ 47
+ 43
+ 9
+CALL
+PUSHB_1
+ 47
+SRP0
+PUSHB_2
+ 23
+ 1
+CALL
+PUSHB_2
+ 18
+ 12
+MIRP[min,black]
+PUSHB_1
+ 18
+SRP0
+PUSHB_2
+ 60
+ 1
+CALL
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ -15494
+ -5327
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 54
+SRP0
+PUSHB_1
+ 53
+MDRP[grey]
+PUSHB_2
+ 9
+ 12
+MIRP[rp0,min,black]
+PUSHB_1
+ 10
+MDRP[grey]
+PUSHW_3
+ 15631
+ -4909
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 52
+SRP0
+PUSHB_1
+ 11
+MDRP[grey]
+PUSHB_2
+ 29
+ 19
+MIRP[rp0,min,black]
+PUSHB_1
+ 28
+MDRP[grey]
+PUSHB_2
+ 9
+ 10
+SFVTL[parallel]
+PUSHB_1
+ 52
+SRP0
+PUSHB_4
+ 10
+ 52
+ 11
+ 19
+CALL
+PUSHB_4
+ 53
+ 52
+ 11
+ 19
+CALL
+SVTCA[y-axis]
+PUSHB_8
+ 9
+ 10
+ 11
+ 28
+ 29
+ 52
+ 53
+ 54
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_8
+ 9
+ 10
+ 11
+ 28
+ 29
+ 52
+ 53
+ 54
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 23
+ 47
+SRP1
+SRP2
+PUSHB_4
+ 2
+ 7
+ 14
+ 32
+DEPTH
+SLOOP
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Dotaccent" 296 528 basechar 0
+AnchorPoint: "Bottom" 388 0 basechar 0
+AnchorPoint: "Top" 296 508 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+18 432 m 1xd8
+ 18 456 l 1
+ 244 456 l 1
+ 244 432 l 1
+ 212 432 l 2xd8
+ 198 432 180 424 180 408 c 0
+ 180 402 180 391 186 375 c 2
+ 290 68 l 1
+ 374 345 l 2
+ 399 438 459 468 506 468 c 0
+ 536 468 561 464 583 450 c 0
+ 605 436 623 411 623 386 c 0
+ 623 363 611 346 590 346 c 0
+ 559 346 551 370 544 397 c 0
+ 534 437 509 444 495 444 c 0xb8
+ 452 444 428 418 416 380 c 2
+ 253 -139 l 2
+ 240 -179 202 -238 134 -238 c 0
+ 107 -238 87 -230 70 -213 c 0
+ 54 -198 42 -175 42 -150 c 0
+ 42 -132 49 -116 58 -108 c 0
+ 70 -96 82 -93 92 -93 c 0
+ 125 -93 138 -118 138 -144 c 0
+ 138 -152 134 -164 130 -172 c 0
+ 127 -177 124 -185 124 -191 c 0
+ 124 -197 127 -206 144 -206 c 0
+ 188 -206 214 -164 225 -127 c 2
+ 252 -40 l 1
+ 110 373 l 2
+ 97 409 87 432 51 432 c 2
+ 18 432 l 1xd8
+EndSplineSet
+Layer: 2
+SplineSet
+18 432 m 1,0,-1
+ 18 456 l 1,1,-1
+ 244 456 l 1,2,-1
+ 244 432 l 1,3,-1
+ 212 432 l 2,4,5
+ 200 432 200 432 190 425.5 c 128,-1,6
+ 180 419 180 419 180 408 c 0,7,8
+ 180 391 180 391 186 375 c 2,9,-1
+ 290 68 l 1,10,-1
+ 374 345 l 2,11,12
+ 391 409 391 409 428 438.5 c 128,-1,13
+ 465 468 465 468 506 468 c 0,14,15
+ 555 468 555 468 583 450 c 0,16,17
+ 623 425 623 425 623 386 c 0,18,19
+ 623 368 623 368 614 357 c 128,-1,20
+ 605 346 605 346 590 346 c 128,-1,21
+ 575 346 575 346 565.5 354 c 128,-1,22
+ 556 362 556 362 552 371 c 128,-1,23
+ 548 380 548 380 544 397 c 0,24,25
+ 532 444 532 444 495 444 c 0,26,27
+ 436 444 436 444 416 380 c 2,28,-1
+ 253 -139 l 2,29,30
+ 241 -177 241 -177 210.5 -207.5 c 128,-1,31
+ 180 -238 180 -238 134 -238 c 0,32,33
+ 95 -238 95 -238 70 -213 c 0,34,35
+ 42 -187 42 -187 42 -150 c 0,36,37
+ 42 -122 42 -122 58 -108 c 0,38,39
+ 73 -93 73 -93 92 -93 c 0,40,41
+ 115 -93 115 -93 126.5 -107.5 c 128,-1,42
+ 138 -122 138 -122 138 -144 c 0,43,44
+ 138 -156 138 -156 130 -172 c 0,45,46
+ 124 -182 124 -182 124 -191 c 0,47,48
+ 124 -206 124 -206 144 -206 c 0,49,50
+ 174 -206 174 -206 194.5 -182.5 c 128,-1,51
+ 215 -159 215 -159 225 -127 c 2,52,-1
+ 252 -40 l 1,53,-1
+ 110 373 l 2,54,55
+ 102 395 102 395 96.5 405.5 c 128,-1,56
+ 91 416 91 416 79.5 424 c 128,-1,57
+ 68 432 68 432 51 432 c 2,58,-1
+ 18 432 l 1,0,-1
 EndSplineSet
 EndChar
 EndChars

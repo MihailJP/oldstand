@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300650174
-ModificationTime: 1792835076
+ModificationTime: 1792841665
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -179,13 +179,13 @@ KernClass2: 26 26 "'kern' Horizontal Kerning for Latin"
  213 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Uhorn uni01D3 uni0214 uni0216 uni1E72 uni1E74 uni1E76 uni1E78 uni1E7A uni1EE4 uni1EE6 uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0
  71 V W Wcircumflex uni1E7C uni1E7E Wgrave Wacute Wdieresis uni1E86 uni1E88
  17 X uni1E8A uni1E8C
- 65 Y Yacute Ydieresis uni0232 uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8
+ 85 Y Yacute Ycircumflex Ydieresis uni01B3 uni0232 uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8
  212 a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek uni01CE aringacute uni0201 uni0203 uni1E01 uni1EA1 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7
  159 h m n hcircumflex hbar ncommaaccent napostrophe uni0272 uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E3F uni1E41 uni1E43 uni1E45 uni1E47 uni1E49 uni1E4B uni1E96
  275 b o p ograve oacute ocircumflex otilde odieresis thorn omacron obreve ohungarumlaut uni01D2 uni01DD oogonek uni01ED uni020D uni020F uni0253 uni0259 uni1E03 uni1E05 uni1E07 uni1E4D uni1E4F uni1E51 uni1E53 uni1E55 uni1E57 uni1ECD uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9
  79 v w wcircumflex uni1E7D uni1E7F wgrave wacute wdieresis uni1E87 uni1E89 uni1E98
  17 x uni1E8B uni1E8D
- 65 y yacute ydieresis uni0233 uni1E8F uni1E99 ygrave uni1EF7 uni1EF9
+ 85 y yacute ydieresis ycircumflex uni01B4 uni0233 uni1E8F uni1E99 ygrave uni1EF7 uni1EF9
  22 quoteleft quotedblleft
  21 comma period ellipsis
  228 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni01CD Aringacute uni0200 uni0202 uni0245 uni028C uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6
@@ -196,7 +196,7 @@ KernClass2: 26 26 "'kern' Horizontal Kerning for Latin"
  213 U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Uhorn uni01D3 uni0214 uni0216 uni1E72 uni1E74 uni1E76 uni1E78 uni1E7A uni1EE4 uni1EE6 uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0
  71 V W Wcircumflex uni1E7C uni1E7E Wgrave Wacute Wdieresis uni1E86 uni1E88
  17 X uni1E8A uni1E8C
- 65 Y Yacute Ydieresis uni0232 uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8
+ 85 Y Yacute Ycircumflex Ydieresis uni01B3 uni0232 uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8
  18 AE uni01E2 AEacute
  15 uni0181 uni018A
  59 a aacute ae aogonek uni01E3 aeacute uni1E01 uni1E9A uni1EA1
@@ -210,7 +210,7 @@ KernClass2: 26 26 "'kern' Horizontal Kerning for Latin"
  17 v uni1E7D uni1E7F
  53 w wcircumflex wgrave wacute wdieresis uni1E87 uni1E89
  9 x uni1E8B
- 24 y yacute uni1E8F uni1EF5
+ 32 y yacute uni01B4 uni1E8F uni1EF5
  24 quoteright quotedblright
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -48 {} 0 {} -48 {} -72 {} -80 {} -144 {} 0 {} -120 {} 0 {} -118 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} -84 {} -84 {} 0 {} -44 {} -138 {} 0 {} 0 {} -32 {} 0 {} 0 {} 0 {} 0 {} -28 {} -52 {} 0 {} -40 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} -36 {} -88 {} 0 {} -62 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -72 {} -88 {} 0 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -136 {} 0 {} -32 {} -32 {} -44 {} 0 {} -72 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -52 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -94 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} -16 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -32 {} -60 {} 0 {} -56 {} 0 {} -118 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -80 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} -28 {} -80 {} -80 {} -64 {} -80 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -86 {} -122 {} 0 {} -128 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} -142 {} 0 {} -44 {} -28 {} -52 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -52 {} -56 {} 0 {} -24 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -52 {} 0 {} 0 {} 0 {} 0 {} -22 {} 0 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} -88 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -104 {} 0 {} -52 {} -28 {} -64 {} 0 {} -44 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -96 {} -40 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} -122 {} 0 {} -64 {} 0 {} -68 {} 0 {} -72 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -126 {} -160 {} 0 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} -172 {} 0 {} -96 {} -52 {} -96 {} 0 {} -96 {} -64 {} 0 {} -68 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} -64 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -24 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -88 {} -136 {} 0 {} -44 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} -120 {} 0 {} -64 {} -44 {} -72 {} 0 {} -88 {} -72 {} 0 {} -76 {} -32 {} -24 {} 0 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -118 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -48 {} -24 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -118 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -42 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -118 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} -16 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -42 {} -32 {} -56 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -32 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -38 {} -32 {} -48 {} -16 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -176 {} 0 {} -102 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 KernClass2: 22 25 "'kern' Horizontal Kerning for Cyrillic"
@@ -1985,7 +1985,7 @@ Grid
  340 -46 l 1049
 EndSplineSet
 AnchorClass2: "Dotaccent" "'mark' Positioning for Dotaccent" "Enclosing" "'mark' Positioning for Enclosing Figures" "Top" "'mark' Positioning for Top Accents" "Bottom" "'mark' Positioning for Bottom Accents" "GreekTop" "'mark' Positioning for Greek Accents" "GreekTopSunken" "'mark' Lower Positioning for Greek Accents" "GreekCap" "'mark' Positioning for Greek Capital Accents" "TopMark" "'mkmk' Standard Mark to Mark Positioning" "GreekTopMark" "'mkmk' Greek Mark to Mark Positioning" "GreekTopMarkSunken" "'mkmk' Greek Lower Mark to Mark Positioning"
-BeginChars: 65684 1879
+BeginChars: 65684 1881
 
 StartChar: space
 Encoding: 32 32 0
@@ -200177,6 +200177,172 @@ SplineSet
  268 24 l 1,57,-1
  268 0 l 1,58,-1
  26 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni01B3
+Encoding: 435 435 1879
+Width: 736
+VWidth: 1039
+Flags: MW
+HStem: 0 32<222 309.438 458.562 546> 676 44<617.361 702.613> 680 32<46 122.239 307.586 360>
+VStem: 310 148<32.0402 269> 714 96<584.161 665.156>
+DStem2: 310 620 140 636 0.420312 -0.90738<-27.585 315.899> 442 333 458 278 0.378125 0.925755<0 383.997>
+AnchorPoint: "Dotaccent" 404 782 basechar 0
+AnchorPoint: "Bottom" 384 0 basechar 0
+AnchorPoint: "Top" 404 762 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+46 680 m 1xb8
+ 46 712 l 1
+ 360 712 l 1
+ 360 680 l 1
+ 332 680 l 2xb8
+ 312 680 304 662 304 648 c 0
+ 304 640 306 628 310 620 c 2
+ 442 333 l 1
+ 567 644 l 2
+ 586 690 630 720 694 720 c 0
+ 754 720 810 683 810 627 c 0
+ 810 598 789 576 764 576 c 0
+ 734 576 719 595 714 624 c 0
+ 708 656 691 676 667 676 c 0xd8
+ 641 676 615 662 603 633 c 2
+ 458 278 l 1
+ 458 56 l 2
+ 458 38 464 32 482 32 c 2
+ 546 32 l 1
+ 546 0 l 1
+ 222 0 l 1
+ 222 32 l 1
+ 286 32 l 2
+ 304 32 310 38 310 56 c 2
+ 310 269 l 1
+ 140 636 l 2
+ 124 671 108 680 81 680 c 2
+ 46 680 l 1xb8
+EndSplineSet
+Layer: 2
+SplineSet
+46 680 m 1,0,-1
+ 46 712 l 1,1,-1
+ 360 712 l 1,2,-1
+ 360 680 l 1,3,-1
+ 332 680 l 2,4,5
+ 318 680 318 680 311 670 c 128,-1,6
+ 304 660 304 660 304 648 c 0,7,8
+ 304 632 304 632 310 620 c 2,9,-1
+ 442 333 l 1,10,-1
+ 567 644 l 2,11,12
+ 598 720 598 720 694 720 c 0,13,14
+ 741 720 741 720 775.5 694 c 128,-1,15
+ 810 668 810 668 810 627 c 0,16,17
+ 810 605 810 605 796.5 590.5 c 128,-1,18
+ 783 576 783 576 764 576 c 0,19,20
+ 722 576 722 576 714 624 c 0,21,22
+ 704 676 704 676 667 676 c 0,23,24
+ 621 676 621 676 603 633 c 2,25,-1
+ 458 278 l 1,26,-1
+ 458 56 l 2,27,28
+ 458 42 458 42 463 37 c 128,-1,29
+ 468 32 468 32 482 32 c 2,30,-1
+ 546 32 l 1,31,-1
+ 546 0 l 1,32,-1
+ 222 0 l 1,33,-1
+ 222 32 l 1,34,-1
+ 286 32 l 2,35,36
+ 300 32 300 32 305 37 c 128,-1,37
+ 310 42 310 42 310 56 c 2,38,-1
+ 310 269 l 1,39,-1
+ 140 636 l 2,40,41
+ 128 661 128 661 115 670.5 c 128,-1,42
+ 102 680 102 680 81 680 c 2,43,-1
+ 46 680 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni01B4
+Encoding: 436 436 1880
+Width: 635
+Flags: MW
+HStem: -238 32<123 198.088> 450 24<12 62 207.669 257> 458 28<437.085 496.407>
+VStem: 60 96<-205.151 -125.458> 515 94<356.529 444.114>
+DStem2: 211 396 89 392 0.385565 -0.922681<-28.2712 267.615> 229 -132 260 -117 0.288169 0.95758<-63.8605 114.843 293.574 616.507>
+AnchorPoint: "Dotaccent" 270 528 basechar 0
+AnchorPoint: "Bottom" 388 0 basechar 0
+AnchorPoint: "Top" 270 508 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+12 450 m 1xd8
+ 12 474 l 1
+ 257 474 l 1
+ 257 450 l 1
+ 228 450 l 2xd8
+ 217 450 204 441 204 424 c 0
+ 204 418 206 408 211 396 c 2
+ 314 149 l 1
+ 385 389 l 2
+ 400 440 430 486 481 486 c 0
+ 546 486 609 446 609 394 c 0
+ 609 364 589 346 566 346 c 0
+ 531 346 523 374 515 404 c 0
+ 509 427 497 458 469 458 c 0xb8
+ 445 458 429 444 421 418 c 2
+ 260 -117 l 2
+ 242.584142248 -174.872570792 212 -238 151 -238 c 0
+ 95 -238 60 -200 60 -147 c 0
+ 60 -104 90 -64 134 -64 c 0
+ 167 -64 189 -87 189 -114 c 0
+ 189 -132 179 -148 170 -156 c 0
+ 163 -162 156 -170 156 -182 c 0
+ 156 -192 162 -206 179 -206 c 0
+ 205 -206 220 -161 229 -132 c 2
+ 262 -22 l 1
+ 89 392 l 2
+ 73 430 63 450 27 450 c 2
+ 12 450 l 1xd8
+EndSplineSet
+Layer: 2
+SplineSet
+12 450 m 1,0,-1
+ 12 474 l 1,1,-1
+ 257 474 l 1,2,-1
+ 257 450 l 1,3,-1
+ 228 450 l 2,4,5
+ 219 450 219 450 211.5 443 c 128,-1,6
+ 204 436 204 436 204 424 c 0,7,8
+ 204 413 204 413 211 396 c 2,9,-1
+ 314 149 l 1,10,-1
+ 385 389 l 2,11,12
+ 414 486 414 486 481 486 c 0,13,14
+ 531 486 531 486 570 459 c 128,-1,15
+ 609 432 609 432 609 394 c 0,16,17
+ 609 372 609 372 596.5 359 c 128,-1,18
+ 584 346 584 346 566 346 c 0,19,20
+ 550 346 550 346 539 355.5 c 128,-1,21
+ 528 365 528 365 524 375 c 128,-1,22
+ 520 385 520 385 515 404 c 0,23,24
+ 501 458 501 458 469 458 c 0,25,26
+ 433 458 433 458 421 418 c 2,27,-1
+ 260 -117 l 2,28,29
+ 224 -238 224 -238 151 -238 c 0,30,31
+ 110 -238 110 -238 85 -212.5 c 128,-1,32
+ 60 -187 60 -187 60 -147 c 0,33,34
+ 60 -114 60 -114 81 -89 c 128,-1,35
+ 102 -64 102 -64 134 -64 c 0,36,37
+ 158 -64 158 -64 173.5 -78.5 c 128,-1,38
+ 189 -93 189 -93 189 -114 c 0,39,40
+ 189 -139 189 -139 170 -156 c 0,41,42
+ 156 -168 156 -168 156 -182 c 0,43,44
+ 156 -206 156 -206 179 -206 c 0,45,46
+ 206 -206 206 -206 229 -132 c 2,47,-1
+ 262 -22 l 1,48,-1
+ 89 392 l 2,49,50
+ 75 425 75 425 63.5 437.5 c 128,-1,51
+ 52 450 52 450 27 450 c 2,52,-1
+ 12 450 l 1,0,-1
 EndSplineSet
 EndChar
 EndChars
