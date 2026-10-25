@@ -4,11 +4,6 @@ status = 'WARN'
 reason = 'Postponed'
 
 [[overrides]]
-code = 'missing-case-counterparts'
-status = 'WARN'
-reason = 'Postponed'
-
-[[overrides]]
 code = 'bad-subfamilyname'
 status = 'INFO'
 reason = 'False positive'
