@@ -7,8 +7,3 @@ reason = 'Postponed'
 code = 'bad-subfamilyname'
 status = 'INFO'
 reason = 'False positive'
-
-[[overrides]]
-code = 'nameid4-too-long'
-status = 'INFO'
-reason = 'False positive'
