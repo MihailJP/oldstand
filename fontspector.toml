@@ -1,9 +1,4 @@
 [[overrides]]
-code = 'transformed-components'
-status = 'WARN'
-reason = 'Postponed'
-
-[[overrides]]
 code = 'found-nested-components'
 status = 'WARN'
 reason = 'Postponed'

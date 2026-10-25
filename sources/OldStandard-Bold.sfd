@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300650174
-ModificationTime: 1792901668
+ModificationTime: 1792909585
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -180859,16 +180859,16 @@ StartChar: afii10077.bgr
 Encoding: 65671 -1 1672
 Width: 530
 Flags: W
-HStem: 0 24<30 79.069 149.207 200 267 316.331 457.16 512> 465 21G<244.8 291.277>
-DStem2: 225 325 252 486 0.338719 0.940888<-275.88 0> 225 325 284 486 0.34193 -0.939725<0 290.64>
+HStem: 0 24<30 79.0686 149.207 200 267 316.331 457.16 512> 466 20G<244.8 291.277>
+DStem2: 108 86 146 106 0.338719 0.940887<-11.3776 264.502> 284 486 225 325 0.34193 -0.939725<131.122 421.762>
 AnchorPoint: "Dotaccent" 268 528 basechar 0
 AnchorPoint: "Bottom" 268 0 basechar 0
 AnchorPoint: "Top" 268 508 basechar 0
 LayerCount: 3
 Fore
-Refer: 86 118 N -1 0 0 -1 530 474 2
+Refer: 1869 652 S 1 0 0 1 0 0 3
 Layer: 2
-Refer: 86 118 N -1 0 0 -1 530 474 2
+Refer: 1869 652 S 1 0 0 1 0 0 3
 Colour: ffff
 EndChar
 
@@ -198232,18 +198232,184 @@ EndChar
 StartChar: uni028C
 Encoding: 652 652 1869
 Width: 530
-Flags: W
-HStem: 0 24<30 79.069 149.207 200 267 316.331 457.16 512> 465 21G<244.8 291.277>
-DStem2: 225 325 252 486 0.338719 0.940888<-275.88 0> 225 325 284 486 0.34193 -0.939725<0 290.64>
+Flags: MW
+HStem: 0 24<30 79.0686 149.207 200 267 316.331 457.16 512> 466 20G<244.8 291.277>
+DStem2: 108 86 146 106 0.338719 0.940887<-11.3776 264.502> 284 486 225 325 0.34193 -0.939725<131.122 421.762>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 19
+ 3
+ 0
+CALL
+PUSHB_1
+ 1
+SHP[rp1]
+PUSHB_2
+ 20
+ 7
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 0
+ 3
+ 16
+SHP[rp2]
+SHP[rp2]
+SHP[rp2]
+PUSHB_3
+ 25
+ 4
+ 0
+CALL
+PUSHB_1
+ 24
+SHP[rp1]
+SVTCA[x-axis]
+PUSHB_1
+ 30
+MDAP[rnd]
+PUSHB_2
+ 31
+ 1
+CALL
+PUSHB_1
+ 54
+SMD
+PUSHW_2
+ 15415
+ -5550
+SPVFS
+PUSHB_1
+ 24
+MDAP[no-rnd]
+SFVTPV
+PUSHB_1
+ 23
+MDRP[grey]
+PUSHB_2
+ 10
+ 8
+MIRP[rp0,min,black]
+PUSHB_1
+ 11
+MDRP[grey]
+PUSHW_2
+ -15396
+ -5602
+SPVFS
+SFVTCA[x-axis]
+PUSHB_1
+ 25
+MDAP[no-rnd]
+SFVTPV
+PUSHB_1
+ 26
+MDRP[grey]
+PUSHB_2
+ 11
+ 10
+SFVTL[parallel]
+PUSHB_2
+ 10
+ 24
+MIRP[rp0,min,black]
+SFVTPV
+PUSHB_1
+ 9
+MDRP[grey]
+SVTCA[y-axis]
+PUSHB_5
+ 9
+ 10
+ 11
+ 23
+ 26
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_7
+ 9
+ 10
+ 11
+ 23
+ 24
+ 25
+ 26
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
 AnchorPoint: "Dotaccent" 268 528 basechar 0
 AnchorPoint: "Bottom" 268 0 basechar 0
 AnchorPoint: "Top" 268 508 basechar 0
 LayerCount: 3
 Fore
-Refer: 86 118 N -1 0 0 -1 530 474 3
+SplineSet
+512 24 m 1
+ 512 0 l 1
+ 267 0 l 1
+ 267 24 l 1
+ 296 24 l 2
+ 307 24 320 33 320 50 c 0
+ 320 56 318 66 314 78 c 10
+ 225 325 l 25
+ 146 106 l 2
+ 141 90 139 78 139 62 c 0
+ 139 44 153 24 174 24 c 2
+ 200 24 l 1
+ 200 0 l 1
+ 30 0 l 1
+ 30 24 l 1
+ 52 24 l 2
+ 74 24 93 44 108 86 c 10
+ 252 486 l 25
+ 284 486 l 9
+ 431 82 l 2
+ 445 43 458 24 495 24 c 2
+ 512 24 l 1
+EndSplineSet
 Layer: 2
-Refer: 86 118 N -1 0 0 -1 530 474 2
-Colour: ffff
+SplineSet
+512 24 m 1,0,-1
+ 512 0 l 1,1,-1
+ 267 0 l 1,2,-1
+ 267 24 l 1,3,-1
+ 296 24 l 2,4,5
+ 305 24 305 24 312.5 31 c 128,-1,6
+ 320 38 320 38 320 50 c 0,7,8
+ 320 60 320 60 314 78 c 2,9,-1
+ 225 325 l 1,10,-1
+ 146 106 l 2,11,12
+ 139 84 139 84 139 62 c 0,13,14
+ 139 48 139 48 149 36 c 128,-1,15
+ 159 24 159 24 174 24 c 2,16,-1
+ 200 24 l 1,17,-1
+ 200 0 l 1,18,-1
+ 30 0 l 1,19,-1
+ 30 24 l 1,20,-1
+ 52 24 l 2,21,22
+ 86 24 86 24 108 86 c 2,23,-1
+ 252 486 l 1,24,-1
+ 284 486 l 1,25,-1
+ 431 82 l 2,26,27
+ 442 50 442 50 455.5 37 c 128,-1,28
+ 469 24 469 24 495 24 c 2,29,-1
+ 512 24 l 1,0,-1
+EndSplineSet
 EndChar
 
 StartChar: uni0197
