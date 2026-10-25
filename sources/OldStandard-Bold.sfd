@@ -200368,6 +200368,206 @@ Flags: MW
 HStem: 0 32<222 309.438 458.562 546> 676 44<617.361 702.613> 680 32<46 122.239 307.586 360>
 VStem: 310 148<32.0402 269> 714 96<584.161 665.156>
 DStem2: 310 620 140 636 0.420312 -0.90738<-27.585 315.899> 442 333 458 278 0.378125 0.925755<0 383.997>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 33
+ 3
+ 0
+CALL
+PUSHB_2
+ 34
+ 6
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 30
+SHP[rp2]
+PUSHB_3
+ 1
+ 5
+ 0
+CALL
+PUSHB_2
+ 0
+ 6
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 3
+SHP[rp2]
+PUSHB_3
+ 13
+ 5
+ 0
+CALL
+PUSHB_2
+ 23
+ 10
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 23
+ 13
+ 10
+CALL
+PUSHB_4
+ 0
+ 23
+ 19
+ 9
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 44
+MDAP[rnd]
+PUSHB_1
+ 39
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 26
+ 19
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 26
+ 39
+ 10
+CALL
+PUSHB_4
+ 64
+ 26
+ 32
+ 9
+CALL
+PUSHB_3
+ 39
+ 26
+ 10
+CALL
+PUSHB_4
+ 64
+ 39
+ 33
+ 9
+CALL
+PUSHB_1
+ 26
+SRP0
+PUSHB_2
+ 21
+ 1
+CALL
+PUSHB_2
+ 16
+ 14
+MIRP[rp0,min,rnd,black]
+PUSHB_2
+ 45
+ 1
+CALL
+PUSHB_1
+ 54
+SMD
+PUSHW_2
+ -14867
+ -6886
+SPVFS
+SFVTCA[y-axis]
+PUSHB_1
+ 39
+MDAP[no-rnd]
+SFVTPV
+PUSHB_1
+ 40
+MDRP[grey]
+PUSHB_2
+ 10
+ 19
+MIRP[rp0,min,black]
+PUSHB_1
+ 9
+MDRP[grey]
+PUSHW_2
+ 15168
+ -6195
+SPVFS
+SFVTCA[y-axis]
+PUSHB_1
+ 26
+MDAP[no-rnd]
+SFVTPV
+PUSHB_1
+ 25
+MDRP[grey]
+PUSHB_2
+ 9
+ 10
+SFVTL[parallel]
+PUSHB_2
+ 10
+ 9
+MIRP[rp0,min,black]
+SFVTPV
+PUSHB_1
+ 11
+MDRP[grey]
+SVTCA[y-axis]
+PUSHB_7
+ 9
+ 10
+ 11
+ 25
+ 26
+ 39
+ 40
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_5
+ 9
+ 10
+ 11
+ 25
+ 40
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 26
+ 39
+SRP1
+SRP2
+PUSHB_2
+ 3
+ 2
+IP
+IP
+PUSHB_1
+ 21
+SRP1
+PUSHB_1
+ 13
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 23
+ 34
+SRP1
+SRP2
+PUSHB_1
+ 7
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
 AnchorPoint: "Dotaccent" 404 782 basechar 0
 AnchorPoint: "Bottom" 384 0 basechar 0
 AnchorPoint: "Top" 404 762 basechar 0
@@ -200449,6 +200649,220 @@ Flags: MW
 HStem: -238 32<123 198.088> 450 24<12 62 207.669 257> 458 28<437.085 496.407>
 VStem: 60 96<-205.151 -125.458> 515 94<356.529 444.114>
 DStem2: 211 396 89 392 0.385565 -0.922681<-28.2712 267.615> 229 -132 260 -117 0.288169 0.95758<-63.8605 114.843 293.574 616.507>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 30
+ 1
+ 0
+CALL
+PUSHB_2
+ 45
+ 6
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 45
+ 30
+ 10
+CALL
+PUSHB_4
+ 0
+ 45
+ 36
+ 9
+CALL
+PUSHB_3
+ 1
+ 4
+ 0
+CALL
+PUSHB_2
+ 0
+ 7
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 3
+SHP[rp2]
+PUSHB_3
+ 13
+ 4
+ 0
+CALL
+PUSHB_2
+ 25
+ 8
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 25
+ 13
+ 10
+CALL
+PUSHB_4
+ 0
+ 25
+ 19
+ 9
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 53
+MDAP[rnd]
+PUSHB_1
+ 33
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 43
+ 14
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 43
+ 33
+ 10
+CALL
+PUSHB_4
+ 0
+ 43
+ 39
+ 9
+CALL
+PUSHB_1
+ 43
+SRP0
+PUSHB_2
+ 22
+ 1
+CALL
+PUSHB_2
+ 16
+ 14
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 16
+SRP0
+PUSHB_2
+ 54
+ 1
+CALL
+PUSHB_1
+ 54
+SMD
+PUSHW_2
+ -15117
+ -6317
+SPVFS
+SFVTPV
+PUSHB_1
+ 49
+SRP0
+PUSHB_1
+ 48
+MDRP[grey]
+PUSHB_2
+ 9
+ 32
+MIRP[rp0,min,black]
+PUSHB_1
+ 10
+MDRP[grey]
+PUSHW_2
+ 15689
+ -4721
+SPVFS
+SFVTPV
+PUSHB_1
+ 47
+SRP0
+PUSHB_1
+ 11
+MDRP[grey]
+PUSHB_2
+ 28
+ 7
+MIRP[rp0,min,black]
+PUSHB_1
+ 27
+MDRP[grey]
+PUSHB_2
+ 9
+ 10
+SFVTL[parallel]
+PUSHB_1
+ 47
+SRP0
+PUSHB_4
+ 10
+ 47
+ 11
+ 19
+CALL
+PUSHB_4
+ 48
+ 47
+ 11
+ 19
+CALL
+SVTCA[y-axis]
+PUSHB_8
+ 9
+ 10
+ 11
+ 27
+ 28
+ 47
+ 48
+ 49
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_8
+ 9
+ 10
+ 11
+ 27
+ 28
+ 47
+ 48
+ 49
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+PUSHB_2
+ 43
+ 33
+SRP1
+SRP2
+PUSHB_1
+ 30
+IP
+PUSHB_1
+ 22
+SRP1
+PUSHB_3
+ 2
+ 7
+ 13
+IP
+IP
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
 AnchorPoint: "Dotaccent" 270 528 basechar 0
 AnchorPoint: "Bottom" 388 0 basechar 0
 AnchorPoint: "Top" 270 508 basechar 0
