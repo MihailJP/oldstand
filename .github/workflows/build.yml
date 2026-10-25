@@ -1,0 +1,65 @@
+name: Build and check fonts
+
+on: [push, pull_request, workflow_dispatch]
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out the repository
+      uses: actions/checkout@v6
+    - name: Set up Python
+      uses: actions/setup-python@v6
+      with:
+        python-version: ">=3.9"
+    - name: Build and install Fontforge
+      uses: MihailJP/setup-fontforge@v1
+    # - name: Install Python dependencies
+    #   run: |
+    #     pip3 install "fontforge-ref-sel-util>=0.1.3"
+    #     pip3 install "fonttools[woff]" skia-pathops booleanOperations freetype-py numpy
+    - name: Build
+      run: ./genfonts.sh
+    - name: Upload TTF Artifact
+      uses: actions/upload-artifact@v7
+      with:
+        path: oldstandard-*.ttf.zip
+        archive: false
+    - name: Upload OTF Artifact
+      uses: actions/upload-artifact@v7
+      with:
+        path: oldstandard-*.otf.zip
+        archive: false
+    - name: Upload WOFF Artifact
+      uses: actions/upload-artifact@v7
+      with:
+        path: oldstandard-*.woff.zip
+        archive: false
+  check:
+    name: Check
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+    - name: Get Fontspector configuration file
+      uses: actions/checkout@v6
+      with:
+        sparse-checkout: |
+          fontspector.toml
+        sparse-checkout-cone-mode: false
+    - name: Install fontspector
+      uses: fonttools/setup-fontspector@main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Download the Artifact
+      uses: actions/download-artifact@v8
+    - name: Rename directory
+      run: mv oldstandard-*.ttf.zip ttf
+    - name: Run Fontspector
+      run: |
+        fontspector -c fontdata_namecheck -l info --full-lists \
+          --configuration fontspector.toml \
+          ttf/*.ttf || true
+        fontspector -x fontdata_namecheck -l info --full-lists \
+          --configuration fontspector.toml \
+          ttf/*.ttf
