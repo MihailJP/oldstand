@@ -59,16 +59,6 @@ def process_font(name, fname, style):
     font.woffMetadata = "".join( lines )
     font.generate( woff_dir + filename + ".woff",flags=( "opentype","winkern","no-FFTM-table","no-mac-names" ),layer="TTF" )
 
-    # Append the 'TT' suffix to various font names, including localized entries
-    for i in range( 0,len( ttnames )):
-        ttname = ttnames[i]
-        if ttname[1] == 'Fullname':
-            ttnames[i] = ( ttname[0],'Fullname',ttname[2].replace( fname,fname + " TT" ) )
-    font.sfnt_names = tuple( ttnames )
-    font.familyname = fname + " TT"
-    font.fullname = fname + " TT " + style
-    font.fontname = name + "TT-" + style
-
     font.generate(ttf_dir + filename + ".ttf",flags=( "opentype","winkern","no-FFTM-table","no-mac-names" ),layer="TTF" )
 
     font.close()
