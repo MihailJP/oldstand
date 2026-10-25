@@ -104,8 +104,8 @@ Lookup: 1 0 0 "Cyrillic Breve" { "Cyrillic Breve-1"  } []
 Lookup: 1 0 0 "Cyrillic Capital Breve" { "Cyrillic Capital Breve-1"  } []
 Lookup: 1 0 0 "Superscripts to Denominators" { "Superscripts to Denominators-1" ("dnom") } []
 Lookup: 4 0 0 "Punt volat composition" { "Punt volat composition-1"  } []
-Lookup: 263 0 0 "'RQD ' Enclosed Cyrillic Letters" { "'RQD ' Enclosed Cyrillic Letters-1"  } [' RQD' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
-Lookup: 263 0 0 "'RQD ' Greek Caps after Accents Positioning" { "'RQD ' Greek Caps after Accents Positioning-1"  } [' RQD' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 263 0 0 "'dist' Enclosed Cyrillic Letters" { "'dist' Enclosed Cyrillic Letters-1"  } ['dist' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
+Lookup: 263 0 0 "'dist' Greek Caps after Accents Positioning" { "'dist' Greek Caps after Accents Positioning-1"  } ['dist' ('DFLT' <'dflt' > 'cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning" { "'mark' Positioning for Dotaccent"  "'mark' Positioning for Top Accents"  "'mark' Positioning for Bottom Accents"  "'mark' Positioning for Enclosing Figures"  "'mark' Positioning for Greek Accents"  "'mark' Lower Positioning for Greek Accents"  "'mark' Positioning for Greek Capital Accents"  } ['mark' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 262 0 0 "'mkmk' Mark to Mark Positioning" { "'mkmk' Standard Mark to Mark Positioning"  "'mkmk' Greek Mark to Mark Positioning"  "'mkmk' Greek Lower Mark to Mark Positioning"  } ['mkmk' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 258 8 0 "'kern' Horizontal Kerning" { "'kern' Horizontal Kerning for Latin" [150,0,0] "'kern' Horizontal Kerning for Greek"  "'kern' Horizontal Kerning for Cyrillic" [150,0,0] } ['kern' ('cyrl' <'BGR ' 'CSL ' 'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
@@ -291,7 +291,7 @@ ChainSub2: class "'frac' Diagonal Fractions Contextual-1" 3 3 1 1
   BClassNames: "0" "1" "2"
   FClassNames: "0"
 EndFPST
-ContextPos2: class "'RQD ' Enclosed Cyrillic Letters-1" 4 1 1 2
+ContextPos2: class "'dist' Enclosed Cyrillic Letters-1" 4 1 1 2
   Class: 149 afii10065 afii10067 afii10068 afii10069 afii10070 afii10073 afii10074 afii10101 afii10102 afii10195 uniA641 afii10065.csl afii10070.csl afii10195.csl
   Class: 47 uni0488 uni0489 uni20DD uniA670 uniA671 uniA672
   Class: 7 uni0483
@@ -324,7 +324,7 @@ ContextSub2: class "'ccmp' Low Variants for Accents-1" 3 1 1 1
   BClassNames: "0"
   FClassNames: "0"
 EndFPST
-ContextPos2: class "'RQD ' Greek Caps after Accents Positioning-1" 12 1 1 48
+ContextPos2: class "'dist' Greek Caps after Accents Positioning-1" 12 1 1 48
   Class: 14 acutecomb.grek
   Class: 14 gravecomb.grek
   Class: 25 uni0313.grek uni0314.grek
