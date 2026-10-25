@@ -1,0 +1,29 @@
+[[overrides]]
+code = 'transformed-components'
+status = 'WARN'
+reason = 'Postponed'
+
+[[overrides]]
+code = 'found-nested-components'
+status = 'WARN'
+reason = 'Postponed'
+
+[[overrides]]
+code = 'missing-case-counterparts'
+status = 'WARN'
+reason = 'Postponed'
+
+[[overrides]]
+code = 'bad-subfamilyname'
+status = 'INFO'
+reason = 'False positive'
+
+[[overrides]]
+code = 'nameid4-too-long'
+status = 'INFO'
+reason = 'False positive'
+
+[[overrides]]
+code = 'zero-width-bases'
+status = 'WARN'
+reason = 'Postponed'
