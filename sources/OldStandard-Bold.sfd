@@ -141595,6 +141595,7 @@ EndChar
 StartChar: uni2E0F
 Encoding: 11791 11791 1404
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: -34 68<-216 836>
 TtInstrs:
@@ -141646,6 +141647,7 @@ EndChar
 StartChar: uni2E10
 Encoding: 11792 11792 1405
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: -34 68<-216 -7 120 836>
 DStem2: -208 -154 -175 -210 0.858775 0.512354<0 234.096>
@@ -141754,6 +141756,7 @@ EndChar
 StartChar: uni2E11
 Encoding: 11793 11793 1406
 Width: 0
+GlyphClass: 4
 Flags: W
 HStem: -34 68<-216 500 627 836>
 DStem2: 627 -34 500 -34 0.858775 -0.512354<0 234.096>

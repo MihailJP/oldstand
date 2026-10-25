@@ -17,8 +17,3 @@ reason = 'False positive'
 code = 'nameid4-too-long'
 status = 'INFO'
 reason = 'False positive'
-
-[[overrides]]
-code = 'zero-width-bases'
-status = 'WARN'
-reason = 'Postponed'
