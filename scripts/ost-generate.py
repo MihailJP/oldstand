@@ -69,7 +69,7 @@ def process_font(name, fname, style):
     font.fullname = fname + " TT " + style
     font.fontname = name + "TT-" + style
 
-    font.generate(ttf_dir + filename + ".ttf",flags=( "opentype","winkern","no-FFTM-table","no-mac-names","dummy-dsig" ),layer="TTF" )
+    font.generate(ttf_dir + filename + ".ttf",flags=( "opentype","winkern","no-FFTM-table","no-mac-names" ),layer="TTF" )
 
     font.close()
 
