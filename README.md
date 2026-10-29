@@ -1,3 +1,6 @@
+Old Standard
+============
+
 The Old Standard font family is an attempt to revive a specific type of
 Modern (classicist) style of serif typefaces, very commonly used in various
 editions printed in the late 19th and early 20th century, but almost
@@ -5,12 +8,12 @@ completely  abandoned later. Although contemporary typographers often
 consider this lettertype obsolete and out-of-fashion, it still has at least
 two advantages:
 
--- The classicist style still can be considered a good choice for
+- The classicist style still can be considered a good choice for
 typesetting scientific papers, especially on social and humanitarian
 sciences, as its specific features are closely associated in the people's
 eyes with old books they learned on;
 
--- the most beautiful examples of Greek and Cyrillic lettertypes were all
+- the most beautiful examples of Greek and Cyrillic lettertypes were all
 based on the Modern style, so that for those scripts "Modern" fonts
 are much more appropriate than any contemporary (e. g. Times-based)
 designs.
