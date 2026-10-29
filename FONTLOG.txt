@@ -43,6 +43,38 @@ lettertype of the early 20th century.
 
 ChangeLog
 ---------
+2026 October 29 (MihailJP) Version 2.2 mod 4
+
+    * Set WWS bit
+
+    * Add glyphs in Koeberlin's Latin S
+
+    * set kerning for Ŷ and ŷ
+
+    * Add Catalan punt volat configuration
+
+    * Enable smart dropout
+
+    * Set metric parameters
+
+    * Remove duplicate reference in uni0245 and afii10029.bgr
+
+    * Use `dist` feature tag instead of ` RQD`
+
+    * Decompose (rotated) references of uni028C
+
+    * Add missing TTF hinting instructions
+
+    * Set glyph class of Paragraphos
+
+    * Add uppercase Greek Yot
+
+    * Remove deprecated DSIG table
+
+    * Remove 'TT' from font family name
+
+    * Style name translation
+
 2026 September 9 (MihailJP) Version 2.2 mod 3
 
     * Backport Mongolian tugrik, Ukrainian hryvnia, Kazakh tenge, and
