@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300650174
-ModificationTime: 1794639753
+ModificationTime: 1794644094
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -191944,13 +191944,117 @@ StartChar: uni04CF
 Encoding: 1231 1231 1715
 Width: 308
 Flags: W
-HStem: 0 24<26 97.8047 214.195 286> 688 24<26 97.8047>
-VStem: 98 116<24.0029 687.997>
+HStem: 0 24<26 97.8047 214.195 286>
+VStem: 98 116<24 545.331>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 0
+ 3
+ 0
+CALL
+PUSHB_2
+ 1
+ 7
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 25
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 28
+MDAP[rnd]
+PUSHB_1
+ 4
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 23
+ 11
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 23
+ 4
+ 10
+CALL
+PUSHB_4
+ 64
+ 23
+ 27
+ 9
+CALL
+PUSHB_3
+ 4
+ 23
+ 10
+CALL
+PUSHB_4
+ 64
+ 4
+ 0
+ 9
+CALL
+PUSHB_2
+ 29
+ 1
+CALL
+PUSHB_2
+ 23
+ 4
+SRP1
+SRP2
+PUSHB_1
+ 13
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
 LayerCount: 3
 Fore
-Refer: 76 108 N 1 0 0 1 0 0 1
+SplineSet
+26 0 m 1
+ 26 24 l 1
+ 82 24 l 2
+ 94 24 98 28.000124749 98 40 c 2
+ 98 516 l 2
+ 98 582 98 630 44 672 c 1
+ 55 688 l 1
+ 109 660 148 600 156 548 c 1
+ 164 600 203 660 257 688 c 1
+ 268 672 l 1
+ 214 630 214 581 214 516 c 2
+ 214 40 l 2
+ 214 28.001138271 218 24 230 24 c 2
+ 286 24 l 1
+ 286 0 l 1
+ 26 0 l 1
+EndSplineSet
 Layer: 2
-Refer: 76 108 N 1 0 0 1 0 0 1
+SplineSet
+26 0 m 1,0,-1
+ 26 24 l 1,1,-1
+ 82 24 l 2,2,3
+ 98 24 98 24 98 40 c 2,4,-1
+ 98 516 l 2,5,6
+ 98 558 98 558 96 578.5 c 128,-1,7
+ 94 599 94 599 82 625.5 c 128,-1,8
+ 70 652 70 652 44 672 c 1,9,-1
+ 55 688 l 1,10,11
+ 94 668 94 668 122 628 c 128,-1,12
+ 150 588 150 588 156 548 c 1,13,14
+ 162 588 162 588 190 628 c 128,-1,15
+ 218 668 218 668 257 688 c 1,16,-1
+ 268 672 l 1,17,18
+ 249 657 249 657 237 640.5 c 128,-1,19
+ 225 624 225 624 220.5 601.5 c 128,-1,20
+ 216 579 216 579 215 563.5 c 128,-1,21
+ 214 548 214 548 214 516 c 2,22,-1
+ 214 40 l 2,23,24
+ 214 24 214 24 230 24 c 2,25,-1
+ 286 24 l 1,26,-1
+ 286 0 l 1,27,-1
+ 26 0 l 1,0,-1
+EndSplineSet
 Colour: ffff
 EndChar
 
