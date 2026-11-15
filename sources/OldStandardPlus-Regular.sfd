@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300584531
-ModificationTime: 1794711952
+ModificationTime: 1794716944
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -218,9 +218,9 @@ KernClass2: 25 26 "'kern' Horizontal Kerning for Latin"
 KernClass2: 32 32 "'kern' Horizontal Kerning for Cyrillic"
  9 afii10057
  53 afii10017 uni04D0 uni04D2 afii10021.bgr afii10029.bgr
- 63 afii10018 afii10019 afii10025 afii10146 uni0494 uni0498 uni04DE
+ 71 afii10018 afii10019 afii10025 afii10146 uni0494 uni0498 uni04DE uni04E0
  27 afii10052 afii10020 uni04F6
- 67 afii10032 afii10048 afii10147 uni04D8 uni04E6 uni04E8 afii10038.bgr
+ 83 afii10032 afii10048 afii10147 uni04D8 uni04DA uni04E6 uni04E8 uni04EA afii10038.bgr
  9 afii10034
  55 afii10053 afii10035 uni04AA afii10053.csl afii10022.csl
  25 afii10036 uni04A4 uni04AC
@@ -228,12 +228,12 @@ KernClass2: 32 32 "'kern' Horizontal Kerning for Cyrillic"
  9 afii10038
  45 afii10039 uni04B2 afii10024.bgr afii10028.bgr
  71 afii10058 afii10059 afii10044 afii10046 uni04A6 uni04A8 uni0520 uni0522
- 9 afii10047
+ 17 afii10047 uni04EC
  77 afii10061 afii10024 afii10028 uni0496 uni049A uni049C uni04A0 uni04C1 uni04DC
  9 afii10051
  9 afii10065
  37 afii10068 afii10100 afii10098 uni04F7
- 105 afii10080 afii10082 afii10086 afii10095 afii10096 afii10195 afii10846 uni04E9 afii10086.bgr afii10096.bgr
+ 129 afii10080 afii10082 afii10086 afii10095 afii10096 afii10195 afii10846 uni04DB uni04E9 uni04EB uni04ED afii10086.bgr afii10096.bgr
  25 afii10084 uni04A5 uni04AD
  85 afii10085 afii10110 afii10196 uni0477 uni0479 uni04AF uni04EF uni04F1 uni04F3 uni051D
  17 afii10087 uni04B3
@@ -251,9 +251,9 @@ KernClass2: 32 32 "'kern' Horizontal Kerning for Cyrillic"
  9 afii10057
  61 afii10017 uni04D0 uni04D2 uni04D4 afii10021.bgr afii10029.bgr
  9 afii10021
- 35 afii10025 afii10047 uni0498 uni04DE
+ 51 afii10025 afii10047 uni0498 uni04DE uni04E0 uni04EC
  35 afii10058 afii10029 uni0520 uni052E
- 65 afii10032 afii10147 uni04A8 uni04E6 uni04E8 uni051A afii10038.bgr
+ 73 afii10032 afii10147 uni04A8 uni04E6 uni04E8 uni04EA uni051A afii10038.bgr
  27 afii10053 afii10035 uni04AA
  73 afii10051 afii10060 afii10036 afii10044 afii10146 uni04A0 uni04AC uni04B4
  43 afii10062 afii10037 uni04EE uni04F0 uni04F2
@@ -262,7 +262,7 @@ KernClass2: 32 32 "'kern' Horizontal Kerning for Cyrillic"
  41 afii10041 uni04B6 uni04B8 uni04CB uni04F4
  9 afii10049
  37 afii10065 afii10069.bgr afii10073.bgr
- 83 afii10066 afii10086 afii10071 uni04D7 uni04E7 afii10064 afii10067.bgr afii10086.bgr
+ 99 afii10066 afii10086 afii10071 uni04D7 uni04DB uni04E7 uni04EB afii10064 afii10067.bgr afii10086.bgr
  385 afii10068 afii10074 afii10076 afii10078 afii10079 afii10081 afii10082 afii10088 afii10089 afii10090 afii10091 afii10093 afii10094 afii10096 afii10100 afii10107 afii10193 afii10098 uni0493 uni0495 uni049B uni049D uni04A3 uni04B7 uni04B9 uni04CC uni04F7 uni0525 afii10068.bgr afii10074.bgr afii10079.bgr afii10081.bgr afii10084.bgr afii10088.bgr afii10089.bgr afii10090.bgr afii10091.bgr
  9 afii10069
  71 afii10070 afii10080 afii10083 uni04A9 uni04AB afii10846 uni04E9 uni051B
@@ -1941,7 +1941,7 @@ Grid
  340 -46 l 1049
 EndSplineSet
 AnchorClass2: "Dotaccent" "'mark' Positioning for Dotaccent" "Enclosing" "'mark' Positioning for Enclosing Figures" "Top" "'mark' Positioning for Top Accents" "Bottom" "'mark' Positioning for Bottom Accents" "GreekTop" "'mark' Positioning for Greek Accents" "GreekTopSunken" "'mark' Lower Positioning for Greek Accents" "GreekCap" "'mark' Positioning for Greek Capital Accents" "TopMark" "'mkmk' Standard Mark to Mark Positioning" "GreekTopMark" "'mkmk' Greek Mark to Mark Positioning" "GreekTopMarkSunken" "'mkmk' Greek Lower Mark to Mark Positioning"
-BeginChars: 65684 1989
+BeginChars: 65684 1997
 
 StartChar: space
 Encoding: 32 32 0
@@ -209462,6 +209462,9 @@ NPUSHB
  21
 CALL
 EndTTInstrs
+AnchorPoint: "Bottom" 360 0 basechar 0
+AnchorPoint: "Top" 360 762 basechar 0
+AnchorPoint: "Dotaccent" 360 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -209579,6 +209582,9 @@ NPUSHB
  21
 CALL
 EndTTInstrs
+AnchorPoint: "Bottom" 248 0 basechar 0
+AnchorPoint: "Top" 248 508 basechar 0
+AnchorPoint: "Dotaccent" 248 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -226299,6 +226305,127 @@ SplineSet
  334 87 334 87 387 40 c 1,40,41
  448 87 448 87 448 216 c 0,35,36
 EndSplineSet
+EndChar
+
+StartChar: uni04DA
+Encoding: 1242 1242 1989
+Width: 670
+HStem: -18 32<280.656 409.073> 334 32<176 514> 468 21<83 121> 698 32<255.725 404.501> 798 104<185.236 270.764 389.236 474.764>
+VStem: 70 106<190.151 334> 176 104<807.236 892.764> 380 104<807.236 892.764> 514 106<213.188 334 366 500.562>
+LayerCount: 3
+Fore
+Refer: 1648 -1 N 1 0 0 1 592 0 2
+Refer: 734 1240 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 734 1240 N 1 0 0 1 0 0 2
+Refer: 1648 -1 N 1 0 0 1 592 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04DB
+Encoding: 1243 1243 1990
+Width: 460
+HStem: -12 24<190.543 264.202> 206 24<134 324> 444 24<157.819 256.711> 528 96<78.332 157.668 266.332 345.668>
+VStem: 48 86<112.129 206> 58 24<300 353.026> 70 96<536.332 615.668> 258 96<536.332 615.668> 324 88<118.276 206 230 343.548>
+LayerCount: 3
+Fore
+Refer: 422 776 N 1 0 0 1 474 0 2
+Refer: 735 1241 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 735 1241 N 1 0 0 1 0 0 2
+Refer: 422 776 N 1 0 0 1 474 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04E0
+Encoding: 1248 1248 1991
+Width: 614
+HStem: -18 32<191.537 363.619> 378 32<302.958 391.014> 628 84<158.432 459>
+VStem: 66 68<70.8155 178> 92 24<497 552.933> 466 106<117.444 302.396>
+DStem2: 200 352 301 410 0.684293 0.729208<111.408 378.493>
+LayerCount: 3
+Fore
+Refer: 327 439 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 327 439 N 1 0 0 1 0 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04E1
+Encoding: 1249 1249 1992
+Width: 464
+VWidth: 0
+HStem: -238 24<139.58 258.442> 135 28<195.378 270.459> 380 76<112.043 330>
+VStem: 32 56<-170.866 -84> 60 20<268 323.614> 338 90<-127.958 68.9366>
+DStem2: 111 97 193 160 0.612004 0.790855<0.198413 70.9448 100.008 357.841>
+AnchorPoint: "Top" 232 508 basechar 0
+AnchorPoint: "Dotaccent" 232 528 basechar 0
+LayerCount: 3
+Fore
+Refer: 400 658 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 400 658 N 1 0 0 1 0 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04EA
+Encoding: 1258 1258 1993
+Width: 700
+HStem: -18 32<288.002 431.998> 342 28<176 544> 698 32<288.002 431.998> 790 104<215.236 300.764 419.236 504.764>
+VStem: 70 106<218.311 342 370 493.689> 206 104<799.236 884.764> 410 104<799.236 884.764> 544 106<218.311 342 370 493.689>
+LayerCount: 3
+Fore
+Refer: 1648 -1 N 1 0 0 1 622 0 2
+Refer: 1814 1256 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1814 1256 N 1 0 0 1 0 0 2
+Refer: 1648 -1 N 1 0 0 1 622 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04EB
+Encoding: 1259 1259 1994
+Width: 496
+HStem: -12 24<202.163 293.837> 212 32<136 360> 444 24<202.163 293.837> 528 96<114.332 193.668 302.332 381.668>
+VStem: 48 88<119.861 212 244 336.139> 106 96<536.332 615.668> 294 96<536.332 615.668> 360 88<119.861 212 244 336.139>
+LayerCount: 3
+Fore
+Refer: 422 776 N 1 0 0 1 510 0 2
+Refer: 1815 1257 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1815 1257 N 1 0 0 1 0 0 2
+Refer: 422 776 N 1 0 0 1 510 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04EC
+Encoding: 1260 1260 1995
+Width: 640
+HStem: -18 32<207.318 363.644> 358 32<200 484> 463 21G<94 130> 698 32<248.673 385.418> 702 20G<94 122.889> 798 104<173.236 258.764 377.236 462.764>
+VStem: 72 66<83.6493 190.5> 94 25<463 522.681> 164 104<807.236 892.764> 368 104<807.236 892.764> 484 106<218.899 358 390 531.297>
+LayerCount: 3
+Fore
+Refer: 1648 -1 N 1 0 0 1 580 0 2
+Refer: 635 1069 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 635 1069 N 1 0 0 1 0 0 2
+Refer: 1648 -1 N 1 0 0 1 580 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04ED
+Encoding: 1261 1261 1996
+Width: 448
+HStem: -12 24<128.804 242.839> 226 24<130 312> 444 24<168.691 255.975> 528 96<80.332 159.668 268.332 347.668>
+VStem: 48 44<38.3077 116.5> 62 18<298 327.242> 72 96<536.332 615.668> 260 96<536.332 615.668> 312 88<115.459 226 250 347.218>
+LayerCount: 3
+Fore
+Refer: 422 776 N 1 0 0 1 476 0 2
+Refer: 667 1101 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 667 1101 N 1 0 0 1 0 0 2
+Refer: 422 776 N 1 0 0 1 476 0 2
+Colour: ffff
 EndChar
 EndChars
 EndSplineFont

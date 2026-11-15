@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300650174
-ModificationTime: 1794712526
+ModificationTime: 1794717241
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -220,9 +220,9 @@ KernClass2: 26 26 "'kern' Horizontal Kerning for Latin"
 KernClass2: 22 25 "'kern' Horizontal Kerning for Cyrillic"
  9 afii10057
  53 afii10017 uni04D0 uni04D2 afii10021.bgr afii10029.bgr
- 55 afii10018 afii10019 afii10025 afii10146 uni0498 uni04DE
+ 63 afii10018 afii10019 afii10025 afii10146 uni0498 uni04DE uni04E0
  27 afii10052 afii10020 uni04F6
- 67 afii10032 afii10048 afii10147 uni04D8 uni04E6 uni04E8 afii10038.bgr
+ 83 afii10032 afii10048 afii10147 uni04D8 uni04DA uni04E6 uni04E8 uni04EA afii10038.bgr
  9 afii10034
  27 afii10053 afii10035 uni04AA
  25 afii10036 uni04A4 uni04AC
@@ -230,9 +230,9 @@ KernClass2: 22 25 "'kern' Horizontal Kerning for Cyrillic"
  9 afii10038
  45 afii10039 uni04B2 afii10024.bgr afii10028.bgr
  71 afii10058 afii10059 afii10044 afii10046 uni04A6 uni04A8 uni0520 uni0522
- 9 afii10047
+ 17 afii10047 uni04EC
  37 afii10068 afii10100 afii10098 uni04F7
- 113 afii10080 afii10082 afii10086 afii10095 afii10096 afii10195 uni04A9 afii10846 uni04E9 afii10086.bgr afii10096.bgr
+ 137 afii10080 afii10082 afii10086 afii10095 afii10096 afii10195 uni04A9 afii10846 uni04DB uni04E9 uni04EB uni04ED afii10086.bgr afii10096.bgr
  25 afii10084 uni04A5 uni04AD
  69 afii10085 afii10110 afii10196 uni0477 uni0479 uni04EF uni04F1 uni04F3
  17 afii10087 uni04B3
@@ -243,9 +243,9 @@ KernClass2: 22 25 "'kern' Horizontal Kerning for Cyrillic"
  9 afii10057
  53 afii10017 uni04D0 uni04D2 afii10021.bgr afii10029.bgr
  9 afii10021
- 35 afii10025 afii10047 uni0498 uni04DE
+ 51 afii10025 afii10047 uni0498 uni04DE uni04E0 uni04EC
  35 afii10058 afii10029 uni0520 uni052E
- 73 afii10032 afii10147 uni04A8 uni04D8 uni04E6 uni04E8 uni051A afii10038.bgr
+ 89 afii10032 afii10147 uni04A8 uni04D8 uni04DA uni04E6 uni04E8 uni04EA uni051A afii10038.bgr
  27 afii10053 afii10035 uni04AA
  73 afii10051 afii10060 afii10036 afii10044 afii10146 uni04A0 uni04AC uni04B4
  51 afii10062 afii10037 uni04AE uni04EE uni04F0 uni04F2
@@ -253,7 +253,7 @@ KernClass2: 22 25 "'kern' Horizontal Kerning for Cyrillic"
  31 afii10039 uni04B2 afii10024.bgr
  41 afii10041 uni04B6 uni04B8 uni04CB uni04F4
  9 afii10065
- 83 afii10066 afii10086 afii10071 uni04D7 uni04E7 afii10064 afii10067.bgr afii10086.bgr
+ 99 afii10066 afii10086 afii10071 uni04D7 uni04DB uni04E7 uni04EB afii10064 afii10067.bgr afii10086.bgr
  385 afii10068 afii10074 afii10076 afii10078 afii10079 afii10081 afii10082 afii10088 afii10089 afii10090 afii10091 afii10093 afii10094 afii10096 afii10100 afii10107 afii10193 afii10098 uni0495 uni049B uni049D uni04A3 uni04A5 uni04B7 uni04B9 uni04CC uni04F7 uni0525 afii10074.bgr afii10079.bgr afii10081.bgr afii10084.bgr afii10088.bgr afii10089.bgr afii10090.bgr afii10091.bgr afii10094.bgr
  9 afii10069
  71 afii10070 afii10080 afii10083 uni04A9 uni04AB afii10846 uni04E9 uni051B
@@ -1967,13 +1967,13 @@ LangName: 1032 "" "" "+A4gDvQPEA78DvQOx"
 LangName: 1040 "" "" "Grassetto"
 LangName: 1033 "" "" "" "" "" "" "" "" "" "Alexey Kryukov <alexios@thessalonica.org.ru>" "" "" "http://www.thessalonica.org.ru" "Copyright (c) 2006-2011 Alexey Kryukov (http://www.thessalonica.org.ru).+AAoA-All rights reserved.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 10 2 24 1 65535 3 0
-OtfFeatName: 'ss01' 1033 "Localized Forms for Romanian"
-OtfFeatName: 'ss02' 1033 "Insular Forms for Old English"
-OtfFeatName: 'ss05' 1033 "Closed Greek Theta"
-OtfFeatName: 'ss06' 1033 "Medial/Final Forms for Greek"
-OtfFeatName: 'ss12' 1033 "Optional Serbian Variant Forms"
-OtfFeatName: 'ss14' 1033 "Localized Forms for Old Slavonic"
 OtfFeatName: 'ss15' 1033 "Old Cyrillic I and N"
+OtfFeatName: 'ss14' 1033 "Localized Forms for Old Slavonic"
+OtfFeatName: 'ss12' 1033 "Optional Serbian Variant Forms"
+OtfFeatName: 'ss06' 1033 "Medial/Final Forms for Greek"
+OtfFeatName: 'ss05' 1033 "Closed Greek Theta"
+OtfFeatName: 'ss02' 1033 "Insular Forms for Old English"
+OtfFeatName: 'ss01' 1033 "Localized Forms for Romanian"
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -2001,7 +2001,7 @@ Grid
  340 -46 l 1049
 EndSplineSet
 AnchorClass2: "Dotaccent" "'mark' Positioning for Dotaccent" "Enclosing" "'mark' Positioning for Enclosing Figures" "Top" "'mark' Positioning for Top Accents" "Bottom" "'mark' Positioning for Bottom Accents" "GreekTop" "'mark' Positioning for Greek Accents" "GreekTopSunken" "'mark' Lower Positioning for Greek Accents" "GreekCap" "'mark' Positioning for Greek Capital Accents" "TopMark" "'mkmk' Standard Mark to Mark Positioning" "GreekTopMark" "'mkmk' Greek Mark to Mark Positioning" "GreekTopMarkSunken" "'mkmk' Greek Lower Mark to Mark Positioning"
-BeginChars: 65684 1909
+BeginChars: 65684 1917
 
 StartChar: space
 Encoding: 32 32 0
@@ -191677,8 +191677,8 @@ StartChar: uni04E8
 Encoding: 1256 1256 1734
 Width: 712
 Flags: W
-HStem: -18 32<304.225 427.775> 340 32<240 492> 698 32<304.225 427.775>
-VStem: 70 170<223.829 340 372 488.171> 492 170<223.829 340 372 488.171>
+HStem: -18 32<305.509 426.491> 340 32<240 492> 698 32<305.509 426.491>
+VStem: 70 170<224.862 340 372 487.138> 492 170<224.862 340 372 487.138>
 CounterMasks: 1 e0
 TtInstrs:
 MPPEM
@@ -191784,6 +191784,9 @@ NPUSHB
  21
 CALL
 EndTTInstrs
+AnchorPoint: "Bottom" 366 0 basechar 0
+AnchorPoint: "Top" 366 762 basechar 0
+AnchorPoint: "Dotaccent" 366 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -191843,8 +191846,8 @@ StartChar: uni04E9
 Encoding: 1257 1257 1735
 Width: 504
 Flags: W
-HStem: -12 24<217.306 286.694> 221 32<176 328> 462 24<217.306 286.694>
-VStem: 48 128<124.453 221 253 349.547> 328 128<124.453 221 253 349.547>
+HStem: -12 24<217.378 286.622> 221 32<176 328> 462 24<217.378 286.622>
+VStem: 48 128<126.223 221 253 347.777> 328 128<126.223 221 253 347.777>
 CounterMasks: 1 e0
 TtInstrs:
 NPUSHB
@@ -191909,6 +191912,9 @@ NPUSHB
  21
 CALL
 EndTTInstrs
+AnchorPoint: "Bottom" 248 0 basechar 0
+AnchorPoint: "Top" 248 508 basechar 0
+AnchorPoint: "Dotaccent" 248 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -208675,6 +208681,128 @@ SplineSet
  388 96 388 96 428 51 c 1,46,47
  468 96 468 96 468 225 c 0,39,40
 EndSplineSet
+EndChar
+
+StartChar: uni04DA
+Encoding: 1242 1242 1909
+Width: 680
+HStem: -18 32<306.142 396.974> 331 37<240 460> 698 32<251.724 379.312> 794 120<173.745 266.255 385.745 478.255>
+VStem: 70 170<209.148 331> 160 120<807.745 900.255> 372 120<807.745 900.255> 460 170<210.13 331 368 518.592>
+LayerCount: 3
+Fore
+Refer: 1567 -1 N 1 0 0 1 588 0 2
+Refer: 733 1240 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 733 1240 N 1 0 0 1 0 0 2
+Refer: 1567 -1 N 1 0 0 1 588 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04DB
+Encoding: 1243 1243 1910
+Width: 472
+HStem: -12 24<203.241 259.144> 218 28<168 296> 456 30<143.287 240.468> 558 120<71.745 164.255 263.746 356.256>
+VStem: 50 26<312 366.307> 52 116<100.363 218> 58 120<571.745 664.255> 250.001 120<571.745 664.255> 296 128<126.223 218 246 350.129>
+LayerCount: 3
+Fore
+Refer: 421 776 N 1 0 0 1 476 0 2
+Refer: 734 1241 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 734 1241 N 1 0 0 1 0 0 2
+Refer: 421 776 N 1 0 0 1 476 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04E0
+Encoding: 1248 1248 1911
+Width: 634
+HStem: -18 32<198.709 349.684> 378 32<314 372.401> 588 124<149.688 424>
+VStem: 62 91<77.5269 197> 75 32<460 528.891> 428 170<110.937 292.451>
+DStem2: 205 358 311 416 0.688676 0.725069<115.054 317.586>
+AnchorPoint: "Top" 312 762 basechar 0
+AnchorPoint: "Dotaccent" 312 782 basechar 0
+LayerCount: 3
+Fore
+Refer: 326 439 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 326 439 N 1 0 0 1 0 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04E1
+Encoding: 1249 1249 1912
+Width: 506
+HStem: -238 24<151.755 268.805> 155 28<233 296.34> 382 92<113.168 350>
+VStem: 26 84<-159.346 -53> 42 24<268 310.415> 348 128<-110.466 80.0342>
+DStem2: 133 111 230 187 0.625046 0.780588<0.322604 75.2904 119.954 347.174>
+AnchorPoint: "Top" 238 508 basechar 0
+AnchorPoint: "Dotaccent" 238 528 basechar 0
+LayerCount: 3
+Fore
+Refer: 399 658 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 399 658 N 1 0 0 1 0 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04EA
+Encoding: 1258 1258 1913
+Width: 712
+HStem: -18 32<305.509 426.491> 340 32<240 492> 698 32<305.509 426.491> 794 120<213.745 306.255 425.745 518.255>
+VStem: 70 170<224.862 340 372 487.138> 200 120<807.745 900.255> 412 120<807.745 900.255> 492 170<224.862 340 372 487.138>
+LayerCount: 3
+Fore
+Refer: 1567 -1 N 1 0 0 1 628 0 2
+Refer: 1734 1256 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1734 1256 N 1 0 0 1 0 0 2
+Refer: 1567 -1 N 1 0 0 1 628 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04EB
+Encoding: 1259 1259 1914
+Width: 504
+HStem: -12 24<217.378 286.622> 221 32<176 328> 462 24<217.378 286.622> 558 120<105.745 198.255 297.746 390.256>
+VStem: 48 128<126.223 221 253 347.777> 92 120<571.745 664.255> 284.001 120<571.745 664.255> 328 128<126.223 221 253 347.777>
+LayerCount: 3
+Fore
+Refer: 421 776 N 1 0 0 1 510 0 2
+Refer: 1735 1257 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1735 1257 N 1 0 0 1 0 0 2
+Refer: 421 776 N 1 0 0 1 510 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04EC
+Encoding: 1260 1260 1915
+Width: 668
+HStem: -18 32<223.293 363.031> 356 36<214 448> 698 32<269.19 383.574> 702 20G<100 139> 794 120<179.745 272.255 391.745 484.255>
+VStem: 76 110<57 198.5> 100 32<435 503.647> 166 120<807.745 900.255> 378 120<807.745 900.255> 448 170<220.283 356 392 524.811>
+LayerCount: 3
+Fore
+Refer: 1567 -1 N 1 0 0 1 594 0 2
+Refer: 634 1069 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 634 1069 N 1 0 0 1 0 0 2
+Refer: 1567 -1 N 1 0 0 1 594 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04ED
+Encoding: 1261 1261 1916
+Width: 454
+HStem: -12 24<139.75 231.072> 234 28<130 278> 462 24<171.772 243.047> 558 120<73.745 166.255 265.746 358.256>
+VStem: 50 72<39.8532 126> 60 120<571.745 664.255> 62 24<295 340.119> 252.001 120<571.745 664.255> 278 128<119.004 234 262 370.236>
+LayerCount: 3
+Fore
+Refer: 421 776 N 1 0 0 1 478 0 2
+Refer: 666 1101 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 666 1101 N 1 0 0 1 0 0 2
+Refer: 421 776 N 1 0 0 1 478 0 2
+Colour: ffff
 EndChar
 EndChars
 EndSplineFont

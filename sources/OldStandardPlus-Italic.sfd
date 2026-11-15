@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300612368
-ModificationTime: 1794712068
+ModificationTime: 1794717615
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -207,9 +207,9 @@ KernClass2: 23 23 "'kern' Horizontal Kerning for Latin"
 KernClass2: 26 28 "'kern' Horizontal Kerning for Cyrillic"
  9 afii10057
  53 afii10017 uni04D0 uni04D2 afii10021.bgr afii10029.bgr
- 55 afii10018 afii10019 afii10025 afii10146 uni0498 uni04DE
+ 63 afii10018 afii10019 afii10025 afii10146 uni0498 uni04DE uni04E0
  27 afii10052 afii10020 uni04F6
- 67 afii10032 afii10048 afii10147 uni04D8 uni04E6 uni04E8 afii10038.bgr
+ 83 afii10032 afii10048 afii10147 uni04D8 uni04DA uni04E6 uni04E8 uni04EA afii10038.bgr
  9 afii10034
  27 afii10053 afii10035 uni04AA
  25 afii10036 uni04A4 uni04AC
@@ -217,7 +217,7 @@ KernClass2: 26 28 "'kern' Horizontal Kerning for Cyrillic"
  9 afii10038
  45 afii10039 uni04B2 afii10024.bgr afii10028.bgr
  71 afii10058 afii10059 afii10044 afii10046 uni04A6 uni04A8 uni0520 uni0522
- 9 afii10047
+ 17 afii10047 uni04EC
  9 afii10050
  9 afii10051
  195 afii10065 afii10074 afii10078 afii10079 afii10081 afii10084 afii10089 afii10090 afii10091 afii10097 uni045D afii10193 uni04A3 uni04AD uni04B7 uni04B9 uni04BB uni04CC uni0525 uni0527 afii10077.bgr
@@ -234,9 +234,9 @@ KernClass2: 26 28 "'kern' Horizontal Kerning for Cyrillic"
  9 afii10057
  61 afii10017 uni04D0 uni04D2 uni04D4 afii10021.bgr afii10029.bgr
  9 afii10021
- 35 afii10025 afii10047 uni0498 uni04DE
+ 51 afii10025 afii10047 uni0498 uni04DE uni04E0 uni04EC
  35 afii10058 afii10029 uni0520 uni052E
- 65 afii10032 afii10147 uni04A8 uni04E6 uni04E8 uni051A afii10038.bgr
+ 73 afii10032 afii10147 uni04A8 uni04E6 uni04E8 uni04EA uni051A afii10038.bgr
  27 afii10053 afii10035 uni04AA
  73 afii10051 afii10060 afii10036 afii10044 afii10146 uni04A0 uni04AC uni04B4
  51 afii10062 afii10037 uni04AE uni04EE uni04F0 uni04F2
@@ -244,9 +244,9 @@ KernClass2: 26 28 "'kern' Horizontal Kerning for Cyrillic"
  31 afii10039 uni04B2 afii10024.bgr
  41 afii10041 uni04B6 uni04B8 uni04CB uni04F4
  141 afii10065 afii10067 afii10070 afii10080 afii10083 uni0450 afii10101 afii10195 uni04A9 uni04AB uni04D5 afii10846 uni04E9 uni051B afii10069.alt
- 75 afii10066 afii10086 afii10071 uni04E7 afii10064 afii10067.bgr afii10086.bgr
+ 91 afii10066 afii10086 afii10071 uni04DB uni04E7 uni04EB afii10064 afii10067.bgr afii10086.bgr
  297 afii10068 afii10074 afii10076 afii10079 afii10081 afii10082 afii10084 afii10085 afii10088 afii10089 afii10090 afii10091 afii10092 afii10093 afii10094 afii10096 afii10100 afii10107 afii10193 afii10194 afii10098 uni049B uni049D uni04A3 uni04A5 uni04AD uni04B7 uni04B9 uni04CC uni04F7 uni051D uni0525
- 63 afii10072 afii10073 afii10087 afii10095 uni0497 uni0499 uni04B3
+ 71 afii10072 afii10073 afii10087 afii10095 uni0497 uni0499 uni04B3 uni04E1
  117 afii10075 afii10103 afii10104 afii10110 uni04E3 uni04E5 uni04EF uni04F1 uni04F3 uni04F5 afii10063 afii10831 afii10832
  69 afii10077 afii10078 afii10097 afii10106 uni0521 uni052F afii10077.bgr
  25 afii10148 uni0476 uni051C
@@ -1851,7 +1851,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 510026 293601 146800 97867 478151 1048576 97867 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Dotaccent" "'mark' Positioning for Dotaccent" "Enclosing" "'mark' Positioning for Enclosing Figures" "Top" "'mark' Positioning for Top Accents" "Bottom" "'mark' Positioning for Bottom Accents" "GreekTop" "'mark' Positioning for Greek Accents" "GreekTopSunken" "'mark' Lower Positioning for Greek Accents" "GreekCap" "'mark' Positioning for Greek Capital Accents" "TopMark" "'mkmk' Standard Mark to Mark Positioning" "GreekTopMark" "'mkmk' Greek Mark to Mark Positioning" "GreekTopMarkSunken" "'mkmk' Greek Lower Mark to Mark Positioning"
-BeginChars: 65659 1888
+BeginChars: 65659 1896
 
 StartChar: space
 Encoding: 32 32 0
@@ -209239,8 +209239,8 @@ StartChar: uni04E8
 Encoding: 1256 1256 1713
 Width: 710
 Flags: W
-HStem: -18 32<252.743 386.202> 342 28<206 572> 698 32<391.798 525.257>
-VStem: 92 96<125.967 362.065> 590 96<349.009 585.239>
+HStem: -18 32<251.417 382.543> 342 28<206 572> 698 32<395.457 526.583>
+VStem: 92 96<127.737 336.52> 590 96<374.514 583.476>
 CounterMasks: 1 e0
 TtInstrs:
 MPPEM
@@ -209346,6 +209346,9 @@ NPUSHB
  21
 CALL
 EndTTInstrs
+AnchorPoint: "Bottom" 310 0 basechar 0
+AnchorPoint: "Top" 494 762 basechar 0
+AnchorPoint: "Dotaccent" 500 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -209405,8 +209408,8 @@ StartChar: uni04E9
 Encoding: 1257 1257 1714
 Width: 462
 Flags: W
-HStem: -12 24<153.827 233.998> 206 32<145 333> 432 24<246.29 325.888>
-VStem: 52 72<62.4297 204.789> 354 72<239.227 382.073>
+HStem: -12 24<154.822 230.128> 206 32<145 333> 432 24<249.665 324.86>
+VStem: 52 72<63.1041 203.935> 354 72<240.065 381.897>
 CounterMasks: 1 e0
 TtInstrs:
 NPUSHB
@@ -209461,6 +209464,9 @@ NPUSHB
  21
 CALL
 EndTTInstrs
+AnchorPoint: "Top" 314 508 basechar 0
+AnchorPoint: "Bottom" 191 0 basechar 0
+AnchorPoint: "Dotaccent" 320 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -228968,6 +228974,126 @@ SplineSet
  155 -12 155 -12 103.5 38 c 128,-1,55
  52 88 52 88 52 165 c 0,11,12
 EndSplineSet
+EndChar
+
+StartChar: uni04DA
+Encoding: 1242 1242 1888
+Width: 700
+HStem: -18 32<243.915 369.864> 334 32<208.917 559> 698 32<374.822 514.801> 798 104<343.236 428.764 547.236 632.764>
+VStem: 92 96<110.865 321.986> 334 104<807.236 892.764> 538 104<807.236 892.764> 580 96<369.608 587.265>
+LayerCount: 3
+Fore
+Refer: 1571 -1 N 1 0 0 1 616 0 2
+Refer: 734 1240 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 734 1240 N 1 0 0 1 0 0 2
+Refer: 1571 -1 N 1 0 0 1 616 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04DB
+Encoding: 1243 1243 1889
+Width: 410
+HStem: -12 24<105.683 177.109> 432 24<184.584 270.598> 548 96<141.332 220.668 329.332 408.668>
+VStem: 45 48<17.0129 136.527> 133 96<556.332 635.668> 302 72<230.675 380.98> 321 96<556.332 635.668>
+LayerCount: 3
+Fore
+Refer: 422 776 N 1 0 0 1 471 0 2
+Refer: 735 1241 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 735 1241 N 1 0 0 1 0 0 2
+Refer: 422 776 N 1 0 0 1 471 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04E0
+Encoding: 1248 1248 1890
+Width: 610
+Flags: H
+AnchorPoint: "Top" 420 762 basechar 0
+AnchorPoint: "Dotaccent" 426 782 basechar 0
+LayerCount: 3
+Fore
+Refer: 327 439 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 327 439 N 1 0 0 1 0 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04E1
+Encoding: 1249 1249 1891
+Width: 464
+HStem: -238 24<40.7284 156.558> 135 28<187.121 250.122> 354 64<294.248 377.254> 372 84<177.791 304.876>
+VStem: -34 48<-189.214 -94> 290 84<-81.5847 103.166>
+DStem2: 86 98 185 160 0.697967 0.71613<113.499 358.537>
+AnchorPoint: "Top" 306 508 basechar 0
+AnchorPoint: "Dotaccent" 312 528 basechar 0
+LayerCount: 3
+Fore
+Refer: 400 658 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 400 658 N 1 0 0 1 0 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04EA
+Encoding: 1258 1258 1892
+Width: 710
+HStem: -18 32<251.417 382.543> 342 28<206 572> 698 32<395.457 526.583> 798 104<377.236 462.764 581.236 666.764>
+VStem: 92 96<127.737 336.52> 368 104<807.236 892.764> 572 104<807.236 892.764> 590 96<374.514 583.476>
+LayerCount: 3
+Fore
+Refer: 1571 -1 N 1 0 0 1 650 0 2
+Refer: 1713 1256 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1713 1256 N 1 0 0 1 0 0 2
+Refer: 1571 -1 N 1 0 0 1 650 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04EB
+Encoding: 1259 1259 1893
+Width: 462
+HStem: -12 24<154.822 230.128> 206 32<145 333> 432 24<249.665 324.86> 548 96<206.332 285.668 394.332 473.668>
+VStem: 52 72<63.1041 203.935> 198 96<556.332 635.668> 354 72<240.065 381.897> 386 96<556.332 635.668>
+LayerCount: 3
+Fore
+Refer: 422 776 N 1 0 0 1 536 0 2
+Refer: 1714 1257 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 1714 1257 N 1 0 0 1 0 0 2
+Refer: 422 776 N 1 0 0 1 536 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04EC
+Encoding: 1260 1260 1894
+Width: 664
+HStem: -18 32<178.431 329.055> 140 124<116.223 206.168> 364 32<213 529> 698 32<353.523 483.829> 702 20G<203.977 233> 798 104<329.236 414.764 533.236 618.764>
+VStem: 64 52<65.8847 180> 320 104<807.236 892.764> 524 104<807.236 892.764> 544 96<398.995 604.861>
+LayerCount: 3
+Fore
+Refer: 1571 -1 N 1 0 0 1 602 0 2
+Refer: 635 1069 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 635 1069 N 1 0 0 1 0 0 2
+Refer: 1571 -1 N 1 0 0 1 602 0 2
+Colour: ffff
+EndChar
+
+StartChar: uni04ED
+Encoding: 1261 1261 1895
+Width: 422
+HStem: -12 24<98.9881 189.446> 228 24<129 300> 432 24<195.441 284.86> 548 96<164.332 243.668 352.332 431.668>
+VStem: 32 53<25.9253 108> 156 96<556.332 635.668> 314 72<223.718 381.897> 344 96<556.332 635.668>
+LayerCount: 3
+Fore
+Refer: 422 776 N 1 0 0 1 494 0 2
+Refer: 667 1101 N 1 0 0 1 0 0 3
+Layer: 2
+Refer: 667 1101 N 1 0 0 1 0 0 2
+Refer: 422 776 N 1 0 0 1 494 0 2
+Colour: ffff
 EndChar
 EndChars
 EndSplineFont
