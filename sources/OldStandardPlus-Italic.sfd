@@ -229009,7 +229009,9 @@ EndChar
 StartChar: uni04E0
 Encoding: 1248 1248 1890
 Width: 610
-Flags: H
+HStem: -18 32<154.985 318.048> 145 118<104.563 178.863> 378 32<321.743 419.161> 628 84<259.196 557>
+VStem: 40 56<64.7705 173> 462 102<153.87 331.741>
+DStem2: 225 352 346 410 0.76898 0.639273<130.124 431.741>
 AnchorPoint: "Top" 420 762 basechar 0
 AnchorPoint: "Dotaccent" 426 782 basechar 0
 LayerCount: 3
