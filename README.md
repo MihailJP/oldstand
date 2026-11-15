@@ -1,5 +1,25 @@
+Old Standard Plus
+=================
+
+Old Standard Plus is a fork from Old Standard font family with extended
+glyph repertoire.
+
+Extension in GF version:
+
+- Additional Cyrillic glyphs
+- Vietnamese support
+
+Our extension:
+
+- Bulgarian variant
+- [Koeberlin's Latin S][1] support (including [Pan-Nigerian alphabet][2])
+- More additional Cyrillic glyphs
+
+[1]: https://github.com/koeberlin/Latin-Character-Sets
+[2]: https://en.wikipedia.org/wiki/Pan-Nigerian_alphabet
+
 Old Standard
-============
+------------
 
 The Old Standard font family is an attempt to revive a specific type of
 Modern (classicist) style of serif typefaces, very commonly used in various

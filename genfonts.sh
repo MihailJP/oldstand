@@ -16,9 +16,9 @@
 #####################################################################/
 
 ZIP="zip -DrX"
-PACK_NAME=oldstandard
+PACK_NAME=oldstandardplus
 DOCS="OFL.txt OFL-FAQ.txt FONTLOG.txt"
-VERSION=$(grep '^Version:' sources/OldStandard-Regular.sfd | sed -e 's/^Version: //')
+VERSION=$(grep '^Version:' sources/OldStandardPlus-Regular.sfd | sed -e 's/^Version: //')
 
 fontforge -script scripts/ost-generate.py
 

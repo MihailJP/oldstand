@@ -24,17 +24,17 @@ jobs:
     - name: Upload TTF Artifact
       uses: actions/upload-artifact@v7
       with:
-        path: oldstandard-*.ttf.zip
+        path: oldstandardplus-*.ttf.zip
         archive: false
     - name: Upload OTF Artifact
       uses: actions/upload-artifact@v7
       with:
-        path: oldstandard-*.otf.zip
+        path: oldstandardplus-*.otf.zip
         archive: false
     - name: Upload WOFF Artifact
       uses: actions/upload-artifact@v7
       with:
-        path: oldstandard-*.woff.zip
+        path: oldstandardplus-*.woff.zip
         archive: false
   check:
     name: Check
@@ -54,7 +54,7 @@ jobs:
     - name: Download the Artifact
       uses: actions/download-artifact@v8
     - name: Rename directory
-      run: mv oldstandard-*.ttf.zip ttf
+      run: mv oldstandardplus-*.ttf.zip ttf
     - name: Run Fontspector
       run: |
         fontspector -c fontdata_namecheck -l info --full-lists \

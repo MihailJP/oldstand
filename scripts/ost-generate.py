@@ -18,8 +18,8 @@ from os.path import dirname
 from os import makedirs
 
 script_dir = dirname(__file__)
-base_name = "OldStandard"
-full_name = "Old Standard"
+base_name = "OldStandardPlus"
+full_name = "Old Standard Plus"
 styles = ("Regular", "Italic", "Bold")
 
 sources_dir = script_dir + "/../sources/"
