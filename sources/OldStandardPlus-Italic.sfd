@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300612368
-ModificationTime: 1794727469
+ModificationTime: 1794736771
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -288,7 +288,7 @@ EndFPST
 ContextSub2: class "'ccmp' Decompose Accented" 4 1 1 2
   Class: 29 i j iogonek uni0268 afii10103
   Class: 421 Atilde Adieresis Aring Edieresis Idieresis Otilde Odieresis Udieresis atilde adieresis aring edieresis idieresis otilde odieresis udieresis ydieresis Amacron amacron Abreve abreve Emacron emacron Ebreve ebreve Itilde itilde Imacron imacron Ibreve ibreve Omacron omacron Obreve obreve Utilde utilde Umacron umacron Ubreve ubreve Uring uring Ydieresis uni01E2 uni01E3 uni01EC uni01ED afii10023 afii10056 afii10071 afii10104
-  Class: 344 gravecomb acutecomb circumflexcmb tildecomb macroncmb brevecmb uni0307 uni0308 uni030A uni030B uni030C uni030F uni0311 uni0312 uni0313 uni0314 uni033E uni0351 uni0357 uni0363 uni0364 uni0365 uni0366 uni0367 uni0368 uni0369 uni036A uni036B uni036C uni036D uni036E uni036F uni0483 uni0485 uni0486 uni0486_gravecomb uni0486_acutecomb brevecmb.cyrl
+  Class: 343 gravecomb acutecomb circumflexcmb tildecomb macroncmb brevecmb uni0307 uni0308 uni030A uni030B uni030C uni030F uni0311 uni0312 uni0313 uni0314 uni033E uni0351 uni0357 uni0363 uni0364 uni0365 uni0366 uni0367 uni0368 uni0369 uni036A uni036B uni036C uni036D uni036E uni036F uni0483 uni0485 uni0486 uni0486_gravecomb uni0486_acutecomb brevecmb.cyr
  2 0 0
   ClsList: 1 3
   BClsList:
@@ -54155,9 +54155,9 @@ SplineSet
  -310 592 -310 592 -310 635 c 0,0,1
 EndSplineSet
 Substitution2: "Cyrillic Capital Accents-1" brevecmb.cyrcap
-Substitution2: "Cyrillic Accents-1" brevecmb.cyrl
-AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" brevecmb.cyrl brevecmb.cap brevecmb.cyrcap
-Substitution2: "Cyrillic Breve-1" brevecmb.cyrl
+Substitution2: "Cyrillic Accents-1" brevecmb.cyr
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" brevecmb.cyr brevecmb.cap brevecmb.cyrcap
+Substitution2: "Cyrillic Breve-1" brevecmb.cyr
 Substitution2: "Capital Accents-1" brevecmb.cap
 Substitution2: "Capital Cyrillic Breve-1" brevecmb.cyrcap
 Colour: ffffffff
@@ -110696,16 +110696,16 @@ StartChar: uni04C1
 Encoding: 1217 1217 732
 Width: 1004
 VWidth: 0
-HStem: -12 44<33.2406 102.551 793.148 882.718> 0 32<284 412.748 506.69 618> 358 32<387.036 498 598 725.15> 680 32<467 579.139 673.517 803> 684 40<275.671 348.826 910.113 979.045> 762 46<611.345 744.723>
-VStem: 2 28<37.5139 147.164> 182 92<582.506 681.073> 322 40<410.541 568.52> 354 38<545.442 679.092> 546 33<848.528 916> 716 106<33.1585 174.524> 762 94<186.102 334.521> 825 28<892.896 916> 980 74<605.5 677.693>
+HStem: -12 44<33.2406 102.551 793.148 882.718> 0 32<284 412.748 506.69 618> 358 32<387.036 498 598 725.15> 680 32<467 579.139 673.517 803> 684 40<275.671 348.826 910.113 979.045> 742 30<592.304 762.07> 853 88<563.096 611.711>
+VStem: 2 28<37.5139 147.164> 182 92<582.506 681.073> 322 40<410.541 568.52> 354 38<545.442 679.092> 496 63<800.665 888> 716 106<33.1585 174.524> 762 94<186.102 334.521> 801 77<822.166 910.966> 980 74<605.5 677.693>
 DStem2: 397.71 -12 488.71 -12 0.262189 0.965017<75.4795 383.351 440.451 711.038>
 LayerCount: 3
 Fore
-Refer: 612 1046 N 1 0 0 1 0 0 2
-Refer: 1569 -1 N 1 0 0 1 804 0 2
+Refer: 1608 -1 N 1 0 0 1 804 0 2
+Refer: 612 1046 N 1 0 0 1 0 0 3
 Layer: 2
-Refer: 1569 -1 N 1 0 0 1 804 0 2
 Refer: 612 1046 N 1 0 0 1 0 0 2
+Refer: 1608 -1 N 1 0 0 1 804 0 2
 Colour: ffff
 EndChar
 
@@ -110713,16 +110713,16 @@ StartChar: uni04C2
 Encoding: 1218 1218 733
 Width: 816
 VWidth: 0
-HStem: -12 24<80.0264 141.348 570.068 619.363> 0 21G<321 392.37> 216 24<323 380 452 500> 424 20G<436.51 508> 426 30<186.813 259.569 666.522 741.786> 526 40<453.968 579.917>
-VStem: 25 54<12.1461 68.5> 271 64<241.065 421.024> 402 25<601.837 666> 486 64<22.9756 213.615> 660 22<646.203 666> 742 54<375.5 431.854>
+HStem: -12 24<80.0264 141.348 570.068 619.363> 0 21G<321 392.37> 216 24<323 380 452 500> 424 20G<436.51 508> 426 30<186.813 259.569 666.522 741.786> 494 24<440.972 543.586> 570 78<425.919 472.781>
+VStem: 25 54<12.1461 68.5> 271 64<241.065 421.024> 380 45<529.056 606.5> 486 64<22.9756 213.615> 742 54<375.5 431.854>
 DStem2: 317.74 -12 383.74 -12 0.262189 0.965017<29.7395 236.348 278.386 472.627>
 LayerCount: 3
 Fore
-Refer: 644 1078 N 1 0 0 1 0 0 2
-Refer: 420 774 N 1 0 0 1 712 0 2
+Refer: 1609 -1 N 1 0 0 1 712 0 2
+Refer: 644 1078 N 1 0 0 1 0 0 3
 Layer: 2
-Refer: 420 774 N 1 0 0 1 712 0 2
 Refer: 644 1078 N 1 0 0 1 0 0 2
+Refer: 1609 -1 N 1 0 0 1 712 0 2
 Colour: ffff
 EndChar
 
@@ -193782,7 +193782,7 @@ EndSplineSet
 Colour: ffffffff
 EndChar
 
-StartChar: brevecmb.cyrl
+StartChar: brevecmb.cyr
 Encoding: 65605 -1 1609
 Width: 0
 GlyphClass: 4
