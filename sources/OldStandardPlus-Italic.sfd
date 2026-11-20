@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300612368
-ModificationTime: 1795180594
+ModificationTime: 1795182890
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -16217,6 +16217,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 254 762 basechar 0
 AnchorPoint: "Dotaccent" 372 528 basechar 0
 AnchorPoint: "Bottom" 196 0 basechar 0
 LayerCount: 3
@@ -16609,6 +16610,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 515 762 basechar 0
 AnchorPoint: "Dotaccent" 286 528 basechar 0
 AnchorPoint: "Bottom" 212 0 basechar 0
 LayerCount: 3
@@ -29497,6 +29499,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 488 762 basechar 0
+AnchorPoint: "Dotaccent" 494 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -29536,7 +29540,6 @@ SplineSet
  263 -36 265 -26 270 -15 c 1
  183 2 92 82 92 252 c 0xeb
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 92 252 m 0,0,1
@@ -29936,6 +29939,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 226 0 basechar 0
+AnchorPoint: "Top" 458 762 basechar 0
+AnchorPoint: "Dotaccent" 464 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -29970,7 +29976,6 @@ SplineSet
  280 356 l 1
  199 59 l 2
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 -10 0 m 1,0,-1
@@ -30965,6 +30970,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 452 762 basechar 0
+AnchorPoint: "Bottom" 180 0 basechar 0
+AnchorPoint: "Dotaccent" 458 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -30999,7 +31007,6 @@ SplineSet
  340 546 329 538 324 519 c 2
  245 226 l 1
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 -10 0 m 1,0,-1
@@ -31251,6 +31258,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 396 752 basechar 0
+AnchorPoint: "Dotaccent" 404 778 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -31280,7 +31289,6 @@ SplineSet
  32 -205 l 1
  -34 -205 l 1
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 -34 -205 m 1,0,-1
@@ -32068,6 +32076,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 314 508 basechar 0
+AnchorPoint: "Dotaccent" 320 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -32105,7 +32115,6 @@ SplineSet
  222 -174 176 -212 115 -212 c 0
  81 -212 41 -192 41 -148 c 0xf980
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 41 -148 m 0,0,1
@@ -33406,6 +33415,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 318 752 basechar 0
+AnchorPoint: "Dotaccent" 325 772 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -33439,7 +33450,6 @@ SplineSet
  231 -232 l 1
  -75 -232 l 1
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 200 104 m 0,0,1
@@ -33815,6 +33825,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 550 762 basechar 0
+AnchorPoint: "Dotaccent" 556 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -34087,6 +34099,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 322 508 basechar 0
+AnchorPoint: "Dotaccent" 328 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -34125,7 +34139,6 @@ SplineSet
  282 76 224 -12 154 -12 c 0
  82 -12 42 44 42 125 c 0
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 114 85 m 0,0,1
@@ -34382,10 +34395,12 @@ Flags: W
 HStem: 0 32<-2 103.609 197.755 420.672> 356 36<84 188 289 412> 680 32<183 270.346 364.517 553.219>
 VStem: 630 96<317.502 574.826>
 DStem2: 91.9701 0 182.97 0 0.262189 0.965016<63.0346 368.724 429.946 698.555>
+AnchorPoint: "Top" 458 762 basechar 0
+AnchorPoint: "Dotaccent" 464 782 basechar 0
+AnchorPoint: "Bottom" 226 0 basechar 0
 LayerCount: 3
 Fore
 Refer: 143 208 N 1 0 0 1 0 0 2
-Validated: 32769
 Layer: 2
 Refer: 143 208 N 1 0 0 1 0 0 2
 Colour: ffff
@@ -34569,6 +34584,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 212 0 basechar 0
+AnchorPoint: "Top" 515 752 basechar 0
+AnchorPoint: "Dotaccent" 522 772 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -34609,7 +34627,6 @@ SplineSet
  231 432 191 366 170 320 c 0
  137 247 114 157 114 85 c 0
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 42 125 m 0,0,1
@@ -35148,6 +35165,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 478 762 basechar 0
+AnchorPoint: "Dotaccent" 484 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -35450,6 +35469,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 312 508 basechar 0
+AnchorPoint: "Dotaccent" 318 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -35483,7 +35504,6 @@ SplineSet
  200 -11 193 -12 186 -12 c 0
  103 -12 52 67 52 158 c 0xf4
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 144 240 m 1,0,1
@@ -36071,6 +36091,9 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 346 0 basechar 0
+AnchorPoint: "Top" 552 762 basechar 0
+AnchorPoint: "Dotaccent" 558 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -36455,6 +36478,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 200 0 basechar 0
+AnchorPoint: "Top" 356 752 basechar 0
+AnchorPoint: "Dotaccent" 363 772 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -36493,7 +36519,6 @@ SplineSet
  90 0 l 1
  24 0 l 1x7e
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 24 0 m 1,0,-1
@@ -36820,6 +36845,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 430 762 basechar 0
+AnchorPoint: "Dotaccent" 436 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -36851,7 +36878,6 @@ SplineSet
  274 0 l 1
  74 0 l 9
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 74 0 m 1,0,-1
@@ -38056,6 +38082,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 227 0 basechar 0
+AnchorPoint: "Dotaccent" 330 528 basechar 0
+AnchorPoint: "Top" 324 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -38097,7 +38126,6 @@ SplineSet
  123 422 82 339 56 262 c 9
  36 268 l 17x7b
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 36 268 m 1,0,1
@@ -38301,6 +38329,9 @@ TeX: 76 0
 HStem: 0 32<-2 103.609 197.755 472.021> 310 124<525.59 622.41> 680 32<183 270.346 364.517 470>
 VStem: 512 124<323.59 420.41>
 DStem2: 91.9701 0 182.97 0 0.262189 0.965016<63.0346 698.555>
+AnchorPoint: "Bottom" 312 0 basechar 0
+AnchorPoint: "Top" 344 762 basechar 0
+AnchorPoint: "Dotaccent" 350 782 basechar 0
 LayerCount: 3
 Fore
 Refer: 14 46 N 1 0 0 1 452 322 2
@@ -38308,6 +38339,7 @@ Refer: 44 76 N 1 0 0 1 0 0 3
 Layer: 2
 Refer: 44 76 N 1 0 0 1 0 0 2
 Refer: 14 46 N 1 0 0 1 452 322 2
+LCarets2: 1 0
 Ligature2: "Punt volat composition-1" L periodcentered
 Colour: ffff
 EndChar
@@ -38320,6 +38352,9 @@ TeX: 108 0
 HStem: -12 34<86.5 157.818> 310 124<341.59 438.41> 688 24<109 206.001>
 VStem: 54 58<22.0502 157> 328 124<323.59 420.41>
 DStem2: 19.9856 -12 87.2459 -12 0.262189 0.965016<108.262 719.727>
+AnchorPoint: "Bottom" 112 0 basechar 0
+AnchorPoint: "Top" 254 762 basechar 0
+AnchorPoint: "Dotaccent" 260 782 basechar 0
 LayerCount: 3
 Fore
 Refer: 14 46 N 1 0 0 1 268 322 2
@@ -38327,6 +38362,7 @@ Refer: 76 108 N 1 0 0 1 0 0 2
 Layer: 2
 Refer: 76 108 N 1 0 0 1 0 0 2
 Refer: 14 46 N 1 0 0 1 268 322 2
+LCarets2: 1 0
 Ligature2: "Punt volat composition-1" l periodcentered
 Colour: ffff
 EndChar
@@ -38604,6 +38640,9 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 350 782 basechar 0
+AnchorPoint: "Top" 344 762 basechar 0
+AnchorPoint: "Bottom" 312 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -38636,7 +38675,6 @@ SplineSet
  574 0 l 1
  -10 0 l 1
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 -10 0 m 1,0,-1
@@ -38940,6 +38978,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 260 782 basechar 0
+AnchorPoint: "Top" 254 762 basechar 0
+AnchorPoint: "Bottom" 112 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -38966,7 +39007,6 @@ SplineSet
  25 286 l 1
  18 310 l 1
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 18 310 m 1,0,-1
@@ -39388,6 +39428,8 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 540 762 basechar 0
+AnchorPoint: "Dotaccent" 546 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -39429,7 +39471,6 @@ SplineSet
  260 0 l 25
  -10 0 l 25
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 -10 0 m 1,0,-1
@@ -39806,6 +39847,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 350 508 basechar 0
+AnchorPoint: "Dotaccent" 356 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -39839,7 +39882,6 @@ SplineSet
  123 422 82 339 56 262 c 9
  36 268 l 17xec
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 36 268 m 1,0,1
@@ -40267,6 +40309,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 490 0 basechar 0
+AnchorPoint: "Dotaccent" 808 782 basechar 0
+AnchorPoint: "Top" 802 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -40484,6 +40529,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 326 0 basechar 0
+AnchorPoint: "Dotaccent" 474 528 basechar 0
+AnchorPoint: "Top" 468 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -41183,6 +41231,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 425 762 basechar 0
+AnchorPoint: "Dotaccent" 431 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -41228,7 +41278,6 @@ SplineSet
  84 73 63 10 57 -10 c 1
  34 -10 l 1xa7c0
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 34 -10 m 1,0,-1
@@ -41635,6 +41684,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 290 508 basechar 0
+AnchorPoint: "Dotaccent" 296 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -41680,7 +41731,6 @@ SplineSet
  193 -174 147 -212 86 -212 c 0
  52 -212 12 -192 12 -148 c 0xf8e0
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 12 -148 m 0,0,1
@@ -42062,6 +42112,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 478 762 basechar 0
+AnchorPoint: "Dotaccent" 484 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -42106,7 +42158,6 @@ SplineSet
  265 0 l 1
  106 0 l 1
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 106 0 m 1,0,-1
@@ -42470,6 +42521,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 260 762 basechar 0
+AnchorPoint: "Dotaccent" 266 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -42511,7 +42564,6 @@ SplineSet
  157 -174 111 -212 50 -212 c 0
  16 -212 -24 -192 -24 -148 c 0xfc80
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 -24 -148 m 0,0,1
@@ -42818,6 +42870,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 278 0 basechar 0
+AnchorPoint: "Top" 478 762 basechar 0
+AnchorPoint: "Dotaccent" 484 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -42853,7 +42908,6 @@ SplineSet
  448 0 l 1
  106 0 l 1
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 106 0 m 1,0,-1
@@ -43123,6 +43177,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 260 762 basechar 0
+AnchorPoint: "Bottom" 120 0 basechar 0
+AnchorPoint: "Dotaccent" 266 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -43155,7 +43212,6 @@ SplineSet
  106 310 l 1
  40 310 l 1
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 40 310 m 1,0,-1
@@ -43614,6 +43670,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 544 762 basechar 0
+AnchorPoint: "Dotaccent" 550 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -43653,7 +43711,6 @@ SplineSet
  361 -18 l 1
  202 -18 130 71 130 176 c 0
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 130 176 m 0,0,1
@@ -44041,6 +44098,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 348 508 basechar 0
+AnchorPoint: "Dotaccent" 354 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -44082,7 +44141,6 @@ SplineSet
  122 426 75 314 56 262 c 9
  36 268 l 17xdd
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 36 268 m 1,0,1
@@ -44716,6 +44774,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 260 782 basechar 0
+AnchorPoint: "Bottom" 196 0 basechar 0
+AnchorPoint: "Top" 254 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -44749,7 +44810,6 @@ SplineSet
  176 556 l 1
  60 556 l 1
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 138 106 m 0,0,1
@@ -45147,6 +45207,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 478 762 basechar 0
+AnchorPoint: "Bottom" 312 0 basechar 0
+AnchorPoint: "Dotaccent" 484 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -46236,6 +46299,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 324 0 basechar 0
+AnchorPoint: "Top" 356 752 basechar 0
+AnchorPoint: "Dotaccent" 363 772 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -46269,7 +46335,6 @@ SplineSet
  90 0 l 1
  24 0 l 9x5f
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 24 0 m 1,0,-1
@@ -46634,6 +46699,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 458 782 basechar 0
+AnchorPoint: "Bottom" 180 0 basechar 0
+AnchorPoint: "Top" 452 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -46679,7 +46747,6 @@ SplineSet
  310 0 l 1
  -10 0 l 1
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 254 262 m 1,0,-1
@@ -46935,6 +47002,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 252 0 basechar 0
 AnchorPoint: "Top" 420 762 basechar 0
 AnchorPoint: "Dotaccent" 426 782 basechar 0
 LayerCount: 3
@@ -47187,6 +47255,8 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 348 508 basechar 0
+AnchorPoint: "Dotaccent" 354 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -47217,7 +47287,6 @@ SplineSet
  -65 -252 l 1
  -74 -222 l 1
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 157 25 m 1,0,1
@@ -49374,6 +49443,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 346 0 basechar 0
+AnchorPoint: "Top" 552 762 basechar 0
+AnchorPoint: "Dotaccent" 558 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -49418,7 +49490,6 @@ SplineSet
  286 0 l 1
  -10 0 l 1x7c
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 -10 0 m 1,0,-1
@@ -49741,6 +49812,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 452 762 basechar 0
+AnchorPoint: "Dotaccent" 458 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -49771,7 +49844,6 @@ SplineSet
  -26 -168 l 1
  -32 -138 l 1
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 207 88 m 1,0,1
@@ -50616,6 +50688,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 401 762 basechar 0
+AnchorPoint: "Dotaccent" 407 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -50642,7 +50716,6 @@ SplineSet
  509 204 432 98 282 41 c 0
  187 5 101 -8 -8 -18 c 9xf0
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 -8 -18 m 1,0,-1
@@ -50819,6 +50892,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 273 528 basechar 0
+AnchorPoint: "Top" 267 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -50845,7 +50920,6 @@ SplineSet
  105 -120 25 -147 -48 -162 c 9
  -50 -138 l 17xf0
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 -50 -138 m 1,0,1
@@ -51615,6 +51689,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 484 782 basechar 0
+AnchorPoint: "Top" 478 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -51980,6 +52056,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 318 528 basechar 0
+AnchorPoint: "Top" 312 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -52019,7 +52097,6 @@ SplineSet
  232 432 182 364 164 313 c 0
  159 298 146 249 144 240 c 1
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 41 -148 m 0,0,1
@@ -53210,6 +53287,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 179 0 basechar 0
+AnchorPoint: "Dotaccent" 304 528 basechar 0
+AnchorPoint: "Top" 298 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -53252,7 +53332,6 @@ SplineSet
  221 420 212 413 208 397 c 2
  168 250 l 9
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 -30 0 m 1,0,-1
@@ -53937,7 +54016,6 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" gravec
 Substitution2: "Greek Accents for Iota-1" gravecomb.grek
 Substitution2: "Greek Accents-1" gravecomb.grek
 Substitution2: "Capital Accents-1" gravecomb.cap
-Colour: ffffffff
 EndChar
 
 StartChar: acutecomb
@@ -53999,7 +54077,6 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" acutec
 Substitution2: "Greek Accents for Iota-1" acutecomb.grek
 Substitution2: "Greek Accents-1" acutecomb.grek
 Substitution2: "Capital Accents-1" acutecomb.cap
-Colour: ffffffff
 EndChar
 
 StartChar: circumflexcmb
@@ -54072,7 +54149,6 @@ EndSplineSet
 Substitution2: "Cyrillic Capital Accents-1" circumflexcmb.cap
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" circumflexcmb.cap
 Substitution2: "Capital Accents-1" circumflexcmb.cap
-Colour: ffffffff
 EndChar
 
 StartChar: tildecomb
@@ -54174,7 +54250,6 @@ EndSplineSet
 Substitution2: "Cyrillic Capital Accents-1" tildecomb.cap
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" tildecomb.cap
 Substitution2: "Capital Accents-1" tildecomb.cap
-Colour: ffffffff
 EndChar
 
 StartChar: macroncmb
@@ -54235,7 +54310,6 @@ EndSplineSet
 Substitution2: "Cyrillic Capital Accents-1" macroncmb.cap
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" macroncmb.cap
 Substitution2: "Capital Accents-1" macroncmb.cap
-Colour: ffffffff
 EndChar
 
 StartChar: uni0305
@@ -54352,7 +54426,6 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" brevec
 Substitution2: "Cyrillic Breve-1" brevecmb.cyr
 Substitution2: "Capital Accents-1" brevecmb.cap
 Substitution2: "Capital Cyrillic Breve-1" brevecmb.cyrcap
-Colour: ffffffff
 EndChar
 
 StartChar: uni0307
@@ -54417,7 +54490,6 @@ EndSplineSet
 Substitution2: "Cyrillic Capital Accents-1" uni0307.cap
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0307.cap
 Substitution2: "Capital Accents-1" uni0307.cap
-Colour: ffffffff
 EndChar
 
 StartChar: uni0308
@@ -54510,7 +54582,6 @@ Substitution2: "Cyrillic Capital Accents-1" uni0308.cap
 Substitution2: "Accents for i-1" uni0308.i
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0308.cap
 Substitution2: "Capital Accents-1" uni0308.cap
-Colour: ffffffff
 EndChar
 
 StartChar: uni030A
@@ -54626,7 +54697,6 @@ EndSplineSet
 Substitution2: "Cyrillic Capital Accents-1" uni030A.cap
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni030A.cap
 Substitution2: "Capital Accents-1" uni030A.cap
-Colour: ffffffff
 EndChar
 
 StartChar: uni030B
@@ -54718,7 +54788,6 @@ EndSplineSet
 Substitution2: "Cyrillic Capital Accents-1" uni030B.cap
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni030B.cap
 Substitution2: "Capital Accents-1" uni030B.cap
-Colour: ffffffff
 EndChar
 
 StartChar: uni030C
@@ -54780,7 +54849,6 @@ EndSplineSet
 Substitution2: "Cyrillic Capital Accents-1" uni030C.cap
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni030C.cap
 Substitution2: "Capital Accents-1" uni030C.cap
-Colour: ffffffff
 EndChar
 
 StartChar: uni030F
@@ -54872,7 +54940,6 @@ EndSplineSet
 Substitution2: "Cyrillic Capital Accents-1" uni030F.cap
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni030F.cap
 Substitution2: "Capital Accents-1" uni030F.cap
-Colour: ffffffff
 EndChar
 
 StartChar: uni0311
@@ -54937,7 +55004,6 @@ EndSplineSet
 Substitution2: "Cyrillic Capital Accents-1" uni0311.cap
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0311.cap
 Substitution2: "Capital Accents-1" uni0311.cap
-Colour: ffffffff
 EndChar
 
 StartChar: uni0312
@@ -55025,7 +55091,6 @@ SplineSet
  -231 488 -231 488 -249.5 505 c 128,-1,17
  -268 522 -268 522 -268 555 c 0,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni0313
@@ -55113,7 +55178,6 @@ EndSplineSet
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0313.grek
 Substitution2: "Greek Accents for Iota-1" uni0313.grek
 Substitution2: "Greek Accents-1" uni0313.grek
-Colour: ffffffff
 EndChar
 
 StartChar: uni0314
@@ -55206,7 +55270,6 @@ EndSplineSet
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0314.grek
 Substitution2: "Greek Accents for Iota-1" uni0314.grek
 Substitution2: "Greek Accents-1" uni0314.grek
-Colour: ffffffff
 EndChar
 
 StartChar: uni0316
@@ -55369,7 +55432,6 @@ SplineSet
  -334 -199 -334 -199 -458 -248 c 1,17,-1
  -466 -231 l 1,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni0327
@@ -55604,7 +55666,6 @@ EndSplineSet
 Substitution2: "Cyrillic Capital Accents-1" uni0327.cap
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0327.cap
 Substitution2: "Capital Accents-1" uni0327.cap
-Colour: ffffffff
 EndChar
 
 StartChar: uni0328
@@ -55693,7 +55754,6 @@ EndSplineSet
 Substitution2: "Cyrillic Capital Accents-1" uni0328.cap
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0328.cap
 Substitution2: "Capital Accents-1" uni0328.cap
-Colour: ffffffff
 EndChar
 
 StartChar: uni032C
@@ -55934,7 +55994,6 @@ SplineSet
  -214 506 -214 506 -232 519 c 128,-1,19
  -250 532 -250 532 -250 555 c 0,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni0342
@@ -56050,7 +56109,6 @@ SplineSet
 EndSplineSet
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0342.iota
 Substitution2: "Greek Accents for Iota-1" uni0342.iota
-Colour: ffffffff
 EndChar
 
 StartChar: uni0343
@@ -56145,7 +56203,6 @@ SplineSet
  -229 634 -229 634 -242.5 645 c 128,-1,19
  -256 656 -256 656 -256 676 c 0,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni0344
@@ -56275,7 +56332,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Greek Composite Accents-1" uni0308 acutecomb
-Colour: ffffffff
 EndChar
 
 StartChar: uni0345
@@ -56331,7 +56387,6 @@ SplineSet
  -462 -282 -462 -282 -471 -271 c 128,-1,9
  -480 -260 -480 -260 -480 -246 c 0,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni0351
@@ -56408,7 +56463,6 @@ SplineSet
  -219 508 -219 508 -243.5 537.5 c 128,-1,17
  -268 567 -268 567 -268 606 c 0,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni0357
@@ -56485,7 +56539,6 @@ SplineSet
  -193 500 -193 500 -239 500 c 0,16,17
  -254 500 -254 500 -268 503 c 1,0,-1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni0359
@@ -76535,7 +76588,6 @@ DStem2: 91.9701 0 182.97 0 0.262189 0.965016<63.0915 224.976 258.216 595.434 622
 LayerCount: 3
 Fore
 Refer: 157 222 N 1 0 0 1 0 0 3
-Validated: 32769
 Layer: 2
 Refer: 157 222 N 1 0 0 1 0 0 2
 Colour: ffff
@@ -78136,6 +78188,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 550 782 basechar 0
+AnchorPoint: "Top" 544 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -78175,7 +78229,6 @@ SplineSet
  332 0 l 1
  116 0 l 25x7e
 EndSplineSet
-Validated: 19493
 Layer: 2
 SplineSet
 116 0 m 1,0,-1
@@ -78836,6 +78889,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 602 782 basechar 0
+AnchorPoint: "Top" 596 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -78878,7 +78933,6 @@ SplineSet
  656 362 l 1
  576 59 l 2
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 8 82 m 0,0,1
@@ -79202,6 +79256,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 346 0 basechar 0
+AnchorPoint: "Dotaccent" 558 782 basechar 0
+AnchorPoint: "Top" 552 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -79584,6 +79641,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 550 782 basechar 0
+AnchorPoint: "Top" 544 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -79627,7 +79686,6 @@ SplineSet
  435 0 l 25
  116 0 l 25
 EndSplineSet
-Validated: 19493
 Layer: 2
 SplineSet
 116 0 m 1,0,-1
@@ -79912,6 +79970,8 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 544 782 basechar 0
+AnchorPoint: "Top" 538 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -79952,7 +80012,6 @@ SplineSet
  307 0 l 9
  -10 0 l 1
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 -10 0 m 1,0,-1
@@ -80203,6 +80262,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 226 0 basechar 0
+AnchorPoint: "Dotaccent" 458 782 basechar 0
+AnchorPoint: "Top" 452 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -80234,7 +80296,6 @@ SplineSet
  260 362 l 1
  180 59 l 2
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 -30 0 m 1,0,-1
@@ -80472,6 +80533,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 312 0 basechar 0
 AnchorPoint: "Top" 524 762 basechar 0
 AnchorPoint: "Dotaccent" 530 782 basechar 0
 LayerCount: 3
@@ -81449,6 +81511,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 252 0 basechar 0
 AnchorPoint: "Top" 452 762 basechar 0
 AnchorPoint: "Dotaccent" 458 782 basechar 0
 LayerCount: 3
@@ -82137,6 +82200,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 336 0 basechar 0
 AnchorPoint: "Top" 494 762 basechar 0
 AnchorPoint: "Dotaccent" 500 782 basechar 0
 LayerCount: 3
@@ -83496,6 +83560,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 346 0 basechar 0
 AnchorPoint: "Top" 489 762 basechar 0
 AnchorPoint: "Dotaccent" 495 782 basechar 0
 LayerCount: 3
@@ -83752,6 +83817,9 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 492 0 basechar 0
+AnchorPoint: "Dotaccent" 704 782 basechar 0
+AnchorPoint: "Top" 698 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -83797,7 +83865,6 @@ SplineSet
  996 0 l 25
  -10 0 l 1
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 -10 0 m 1,0,-1
@@ -84047,6 +84114,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 698 762 basechar 0
+AnchorPoint: "Dotaccent" 704 782 basechar 0
+AnchorPoint: "Bottom" 492 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -84095,7 +84165,6 @@ SplineSet
  966 -69 963 0 862 0 c 2
  -10 0 l 1
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 -10 0 m 1,0,-1
@@ -85891,6 +85960,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 196 0 basechar 0
+AnchorPoint: "Dotaccent" 368 772 basechar 0
+AnchorPoint: "Top" 362 752 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -85917,7 +85989,6 @@ SplineSet
  426 140 316 -14 186 -14 c 0
  122 -14 52 44 52 164 c 0
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 124 104 m 0,0,1
@@ -86600,6 +86671,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 196 0 basechar 0
+AnchorPoint: "Dotaccent" 368 772 basechar 0
+AnchorPoint: "Top" 362 752 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -86624,7 +86698,6 @@ SplineSet
  355 73 278 -12 186 -12 c 0
  122 -12 52 44 52 164 c 0
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 124 104 m 0,0,1
@@ -87331,6 +87404,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 152 0 basechar 0
 AnchorPoint: "Top" 264 508 basechar 0
 AnchorPoint: "Dotaccent" 270 528 basechar 0
 LayerCount: 3
@@ -87453,6 +87527,7 @@ TeX: 97 0
 HStem: -12 35<363.984 410.844> 0 21<82 153.487> 226 24<217 306.887> 422 34<137.182 196.5 404.219 462>
 VStem: 184 58<291.797 421.611> 294 68<23.8142 161.024> 318 64<93.3701 216.628> 444 70<344.188 415.663>
 DStem2: 78.7397 -12 144.74 -12 0.262189 0.965016<29.7395 264.089 289.085 404.732>
+AnchorPoint: "Bottom" 227 0 basechar 0
 AnchorPoint: "Top" 324 508 basechar 0
 AnchorPoint: "Dotaccent" 330 528 basechar 0
 LayerCount: 3
@@ -88437,6 +88512,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 260 0 basechar 0
 AnchorPoint: "Top" 340 508 basechar 0
 AnchorPoint: "Dotaccent" 346 528 basechar 0
 LayerCount: 3
@@ -89864,6 +89940,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 262 0 basechar 0
 AnchorPoint: "Top" 340 508 basechar 0
 AnchorPoint: "Dotaccent" 346 528 basechar 0
 LayerCount: 3
@@ -90388,6 +90465,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 396 0 basechar 0
+AnchorPoint: "Dotaccent" 488 528 basechar 0
+AnchorPoint: "Top" 482 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -90430,7 +90510,6 @@ SplineSet
  122 426 75 314 56 262 c 9
  36 268 l 17xbe
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 36 268 m 1,0,1
@@ -91025,6 +91104,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 482 508 basechar 0
+AnchorPoint: "Dotaccent" 488 528 basechar 0
+AnchorPoint: "Bottom" 396 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -91076,7 +91158,6 @@ SplineSet
  122 426 75 314 56 262 c 9
  36 268 l 17xdf
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 36 268 m 1,0,1
@@ -93385,6 +93466,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 363 772 basechar 0
+AnchorPoint: "Top" 356 752 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -93422,7 +93505,6 @@ SplineSet
  166 417 l 17
  50 417 l 1xfc
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 50 417 m 1,0,-1
@@ -94034,6 +94116,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 346 528 basechar 0
+AnchorPoint: "Top" 340 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -94072,7 +94156,6 @@ SplineSet
  367 143 l 2
  360 122 357 103 357 75 c 0
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 10 66 m 0,0,1
@@ -94489,6 +94572,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 346 528 basechar 0
+AnchorPoint: "Top" 340 508 basechar 0
+AnchorPoint: "Bottom" 260 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -94871,6 +94957,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 363 772 basechar 0
+AnchorPoint: "Top" 356 752 basechar 0
+AnchorPoint: "Bottom" 200 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -94912,7 +95001,6 @@ SplineSet
  166 417 l 17
  50 417 l 1x7e
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 50 417 m 1,0,-1
@@ -110002,6 +110090,9 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 180 0 basechar 0
+AnchorPoint: "Dotaccent" 494 782 basechar 0
+AnchorPoint: "Top" 488 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -110026,7 +110117,6 @@ SplineSet
  322 0 l 25
  -10 0 l 25
 EndSplineSet
-Validated: 19489
 Layer: 2
 SplineSet
 -10 0 m 1,0,-1
@@ -110197,6 +110287,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 268 528 basechar 0
+AnchorPoint: "Top" 262 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -110223,7 +110315,6 @@ SplineSet
  268 57 215 -12 128 -12 c 0
  76 -12 14 16 14 88 c 0xb6
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 14 88 m 0,0,1
@@ -110468,6 +110559,9 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 346 0 basechar 0
+AnchorPoint: "Dotaccent" 558 782 basechar 0
+AnchorPoint: "Top" 552 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -110833,6 +110927,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 346 528 basechar 0
+AnchorPoint: "Top" 340 508 basechar 0
+AnchorPoint: "Bottom" 260 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -112205,6 +112302,7 @@ VWidth: 0
 HStem: -202 104<115.236 200.764> -12 24<165.021 239.187> 432 24<289.949 352.277> 688 24<109 206.001>
 VStem: 68 70<48.1816 221.848> 106 104<-192.764 -107.236> 374 72<213.361 401.061>
 DStem2: 20.4763 -12 88.8317 -12 0.262189 0.965017<396.154 719.492>
+AnchorPoint: "Top" 254 762 basechar 0
 AnchorPoint: "Dotaccent" 372 528 basechar 0
 LayerCount: 3
 Fore
@@ -112242,6 +112340,7 @@ VWidth: 0
 HStem: -168 40<8 312> -12 24<165.021 239.187> 432 24<289.949 352.277> 688 24<109 206.001>
 VStem: -2 324 68 70<48.1816 221.848> 374 72<213.361 401.061>
 DStem2: 20.4763 -12 88.8317 -12 0.262189 0.965017<396.154 719.492>
+AnchorPoint: "Top" 254 762 basechar 0
 AnchorPoint: "Dotaccent" 372 528 basechar 0
 LayerCount: 3
 Fore
@@ -112348,6 +112447,7 @@ VWidth: 0
 HStem: -202 104<131.236 216.764> -12 24<133.498 197.667> -12 34<336 406.983> 432 24<243.499 313.893> 688 24<357 454>
 VStem: 42 72<37.1427 224.454> 122 104<-192.764 -107.236> 304 58<22.0502 136.661>
 DStem2: 270.3 -12 337.691 -12 0.262189 0.965017<391.703 719.482>
+AnchorPoint: "Top" 515 762 basechar 0
 AnchorPoint: "Dotaccent" 286 528 basechar 0
 LayerCount: 3
 Fore
@@ -112385,6 +112485,7 @@ VWidth: 0
 HStem: -168 40<24 328> -12 24<133.498 197.667> -12 34<336 406.983> 432 24<243.499 313.893> 688 24<357 454>
 VStem: 14 324 42 72<37.1427 224.454> 304 58<22.0502 136.661>
 DStem2: 270.3 -12 337.691 -12 0.262189 0.965017<391.703 719.482>
+AnchorPoint: "Top" 515 762 basechar 0
 AnchorPoint: "Dotaccent" 286 528 basechar 0
 LayerCount: 3
 Fore
@@ -112422,6 +112523,7 @@ VWidth: 0
 HStem: -248 21G<102 140.5> -122 82<139.603 185.719> -12 24<133.498 197.667> -12 34<336 406.983> 432 24<243.499 313.893> 688 24<357 454>
 VStem: 42 72<37.1427 224.454> 195 39<-166.716 -78> 304 58<22.0502 136.661>
 DStem2: 270.3 -12 337.691 -12 0.262189 0.965017<391.703 719.482>
+AnchorPoint: "Top" 515 762 basechar 0
 AnchorPoint: "Dotaccent" 286 528 basechar 0
 LayerCount: 3
 Fore
@@ -112459,6 +112561,7 @@ VWidth: 0
 HStem: -238 164 -12 24<133.498 197.667> -12 34<336 406.983> 432 24<243.499 313.893> 688 24<357 454>
 VStem: 20 262 42 72<37.1427 224.454> 304 58<22.0502 136.661>
 DStem2: 270.3 -12 337.691 -12 0.262189 0.965017<391.703 719.482>
+AnchorPoint: "Top" 515 762 basechar 0
 AnchorPoint: "Dotaccent" 286 528 basechar 0
 LayerCount: 3
 Fore
@@ -113145,6 +113248,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 558 782 basechar 0
+AnchorPoint: "Top" 552 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -113650,6 +113755,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 363 772 basechar 0
+AnchorPoint: "Top" 356 752 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -116169,6 +116276,9 @@ SVTCA[y-axis]
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 396 752 basechar 0
+AnchorPoint: "Dotaccent" 404 778 basechar 0
+AnchorPoint: "Bottom" 224 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -178671,7 +178781,6 @@ SplineSet
  -263 526 -263 526 -295.5 553 c 128,-1,17
  -328 580 -328 580 -328 627 c 0,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uniA67D
@@ -178861,7 +178970,6 @@ SplineSet
  -240 594 -240 594 -272 617.5 c 128,-1,20
  -304 641 -304 641 -304 680 c 0,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uniA67E
@@ -182826,6 +182934,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 158 0 basechar 0
+AnchorPoint: "Top" 224 508 basechar 0
+AnchorPoint: "Dotaccent" 230 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -182845,7 +182956,6 @@ SplineSet
  164 416 l 1
  81 416 l 1
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 81 416 m 1,0,-1
@@ -183037,6 +183147,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 196 0 basechar 0
+AnchorPoint: "Dotaccent" 368 772 basechar 0
+AnchorPoint: "Top" 362 752 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -183067,7 +183180,6 @@ SplineSet
  426 140 316 -12 186 -12 c 0
  122 -12 52 44 52 164 c 0
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 124 104 m 0,0,1
@@ -183594,6 +183706,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 348 508 basechar 0
+AnchorPoint: "Bottom" 262 0 basechar 0
+AnchorPoint: "Dotaccent" 354 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -183625,7 +183740,6 @@ SplineSet
  146 130 l 2
  139 104 130 73 130 55 c 0
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 72 74 m 0,0,1
@@ -184100,6 +184214,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 449 508 basechar 0
+AnchorPoint: "Dotaccent" 455 528 basechar 0
+AnchorPoint: "Bottom" 363 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -184142,7 +184259,6 @@ SplineSet
  299 151 229 -12 142 -12 c 0
  108 -12 72 10 72 74 c 0
 EndSplineSet
-Validated: 19457
 Layer: 2
 SplineSet
 130 55 m 128,-1,1
@@ -190082,7 +190198,6 @@ SplineSet
  -247 859 l 2,8,9
  -262 876 -262 876 -262 895 c 0,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: acutecomb.cap
@@ -190138,7 +190253,6 @@ SplineSet
  -156 762 l 1,8,-1
  -168 774 l 1,0,-1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: circumflexcmb.cap
@@ -190209,7 +190323,6 @@ SplineSet
  -276 771 -276 771 -304 762 c 1,12,-1
  -310 778 l 1,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: tildecomb.cap
@@ -190304,7 +190417,6 @@ SplineSet
  -256 850 -256 850 -264 808 c 1,19,-1
  -284 810 l 1,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: macroncmb.cap
@@ -190359,7 +190471,6 @@ SplineSet
  22 822 l 1,3,-1
  -292 822 l 1,0,-1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: brevecmb.cap
@@ -190455,7 +190566,6 @@ SplineSet
  -203 762 -203 762 -230.5 796 c 128,-1,16
  -258 830 -258 830 -258 877 c 0,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni0307.cap
@@ -190517,7 +190627,6 @@ SplineSet
  -150 798 -150 798 -165 813 c 128,-1,0
  -180 828 -180 828 -180 850 c 128,-1,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni0308.cap
@@ -190606,7 +190715,6 @@ SplineSet
  -252 798 -252 798 -267 813 c 128,-1,8
  -282 828 -282 828 -282 850 c 128,-1,9
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni030A.cap
@@ -190717,7 +190825,6 @@ SplineSet
  -185 924 -185 924 -205.5 903.5 c 128,-1,19
  -226 883 -226 883 -226 852 c 0,10,11
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni030B.cap
@@ -190808,7 +190915,6 @@ SplineSet
  -237 762 l 1,17,-1
  -250 773 l 1,9,-1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni030C.cap
@@ -190866,7 +190972,6 @@ SplineSet
  -177 762 l 1,6,-1
  -278 906 l 1,0,-1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni030F.cap
@@ -190953,7 +191058,6 @@ SplineSet
  -321 859 l 2,18,19
  -336 876 -336 876 -336 895 c 0,10,11
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni0311.cap
@@ -191012,7 +191116,6 @@ SplineSet
  -199 864 -199 864 -274 762 c 1,12,-1
  -294 770 l 1,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni0327.cap
@@ -191237,7 +191340,6 @@ SplineSet
  -461 -238 -461 -238 -484.5 -217.5 c 128,-1,34
  -508 -197 -508 -197 -508 -164 c 0,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni0328.cap
@@ -191324,7 +191426,6 @@ SplineSet
  -446 -247 -446 -247 -472 -227.5 c 128,-1,20
  -498 -208 -498 -208 -498 -169 c 0,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: ringacute.cap
@@ -191601,7 +191702,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Capital Composite Accents-1" acutecomb uni0307
-Colour: ffffffff
 EndChar
 
 StartChar: tildecomb_acutecomb.cap
@@ -191743,7 +191843,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Capital Composite Accents-1" tildecomb acutecomb
-Colour: ffffffff
 EndChar
 
 StartChar: tildecomb_uni0308.cap
@@ -191954,7 +192053,6 @@ SplineSet
  -302 770 l 1,16,17
 EndSplineSet
 Ligature2: "Capital Composite Accents-1" tildecomb uni0308
-Colour: ffffffff
 EndChar
 
 StartChar: macroncmb_gravecomb.cap
@@ -192031,7 +192129,6 @@ SplineSet
  -178 910 -178 910 -178 927 c 0,4,5
 EndSplineSet
 Ligature2: "Capital Composite Accents-1" macroncmb gravecomb
-Colour: ffffffff
 EndChar
 
 StartChar: macroncmb_acutecomb.cap
@@ -192109,7 +192206,6 @@ SplineSet
 EndSplineSet
 LCarets2: 1 0
 Ligature2: "Capital Composite Accents-1" macroncmb acutecomb
-Colour: ffffffff
 EndChar
 
 StartChar: macroncmb_brevecmb.cap
@@ -192184,7 +192280,6 @@ SplineSet
  -296 776 l 1,13,-1
 EndSplineSet
 Ligature2: "Capital Composite Accents-1" macroncmb brevecmb
-Colour: ffffffff
 EndChar
 
 StartChar: macroncmb_uni0308.cap
@@ -192296,7 +192391,6 @@ SplineSet
  -304 778 l 1,16,-1
 EndSplineSet
 Ligature2: "Capital Composite Accents-1" macroncmb uni0308
-Colour: ffffffff
 EndChar
 
 StartChar: brevecmb_gravecomb.cap
@@ -192368,7 +192462,6 @@ SplineSet
  -268 828 -268 828 -268 854 c 1,10,-1
 EndSplineSet
 Ligature2: "Capital Composite Accents-1" brevecmb gravecomb
-Colour: ffffffff
 EndChar
 
 StartChar: brevecmb_acutecomb.cap
@@ -192440,7 +192533,6 @@ SplineSet
  -268 828 -268 828 -268 854 c 1,10,-1
 EndSplineSet
 Ligature2: "Capital Composite Accents-1" brevecmb acutecomb
-Colour: ffffffff
 EndChar
 
 StartChar: uni0308_gravecomb.cap
@@ -192560,7 +192652,6 @@ SplineSet
  -288 793 -288 793 -288 810 c 128,-1,19
 EndSplineSet
 Ligature2: "Capital Composite Accents-1" uni0308 gravecomb
-Colour: ffffffff
 EndChar
 
 StartChar: uni0308_acutecomb.cap
@@ -192692,7 +192783,6 @@ SplineSet
  -288 793 -288 793 -288 810 c 128,-1,19
 EndSplineSet
 Ligature2: "Capital Composite Accents-1" uni0308 acutecomb
-Colour: ffffffff
 EndChar
 
 StartChar: uni030A_acutecomb.cap
@@ -192818,7 +192908,6 @@ SplineSet
  -198 836 -198 836 -198 796 c 128,-1,19
 EndSplineSet
 Ligature2: "Capital Composite Accents-1" uni030A acutecomb
-Colour: ffffffff
 EndChar
 
 StartChar: uni030C_uni0307.cap
@@ -192913,7 +193002,6 @@ SplineSet
  -280 900 l 1,8,-1
 EndSplineSet
 Ligature2: "Capital Composite Accents-1" uni030C uni0307
-Colour: ffffffff
 EndChar
 
 StartChar: afii10017.csl
@@ -194199,7 +194287,6 @@ SplineSet
  -208 742 -208 742 -258 774 c 128,-1,32
  -308 806 -308 806 -308 858 c 0,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: brevecmb.cyr
@@ -194297,7 +194384,6 @@ SplineSet
  -272 494 -272 494 -302 520.5 c 128,-1,22
  -332 547 -332 547 -332 589 c 0,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: zero.dnom
@@ -195092,7 +195178,6 @@ SplineSet
  -298 548 -298 548 -312 562 c 128,-1,8
  -326 576 -326 576 -326 596 c 128,-1,9
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni0308_gravecomb.i
@@ -195246,7 +195331,6 @@ SplineSet
  -307 626 -307 626 -314 582 c 1,19,-1
  -336 586 l 1,0,1
 EndSplineSet
-Colour: ffffffff
 EndChar
 
 StartChar: uni1FC0.iota
@@ -195491,7 +195575,6 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Greek Composite Accents for Iota-1" uni0313.grek uni0342
 Ligature2: "Greek Composite Accents for Iota-1" uni0313 uni0342
-Colour: ffffffff
 EndChar
 
 StartChar: uni0314_uni0342.iota
@@ -195682,7 +195765,6 @@ EndSplineSet
 LCarets2: 1 0
 Ligature2: "Greek Composite Accents for Iota-1" uni0314.grek uni0342
 Ligature2: "Greek Composite Accents for Iota-1" uni0314 uni0342
-Colour: ffffffff
 EndChar
 
 StartChar: afii10066.low
@@ -196794,6 +196876,7 @@ Flags: W
 HStem: -12 34<114.5 185.818> 416 28<88 164 231 397> 508 162
 VStem: 82 58<22.0502 159.016> 210 182
 DStem2: 47.9856 -12 115.246 -12 0.262189 0.965017<108.262 443.445>
+AnchorPoint: "Bottom" 158 0 basechar 0
 LayerCount: 3
 Fore
 Refer: 1519 63172 N 1 0 0 1 0 0 2
@@ -197001,6 +197084,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 320 0 basechar 0
+AnchorPoint: "Dotaccent" 732 782 basechar 0
+AnchorPoint: "Top" 726 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -200125,6 +200211,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Bottom" 180 0 basechar 0
+AnchorPoint: "Dotaccent" 494 782 basechar 0
+AnchorPoint: "Top" 488 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -200623,6 +200712,8 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 494 782 basechar 0
+AnchorPoint: "Top" 488 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -200895,6 +200986,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 268 528 basechar 0
+AnchorPoint: "Top" 262 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -201426,6 +201519,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Bottom" 448 0 basechar 0
+AnchorPoint: "Dotaccent" 654 782 basechar 0
+AnchorPoint: "Top" 648 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -201440,7 +201536,7 @@ SplineSet
  842 499 813 402 742 381 c 1
  739 372 l 1
  827 372 856 328 856 262 c 0xb9ca
- 856 224 846 181 836 144 c 4
+ 856 224 846 181 836 144 c 0
  828 115 822 87 822 68 c 0
  822 47 828 32 851 32 c 0xb5d2
  902 32 925 119 936 162 c 1
@@ -201454,8 +201550,8 @@ SplineSet
  852 -7 l 1
  842 -10 830 -12 818 -12 c 0
  763 -12 716 0 716 69 c 0
- 716 87 720 109 727 137 c 6xd5d6
- 753 233 l 6
+ 716 87 720 109 727 137 c 2xd5d6
+ 753 233 l 2
  759 250 762 264 762 278 c 0
  762 330 723 358 683 358 c 2
  590 358 l 1
@@ -202096,6 +202192,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Bottom" 358 0 basechar 0
+AnchorPoint: "Dotaccent" 496 528 basechar 0
+AnchorPoint: "Top" 490 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -202635,6 +202734,8 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 458 782 basechar 0
+AnchorPoint: "Top" 452 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -202825,6 +202926,8 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 270 528 basechar 0
+AnchorPoint: "Top" 264 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -203215,6 +203318,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 500 782 basechar 0
+AnchorPoint: "Top" 494 762 basechar 0
+AnchorPoint: "Bottom" 336 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -203606,6 +203712,8 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 330 528 basechar 0
+AnchorPoint: "Top" 324 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -204054,6 +204162,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 500 782 basechar 0
+AnchorPoint: "Top" 494 762 basechar 0
+AnchorPoint: "Bottom" 336 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -204534,6 +204645,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Bottom" 227 0 basechar 0
+AnchorPoint: "Dotaccent" 330 528 basechar 0
+AnchorPoint: "Top" 324 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -204842,6 +204956,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 649 782 basechar 0
+AnchorPoint: "Top" 643 762 basechar 0
+AnchorPoint: "Bottom" 485 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -205249,6 +205366,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 366 528 basechar 0
+AnchorPoint: "Top" 360 508 basechar 0
+AnchorPoint: "Bottom" 263 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -205550,6 +205670,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Bottom" 346 0 basechar 0
+AnchorPoint: "Dotaccent" 558 782 basechar 0
+AnchorPoint: "Top" 552 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -205864,6 +205987,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 346 528 basechar 0
+AnchorPoint: "Top" 340 508 basechar 0
+AnchorPoint: "Bottom" 260 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -206130,6 +206256,8 @@ NPUSHB
  26
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 494 782 basechar 0
+AnchorPoint: "Top" 488 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -206285,6 +206413,8 @@ NPUSHB
  22
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 320 528 basechar 0
+AnchorPoint: "Top" 314 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -206497,6 +206627,8 @@ NPUSHB
  28
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 401 528 basechar 0
+AnchorPoint: "Top" 395 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -206705,6 +206837,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Bottom" 278 0 basechar 0
+AnchorPoint: "Dotaccent" 496 782 basechar 0
+AnchorPoint: "Top" 490 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -206947,6 +207082,8 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Top" 395 508 basechar 0
+AnchorPoint: "Dotaccent" 401 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -207226,6 +207363,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 495 782 basechar 0
+AnchorPoint: "Top" 489 762 basechar 0
+AnchorPoint: "Bottom" 346 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -207233,8 +207373,8 @@ SplineSet
  798 712 l 1
  790 680 l 1
  714 680 l 2
- 695 680 686 672 680 653 c 6
- 524 74 l 6
+ 695 680 686 672 680 653 c 2
+ 524 74 l 2
  514 35 527 18 561 18 c 2
  659 18 l 1xb8
  593 -226 l 1
@@ -207260,8 +207400,8 @@ SplineSet
  276 474 l 2
  272 459 266 432 266 422 c 0
  266 370 282 336 350 336 c 0
- 421 336 475 360 517 392 c 5
- 589 653 l 6
+ 421 336 475 360 517 392 c 1
+ 589 653 l 2
  594 672 589 680 570 680 c 2
  494 680 l 1
  502 712 l 1x78
@@ -207458,6 +207598,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 346 528 basechar 0
+AnchorPoint: "Top" 340 508 basechar 0
+AnchorPoint: "Bottom" 262 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -207757,6 +207900,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 495 782 basechar 0
+AnchorPoint: "Top" 489 762 basechar 0
+AnchorPoint: "Bottom" 346 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -208065,6 +208211,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 346 528 basechar 0
+AnchorPoint: "Top" 340 508 basechar 0
+AnchorPoint: "Bottom" 262 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -208274,6 +208423,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 351 782 basechar 0
+AnchorPoint: "Top" 345 762 basechar 0
+AnchorPoint: "Bottom" 346 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -208609,6 +208761,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 200 0 basechar 0
+AnchorPoint: "Top" 356 752 basechar 0
+AnchorPoint: "Dotaccent" 363 772 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -208837,6 +208992,8 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 495 782 basechar 0
+AnchorPoint: "Top" 489 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -209071,6 +209228,8 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 346 528 basechar 0
+AnchorPoint: "Top" 340 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -209550,6 +209709,7 @@ Width: 640
 Flags: W
 HStem: -18 32<184.571 346.121> 162 120<104.327 178.864> 362 36<236 451.156> 698 32<361.988 506.901> 798 104<325.236 410.764 529.236 614.764>
 VStem: 38 56<88.109 206.5> 316 104<807.236 892.764> 484 106<147.839 297.647> 520 104<807.236 892.764> 560 96<492.653 648.357>
+AnchorPoint: "Bottom" 252 0 basechar 0
 LayerCount: 3
 Fore
 Refer: 1571 -1 N 1 0 0 1 598 0 2
@@ -209566,6 +209726,7 @@ Width: 414
 Flags: W
 HStem: -12 24<104.5 210.653> 226 28<130 258.247> 432 24<194.937 290.388> 548 96<154.332 233.668 342.332 421.668>
 VStem: 32 53<29.8311 108> 146 96<556.332 635.668> 282 72<75.8842 204.642> 316 64<299.665 416.504> 334 96<556.332 635.668>
+AnchorPoint: "Bottom" 152 0 basechar 0
 LayerCount: 3
 Fore
 Refer: 645 1079 N 1 0 0 1 0 0 1
@@ -210084,6 +210245,7 @@ Flags: W
 HStem: 0 32<280 423.331 517.724 630> 304 32<290.662 431.115> 680 32<146 234.115 328.391 434 502 590.139 684.803 790> 798 104<350.236 435.764 554.236 639.764>
 VStem: 178 88<362.91 517.273> 341 104<807.236 892.764> 545 104<807.236 892.764>
 DStem2: 56.3906 0 147.217 0 0.262189 0.965017<462.66 698.573> 411.97 0 502.97 0 0.262189 0.965017<62.9824 369.951 382.835 698.603>
+AnchorPoint: "Bottom" 346 0 basechar 0
 LayerCount: 3
 Fore
 Refer: 1571 -1 N 1 0 0 1 623 0 2
@@ -210101,6 +210263,7 @@ Flags: W
 HStem: -12 34<352.5 423.818> 134 24<206.443 255.556> 422 34<137.182 196.5> 424 20G<406.423 478> 548 96<219.332 298.668 407.332 486.668>
 VStem: 142 58<158.96 280.093> 184 58<296.649 421.611> 211 96<556.332 635.668> 320 58<22.0502 158.102> 399 96<556.332 635.668>
 DStem2: 285.986 -12 353.246 -12 0.262189 0.965017<108.262 473.087>
+AnchorPoint: "Bottom" 262 0 basechar 0
 LayerCount: 3
 Fore
 Refer: 661 1095 N 1 0 0 1 0 0 1
@@ -210280,6 +210443,8 @@ NPUSHB
  27
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 494 782 basechar 0
+AnchorPoint: "Top" 488 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -210413,6 +210578,8 @@ NPUSHB
  25
 CALL
 EndTTInstrs
+AnchorPoint: "Dotaccent" 268 528 basechar 0
+AnchorPoint: "Top" 262 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -210761,6 +210928,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Bottom" 346 0 basechar 0
+AnchorPoint: "Dotaccent" 548 782 basechar 0
+AnchorPoint: "Top" 542 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -210992,6 +211162,9 @@ NPUSHB
  29
 CALL
 EndTTInstrs
+AnchorPoint: "Bottom" 260 0 basechar 0
+AnchorPoint: "Dotaccent" 356 528 basechar 0
+AnchorPoint: "Top" 350 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -212923,91 +213096,108 @@ StartChar: Ohorn
 Encoding: 416 416 1739
 Width: 710
 Flags: W
+HStem: -18 32<252.743 386.202> 698 32<391.798 525.726>
+VStem: 92 96<125.967 388.619> 590 96<322.46 586.048> 628 63<752.703 812>
 TtInstrs:
-NPUSHB
- 10
- 16
- 1
+SVTCA[y-axis]
+PUSHB_3
+ 6
  3
- 1
- 22
- 1
- 4
- 3
- 2
- 74
-MPPEM
-PUSHB_1
- 43
-LT
-IF
-NPUSHB
- 26
  0
- 2
- 1
- 2
- 131
- 0
- 3
- 3
- 1
- 95
- 0
- 1
- 1
- 49
- 75
- 0
- 4
- 4
- 0
- 95
- 0
- 0
- 0
- 50
- 0
- 76
-ELSE
-NPUSHB
- 24
- 0
- 2
- 1
- 2
- 131
- 0
- 1
- 0
- 3
- 4
- 1
- 3
- 103
- 0
- 4
- 4
- 0
- 95
- 0
- 0
- 0
- 53
- 0
- 76
-EIF
-PUSHB_8
- 39
- 39
- 20
- 38
- 37
- 5
- 8
- 25
 CALL
+PUSHB_2
+ 37
+ 7
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 14
+ 6
+ 0
+CALL
+PUSHB_2
+ 28
+ 7
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 14
+ 28
+ 10
+CALL
+PUSHB_4
+ 64
+ 14
+ 20
+ 9
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 41
+MDAP[rnd]
+PUSHB_1
+ 10
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 34
+MDRP[min,rnd,black]
+PUSHB_1
+ 34
+SRP0
+PUSHB_2
+ 25
+ 1
+CALL
+PUSHB_1
+ 2
+MDRP[min,rnd,black]
+PUSHB_1
+ 20
+SHP[rp2]
+PUSHB_1
+ 2
+SRP0
+PUSHB_2
+ 19
+ 11
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 19
+MDAP[rnd]
+PUSHB_2
+ 42
+ 1
+CALL
+PUSHB_2
+ 25
+ 34
+SRP1
+SRP2
+PUSHB_4
+ 14
+ 16
+ 6
+ 22
+DEPTH
+SLOOP
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 28
+ 37
+SRP1
+SRP2
+PUSHB_3
+ 10
+ 22
+ 2
+IP
+IP
+IP
+IUP[y]
+IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 494 762 basechar 0
+AnchorPoint: "Bottom" 310 0 basechar 0
+AnchorPoint: "Dotaccent" 500 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -213067,103 +213257,102 @@ StartChar: ohorn
 Encoding: 417 417 1740
 Width: 462
 Flags: W
+HStem: -12 24<153.827 233.998> 432 24<246.29 325.748>
+VStem: 52 72<62.4297 242.48> 354 72<201.52 381.819> 436 63<481.803 544>
 TtInstrs:
-PUSHB_6
- 2
- 1
- 5
- 4
- 1
- 74
-MPPEM
-PUSHB_1
- 45
-LT
-IF
-NPUSHB
- 31
- 0
- 3
- 1
- 3
- 131
- 0
- 2
- 2
- 44
- 75
- 0
- 4
- 4
- 1
- 95
- 0
- 1
- 1
- 44
- 75
- 0
- 5
- 5
- 0
- 95
- 0
- 0
- 0
- 53
- 0
- 76
-ELSE
-NPUSHB
- 34
- 0
- 3
- 1
- 3
- 131
- 0
- 2
- 1
- 4
- 1
- 2
- 4
- 126
- 0
- 4
- 4
- 1
- 95
- 0
- 1
- 1
- 44
- 75
- 0
- 5
- 5
- 0
- 95
- 0
- 0
- 0
- 53
- 0
- 76
-EIF
-NPUSHB
+SVTCA[y-axis]
+PUSHB_3
  9
- 39
- 37
- 18
- 17
- 38
- 40
- 6
- 8
- 26
+ 3
+ 0
 CALL
+PUSHB_2
+ 38
+ 8
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 17
+ 4
+ 0
+CALL
+PUSHB_2
+ 29
+ 8
+MIRP[rp0,min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 42
+MDAP[rnd]
+PUSHB_1
+ 13
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 35
+ 11
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 35
+SRP0
+PUSHB_2
+ 26
+ 1
+CALL
+PUSHB_2
+ 5
+ 11
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 5
+SRP0
+PUSHB_2
+ 22
+ 1
+CALL
+PUSHB_2
+ 23
+ 11
+MIRP[rp0,min,rnd,black]
+PUSHB_2
+ 43
+ 1
+CALL
+PUSHB_2
+ 26
+ 35
+SRP1
+SRP2
+PUSHB_3
+ 17
+ 19
+ 9
+IP
+IP
+IP
+PUSHB_1
+ 5
+SRP1
+PUSHB_1
+ 2
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 29
+ 38
+SRP1
+SRP2
+PUSHB_3
+ 2
+ 13
+ 5
+IP
+IP
+IP
+IUP[y]
+IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 191 0 basechar 0
+AnchorPoint: "Top" 314 508 basechar 0
+AnchorPoint: "Dotaccent" 320 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -213391,6 +213580,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 544 762 basechar 0
+AnchorPoint: "Dotaccent" 550 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -213809,6 +214000,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 262 0 basechar 0
+AnchorPoint: "Top" 348 508 basechar 0
+AnchorPoint: "Dotaccent" 354 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -215228,6 +215422,8 @@ Width: 710
 Flags: W
 HStem: -202 104<212.236 297.764>
 VStem: 203 104<-192.764 -107.236>
+AnchorPoint: "Top" 494 762 basechar 0
+AnchorPoint: "Dotaccent" 500 782 basechar 0
 LayerCount: 3
 Fore
 Refer: 1739 416 N 1 0 0 1 0 0 2
@@ -215244,6 +215440,8 @@ Width: 462
 Flags: W
 HStem: -202 104<88.236 173.764>
 VStem: 79 104<-192.764 -107.236>
+AnchorPoint: "Top" 314 508 basechar 0
+AnchorPoint: "Dotaccent" 320 528 basechar 0
 LayerCount: 3
 Fore
 Refer: 1740 417 N 1 0 0 1 0 0 2
@@ -215460,6 +215658,8 @@ Width: 784
 Flags: W
 HStem: -202 104<249.236 334.764>
 VStem: 240 104<-192.764 -107.236>
+AnchorPoint: "Top" 544 762 basechar 0
+AnchorPoint: "Dotaccent" 550 782 basechar 0
 LayerCount: 3
 Fore
 Refer: 1741 431 N 1 0 0 1 0 0 2
@@ -215476,6 +215676,8 @@ Width: 572
 Flags: W
 HStem: -202 104<143.236 228.764>
 VStem: 134 104<-192.764 -107.236>
+AnchorPoint: "Top" 348 508 basechar 0
+AnchorPoint: "Dotaccent" 354 528 basechar 0
 LayerCount: 3
 Fore
 Refer: 1742 432 N 1 0 0 1 0 0 2
@@ -218373,6 +218575,7 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 346 762 basechar 0
 AnchorPoint: "Dotaccent" 286 528 basechar 0
 AnchorPoint: "Bottom" 212 0 basechar 0
 LayerCount: 3
@@ -226424,6 +226627,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 728 782 basechar 0
+AnchorPoint: "Top" 722 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -226825,6 +227030,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 426 528 basechar 0
+AnchorPoint: "Top" 420 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -227165,6 +227372,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 346 0 basechar 0
+AnchorPoint: "Top" 345 762 basechar 0
+AnchorPoint: "Dotaccent" 351 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -227552,6 +227762,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 200 0 basechar 0
+AnchorPoint: "Top" 356 752 basechar 0
+AnchorPoint: "Dotaccent" 363 772 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -228527,6 +228740,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 456 0 basechar 0
+AnchorPoint: "Dotaccent" 656 782 basechar 0
+AnchorPoint: "Top" 650 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -228773,6 +228989,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 304 0 basechar 0
+AnchorPoint: "Dotaccent" 440 528 basechar 0
+AnchorPoint: "Top" 434 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -229031,6 +229250,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 650 762 basechar 0
+AnchorPoint: "Dotaccent" 656 782 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -229295,6 +229516,8 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Top" 434 508 basechar 0
+AnchorPoint: "Dotaccent" 440 528 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -229510,6 +229733,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 503 0 basechar 0
+AnchorPoint: "Dotaccent" 693 782 basechar 0
+AnchorPoint: "Top" 687 762 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -229715,6 +229941,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 356 0 basechar 0
+AnchorPoint: "Dotaccent" 485 528 basechar 0
+AnchorPoint: "Top" 479 508 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -229825,6 +230054,7 @@ Width: 610
 HStem: -18 32<154.985 318.048> 145 118<104.563 178.863> 378 32<321.743 419.161> 628 84<259.196 557>
 VStem: 40 56<64.7705 173> 462 102<153.87 331.741>
 DStem2: 225 352 346 410 0.76898 0.639273<130.124 431.741>
+AnchorPoint: "Bottom" 252 0 basechar 0
 AnchorPoint: "Top" 420 762 basechar 0
 AnchorPoint: "Dotaccent" 426 782 basechar 0
 LayerCount: 3
@@ -230271,6 +230501,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Dotaccent" 500 782 basechar 0
+AnchorPoint: "Top" 494 762 basechar 0
+AnchorPoint: "Bottom" 336 0 basechar 0
 LayerCount: 3
 Fore
 SplineSet
@@ -230758,6 +230991,9 @@ IP
 IUP[y]
 IUP[x]
 EndTTInstrs
+AnchorPoint: "Bottom" 196 0 basechar 0
+AnchorPoint: "Dotaccent" 368 772 basechar 0
+AnchorPoint: "Top" 362 752 basechar 0
 LayerCount: 3
 Fore
 SplineSet
