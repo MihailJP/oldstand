@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300650174
-ModificationTime: 1795856510
+ModificationTime: 1795857727
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -2004,7 +2004,7 @@ Grid
  340 -46 l 1049
 EndSplineSet
 AnchorClass2: "Dotaccent" "'mark' Positioning for Dotaccent" "Enclosing" "'mark' Positioning for Enclosing Figures" "Top" "'mark' Positioning for Top Accents" "Bottom" "'mark' Positioning for Bottom Accents" "GreekTop" "'mark' Positioning for Greek Accents" "GreekTopSunken" "'mark' Lower Positioning for Greek Accents" "GreekCap" "'mark' Positioning for Greek Capital Accents" "TopMark" "'mkmk' Standard Mark to Mark Positioning" "GreekTopMark" "'mkmk' Greek Mark to Mark Positioning" "GreekTopMarkSunken" "'mkmk' Greek Lower Mark to Mark Positioning"
-BeginChars: 65684 1947
+BeginChars: 65684 1948
 
 StartChar: space
 Encoding: 32 32 0
@@ -219624,6 +219624,22 @@ SplineSet
  10 -214 10 -214 47 -214 c 0,53,54
  94 -214 94 -214 94 -82 c 2,0,-1
 EndSplineSet
+EndChar
+
+StartChar: uni02EE
+Encoding: 750 750 1947
+Width: 497
+Flags: W
+HStem: 616 112<77.802 143.623 294.802 360.623>
+VStem: 162 56<561.127 651.5> 379 56<561.127 651.5>
+LayerCount: 3
+Fore
+Refer: 428 787 N 1 0 0 1 617 -44 2
+Refer: 428 787 N 1 -0 -0 1 400 -44 2
+Layer: 2
+Refer: 428 787 N 1 0 0 1 617 -44 2
+Refer: 428 787 N 1 -0 -0 1 400 -44 2
+Colour: ffff
 EndChar
 EndChars
 EndSplineFont
