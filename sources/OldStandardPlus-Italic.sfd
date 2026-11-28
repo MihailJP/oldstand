@@ -17710,11 +17710,11 @@ VStem: -97 59<-220.614 -144> 218 62<290.508 421.481> 240 104<595.236 680.764>
 DStem2: 54.125 -248 118.118 -248 0.262189 0.965017<101.215 659.308>
 LayerCount: 3
 Fore
-Refer: 1517 63166 N 1 0 0 1 0 0 2
+Refer: 1517 567 N 1 0 0 1 0 0 2
 Refer: 421 775 N 1 0 0 1 488 42 2
 Layer: 2
 Refer: 421 775 N 1 0 0 1 488 42 2
-Refer: 1517 63166 N 1 0 0 1 0 0 2
+Refer: 1517 567 N 1 0 0 1 0 0 2
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" dotlessj
 Substitution2: "Dotless Variants-1" dotlessj
 Colour: ffff
@@ -37727,11 +37727,11 @@ VStem: -97 59<-220.614 -144> 122 262 218 62<290.508 421.481>
 DStem2: 54.125 -248 118.118 -248 0.262189 0.965017<101.215 659.308>
 LayerCount: 3
 Fore
-Refer: 1517 63166 N 1 0 0 1 0 0 2
+Refer: 1517 567 N 1 0 0 1 0 0 2
 Refer: 416 770 N 1 0 0 1 472 0 2
 Layer: 2
 Refer: 416 770 N 1 0 0 1 472 0 2
-Refer: 1517 63166 N 1 0 0 1 0 0 2
+Refer: 1517 567 N 1 0 0 1 0 0 2
 Colour: ffff
 EndChar
 
@@ -47419,9 +47419,9 @@ LayerCount: 3
 Fore
 Refer: 44 76 N 1 0 0 1 0 0 2
 Refer: 421 775 N 1 0 0 1 1168 42 2
-Refer: 1517 63166 N 1 0 0 1 680 0 2
+Refer: 1517 567 N 1 0 0 1 680 0 2
 Layer: 2
-Refer: 1517 63166 N 1 0 0 1 680 0 2
+Refer: 1517 567 N 1 0 0 1 680 0 2
 Refer: 421 775 N 1 0 0 1 1168 42 2
 Refer: 44 76 N 1 0 0 1 0 0 2
 Colour: ffff
@@ -47892,9 +47892,9 @@ LayerCount: 3
 Fore
 Refer: 46 78 N 1 0 0 1 0 0 2
 Refer: 421 775 N 1 0 0 1 1278 42 2
-Refer: 1517 63166 N 1 0 0 1 790 0 2
+Refer: 1517 567 N 1 0 0 1 790 0 2
 Layer: 2
-Refer: 1517 63166 N 1 0 0 1 790 0 2
+Refer: 1517 567 N 1 0 0 1 790 0 2
 Refer: 421 775 N 1 0 0 1 1278 42 2
 Refer: 46 78 N 1 0 0 1 0 0 2
 Colour: ffff
@@ -49086,11 +49086,11 @@ VStem: -97 59<-220.614 -144> 158 264 218 62<290.508 421.481>
 DStem2: 54.125 -248 118.118 -248 0.262189 0.965017<101.215 659.308>
 LayerCount: 3
 Fore
-Refer: 1517 63166 N 1 0 0 1 0 0 2
+Refer: 1517 567 N 1 0 0 1 0 0 2
 Refer: 425 780 N 1 0 0 1 472 8 2
 Layer: 2
 Refer: 425 780 N 1 0 0 1 472 8 2
-Refer: 1517 63166 N 1 0 0 1 0 0 2
+Refer: 1517 567 N 1 0 0 1 0 0 2
 Colour: ffff
 EndChar
 
@@ -76231,11 +76231,11 @@ VStem: -97 59<-220.614 -144> 218 62<290.508 421.481> 240 104<595.236 680.764>
 DStem2: 54.125 -248 118.118 -248 0.262189 0.965017<101.215 659.308>
 LayerCount: 3
 Fore
-Refer: 1517 63166 N 1 0 0 1 0 0 2
+Refer: 1517 567 N 1 0 0 1 0 0 2
 Refer: 421 775 N 1 0 0 1 488 42 2
 Layer: 2
 Refer: 421 775 N 1 0 0 1 488 42 2
-Refer: 1517 63166 N 1 0 0 1 0 0 2
+Refer: 1517 567 N 1 0 0 1 0 0 2
 Colour: ffff
 EndChar
 
@@ -93907,9 +93907,9 @@ DStem2: 54.125 -248 118.118 -248 0.262189 0.965017<101.215 659.308>
 LayerCount: 3
 Fore
 Refer: 421 775 N 1 0 0 1 488 42 2
-Refer: 1517 63166 N 1 0 0 1 0 0 2
+Refer: 1517 567 N 1 0 0 1 0 0 2
 Layer: 2
-Refer: 1517 63166 N 1 0 0 1 0 0 2
+Refer: 1517 567 N 1 0 0 1 0 0 2
 Refer: 421 775 N 1 0 0 1 488 42 2
 Colour: ffff
 EndChar
@@ -182551,8 +182551,8 @@ Colour: ffff
 EndChar
 
 StartChar: dotlessj
-Encoding: 63166 63166 1517
-AltUni2: 000237.ffffffff.0
+Encoding: 567 567 1517
+AltUni2: 00f6be.ffffffff.0
 Width: 326
 Flags: W
 TeX: 78 0

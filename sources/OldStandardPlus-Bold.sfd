@@ -16245,11 +16245,11 @@ HStem: -238 24<42.0416 96.9636> 450 24<48 119.805> 576 148<125.25 230.75>
 VStem: -52 88<-190.645 -103> 104 148<597.25 702.75> 120 116<-144.857 449.997>
 LayerCount: 3
 Fore
-Refer: 1516 63166 N 1 0 0 1 0 0 2
+Refer: 1516 567 N 1 0 0 1 0 0 2
 Refer: 420 775 N 1 0 0 1 440 32 2
 Layer: 2
 Refer: 420 775 N 1 0 0 1 440 32 2
-Refer: 1516 63166 N 1 0 0 1 0 0 2
+Refer: 1516 567 N 1 0 0 1 0 0 2
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" dotlessj
 Substitution2: "Dotless Variants-1" dotlessj
 Colour: ffff
@@ -33244,9 +33244,9 @@ Fore
 Refer: 420 775 N 1 0 0 1 410 32 2
 Refer: 239 305 N 1 0 0 1 0 0 2
 Refer: 420 775 N 1 0 0 1 736 32 2
-Refer: 1516 63166 N 1 0 0 1 296 0 2
+Refer: 1516 567 N 1 0 0 1 296 0 2
 Layer: 2
-Refer: 1516 63166 N 1 0 0 1 296 0 2
+Refer: 1516 567 N 1 0 0 1 296 0 2
 Refer: 420 775 N 1 0 0 1 736 32 2
 Refer: 239 305 N 1 0 0 1 0 0 2
 Refer: 420 775 N 1 0 0 1 410 32 2
@@ -33283,11 +33283,11 @@ HStem: -238 24<42.0416 96.9636> 450 24<48 119.805> 524 184
 VStem: -52 88<-190.645 -103> 14 300 120 116<-144.857 449.997>
 LayerCount: 3
 Fore
-Refer: 1516 63166 N 1 0 0 1 0 0 2
+Refer: 1516 567 N 1 0 0 1 0 0 2
 Refer: 415 770 N 1 0 0 1 426 0 2
 Layer: 2
 Refer: 415 770 N 1 0 0 1 426 0 2
-Refer: 1516 63166 N 1 0 0 1 0 0 2
+Refer: 1516 567 N 1 0 0 1 0 0 2
 Colour: ffff
 EndChar
 
@@ -41810,9 +41810,9 @@ LayerCount: 3
 Fore
 Refer: 44 76 N 1 0 0 1 0 0 2
 Refer: 420 775 N 1 0 0 1 1110 32 2
-Refer: 1516 63166 N 1 0 0 1 670 0 2
+Refer: 1516 567 N 1 0 0 1 670 0 2
 Layer: 2
-Refer: 1516 63166 N 1 0 0 1 670 0 2
+Refer: 1516 567 N 1 0 0 1 670 0 2
 Refer: 420 775 N 1 0 0 1 1110 32 2
 Refer: 44 76 N 1 0 0 1 0 0 2
 Colour: ffff
@@ -41828,9 +41828,9 @@ LayerCount: 3
 Fore
 Refer: 76 108 N 1 0 0 1 0 0 2
 Refer: 420 775 N 1 0 0 1 748 32 2
-Refer: 1516 63166 N 1 0 0 1 308 0 2
+Refer: 1516 567 N 1 0 0 1 308 0 2
 Layer: 2
-Refer: 1516 63166 N 1 0 0 1 308 0 2
+Refer: 1516 567 N 1 0 0 1 308 0 2
 Refer: 420 775 N 1 0 0 1 748 32 2
 Refer: 76 108 N 1 0 0 1 0 0 2
 Colour: ffff
@@ -41864,9 +41864,9 @@ LayerCount: 3
 Fore
 Refer: 46 78 N 1 0 0 1 0 0 2
 Refer: 420 775 N 1 0 0 1 1204 32 2
-Refer: 1516 63166 N 1 0 0 1 764 0 2
+Refer: 1516 567 N 1 0 0 1 764 0 2
 Layer: 2
-Refer: 1516 63166 N 1 0 0 1 764 0 2
+Refer: 1516 567 N 1 0 0 1 764 0 2
 Refer: 420 775 N 1 0 0 1 1204 32 2
 Refer: 46 78 N 1 0 0 1 0 0 2
 Colour: ffff
@@ -41882,9 +41882,9 @@ LayerCount: 3
 Fore
 Refer: 78 110 N 1 0 0 1 0 0 2
 Refer: 420 775 N 1 0 0 1 996 32 2
-Refer: 1516 63166 N 1 0 0 1 556 0 2
+Refer: 1516 567 N 1 0 0 1 556 0 2
 Layer: 2
-Refer: 1516 63166 N 1 0 0 1 556 0 2
+Refer: 1516 567 N 1 0 0 1 556 0 2
 Refer: 420 775 N 1 0 0 1 996 32 2
 Refer: 78 110 N 1 0 0 1 0 0 2
 Colour: ffff
@@ -42374,11 +42374,11 @@ HStem: -238 24<42.0416 96.9636> 450 24<48 119.805> 524 170
 VStem: -52 88<-190.645 -103> 18 292 120 116<-144.857 449.997>
 LayerCount: 3
 Fore
-Refer: 1516 63166 N 1 0 0 1 0 0 2
+Refer: 1516 567 N 1 0 0 1 0 0 2
 Refer: 424 780 N 1 0 0 1 426 0 2
 Layer: 2
 Refer: 424 780 N 1 0 0 1 426 0 2
-Refer: 1516 63166 N 1 0 0 1 0 0 2
+Refer: 1516 567 N 1 0 0 1 0 0 2
 Colour: ffff
 EndChar
 
@@ -66656,11 +66656,11 @@ HStem: -238 24<42.0416 96.9636> 450 24<48 119.805> 544 148<123.25 228.75>
 VStem: -52 88<-190.645 -103> 102 148<565.25 670.75> 120 116<-144.857 449.997>
 LayerCount: 3
 Fore
-Refer: 1516 63166 N 1 0 0 1 0 0 2
+Refer: 1516 567 N 1 0 0 1 0 0 2
 Refer: 420 775 N 1 0 0 1 438 0 2
 Layer: 2
 Refer: 420 775 N 1 0 0 1 438 0 2
-Refer: 1516 63166 N 1 0 0 1 0 0 2
+Refer: 1516 567 N 1 0 0 1 0 0 2
 Colour: ffff
 EndChar
 
@@ -82440,9 +82440,9 @@ VStem: -52 88<-190.645 -103> 104 148<597.25 702.75> 120 116<-144.857 449.997>
 LayerCount: 3
 Fore
 Refer: 420 775 N 1 0 0 1 440 32 2
-Refer: 1516 63166 N 1 0 0 1 0 0 2
+Refer: 1516 567 N 1 0 0 1 0 0 2
 Layer: 2
-Refer: 1516 63166 N 1 0 0 1 0 0 2
+Refer: 1516 567 N 1 0 0 1 0 0 2
 Refer: 420 775 N 1 0 0 1 440 32 2
 Colour: ffff
 EndChar
@@ -163933,8 +163933,8 @@ Colour: ffff
 EndChar
 
 StartChar: dotlessj
-Encoding: 63166 63166 1516
-AltUni2: 000237.ffffffff.0
+Encoding: 567 567 1516
+AltUni2: 00f6be.ffffffff.0
 Width: 320
 Flags: W
 TeX: 78 0
