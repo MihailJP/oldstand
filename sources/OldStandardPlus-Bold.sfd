@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1300650174
-ModificationTime: 1795852883
+ModificationTime: 1795856510
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -924,8 +924,8 @@ ContextSub2: class "'ccmp' Capital and Composite Accents-1" 7 1 1 9
   Class: 173 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AE Ccedilla Eth Oslash Thorn Aogonek Eogonek Hbar Iogonek OE Tbar Uogonek uni018F uni0190 uni01B7 Oogonek uni0224 uni0228
   Class: 236 a b c d e f g h i j k l m n o p q r s t u v w x y z ae ccedilla eth oslash thorn aogonek eogonek hbar kgreenlandic lslash eng oe tbar uogonek longs uni01BF uni01DD oogonek uni0225 uni0229 dotlessj uni0254 uni0259 uni025B uni0280 uni0292
   Class: 8 dotlessi
-  Class: 1055 afii10051 afii10053 afii10054 afii10055 afii10057 afii10058 afii10059 afii10060 afii10145 afii10017 afii10018 afii10019 afii10020 afii10021 afii10022 afii10024 afii10025 afii10026 afii10028 afii10029 afii10030 afii10031 afii10032 afii10033 afii10034 afii10035 afii10036 afii10037 afii10038 afii10039 afii10040 afii10041 afii10042 afii10043 afii10044 afii10045 afii10046 afii10047 afii10048 afii10049 uni0460 afii10146 uni0464 uni0466 uni0468 uni046A uni046C uni0470 afii10147 afii10148 uni047A uni048C uni048E afii10050 uni0492 uni0494 uni0496 uni0498 uni049A uni049C uni049E uni04A0 uni04A2 uni04A4 uni04A6 uni04A8 uni04AA uni04AC uni04AE uni04B0 uni04B2 uni04B4 uni04B6 uni04B8 uni04BA uni04BC uni04BE uni04C0 uni04C3 uni04C5 uni04C7 uni04C9 uni04CB uni04CD uni04D4 uni04D8 uni04E0 uni04E8 uni04F6 uni04FA uni04FC uni04FE uni0510 uni0512 uni051A uni051C uni0520 uni0522 uni0524 uni0526 uni052E uni1C89 uniA646 uniA64A uniA64C uniA650 uniA652 uniA654 uniA656 uniA658 uniA65A uniA65C afii10053.csl afii10017.csl afii10022.csl afii10026.ss15 afii10031.ss15
-  Class: 1109 afii10065 afii10066 afii10067 afii10068 afii10069 afii10070 afii10072 afii10073 afii10074 afii10076 afii10077 afii10078 afii10079 afii10080 afii10081 afii10082 afii10083 afii10084 afii10085 afii10086 afii10087 afii10088 afii10089 afii10090 afii10091 afii10092 afii10093 afii10094 afii10095 afii10096 afii10097 afii10099 afii10101 afii10102 afii10106 afii10107 afii10108 afii10193 uni0461 afii10194 uni0465 uni0467 uni0469 uni046B uni046D uni0471 afii10195 afii10196 uni0479 uni047B uni048D uni048F afii10098 uni0493 uni0495 uni0497 uni0499 uni049B uni049D uni049F uni04A1 uni04A3 uni04A5 uni04A7 uni04A9 uni04AB uni04AD uni04AF uni04B1 uni04B3 uni04B5 uni04B7 uni04B9 uni04BB uni04BD uni04BF uni04C4 uni04C6 uni04C8 uni04CA uni04CC uni04CE uni04CF uni04D5 afii10846 uni04E1 uni04E9 uni04F7 uni04FB uni04FD uni04FF uni0511 uni0513 uni051B uni051D uni0521 uni0523 uni0525 uni0527 uni052F uni1C8A uniA64B uniA64D uniA64F uniA651 uniA653 uniA655 uniA657 uniA659 uniA65B uniA65D uniA669 uniA66B uniA66D afii10065.csl afii10070.csl afii10101.csl afii10066.low afii10194.low uniA64B.low afii10074.ss15 afii10079.ss15
+  Class: 1063 afii10051 afii10053 afii10054 afii10055 afii10057 afii10058 afii10059 afii10060 afii10145 afii10017 afii10018 afii10019 afii10020 afii10021 afii10022 afii10024 afii10025 afii10026 afii10028 afii10029 afii10030 afii10031 afii10032 afii10033 afii10034 afii10035 afii10036 afii10037 afii10038 afii10039 afii10040 afii10041 afii10042 afii10043 afii10044 afii10045 afii10046 afii10047 afii10048 afii10049 uni0460 afii10146 uni0464 uni0466 uni0468 uni046A uni046C uni0470 afii10147 afii10148 uni047A uni048C uni048E afii10050 uni0492 uni0494 uni0496 uni0498 uni049A uni049C uni049E uni04A0 uni04A2 uni04A4 uni04A6 uni04A8 uni04AA uni04AC uni04AE uni04B0 uni04B2 uni04B4 uni04B6 uni04B8 uni04BA uni04BC uni04BE uni04C0 uni04C3 uni04C5 uni04C7 uni04C9 uni04CB uni04CD uni04D4 uni04D8 uni04E0 uni04E8 uni04F6 uni04FA uni04FC uni04FE uni0510 uni0512 uni051A uni051C uni0520 uni0522 uni0524 uni0526 uni0528 uni052E uni1C89 uniA646 uniA64A uniA64C uniA650 uniA652 uniA654 uniA656 uniA658 uniA65A uniA65C afii10053.csl afii10017.csl afii10022.csl afii10026.ss15 afii10031.ss15
+  Class: 1117 afii10065 afii10066 afii10067 afii10068 afii10069 afii10070 afii10072 afii10073 afii10074 afii10076 afii10077 afii10078 afii10079 afii10080 afii10081 afii10082 afii10083 afii10084 afii10085 afii10086 afii10087 afii10088 afii10089 afii10090 afii10091 afii10092 afii10093 afii10094 afii10095 afii10096 afii10097 afii10099 afii10101 afii10102 afii10106 afii10107 afii10108 afii10193 uni0461 afii10194 uni0465 uni0467 uni0469 uni046B uni046D uni0471 afii10195 afii10196 uni0479 uni047B uni048D uni048F afii10098 uni0493 uni0495 uni0497 uni0499 uni049B uni049D uni049F uni04A1 uni04A3 uni04A5 uni04A7 uni04A9 uni04AB uni04AD uni04AF uni04B1 uni04B3 uni04B5 uni04B7 uni04B9 uni04BB uni04BD uni04BF uni04C4 uni04C6 uni04C8 uni04CA uni04CC uni04CE uni04CF uni04D5 afii10846 uni04E1 uni04E9 uni04F7 uni04FB uni04FD uni04FF uni0511 uni0513 uni051B uni051D uni0521 uni0523 uni0525 uni0527 uni0529 uni052F uni1C8A uniA64B uniA64D uniA64F uniA651 uniA653 uniA655 uniA657 uniA659 uniA65B uniA65D uniA669 uniA66B uniA66D afii10065.csl afii10070.csl afii10101.csl afii10066.low afii10194.low uniA64B.low afii10074.ss15 afii10079.ss15
   Class: 134 gravecomb acutecomb circumflexcmb tildecomb macroncmb brevecmb uni0307 uni0308 uni030A uni030B uni030C uni030F uni0311 uni0327 uni0328
  3 0 0
   ClsList: 1 6 6
@@ -2004,7 +2004,7 @@ Grid
  340 -46 l 1049
 EndSplineSet
 AnchorClass2: "Dotaccent" "'mark' Positioning for Dotaccent" "Enclosing" "'mark' Positioning for Enclosing Figures" "Top" "'mark' Positioning for Top Accents" "Bottom" "'mark' Positioning for Bottom Accents" "GreekTop" "'mark' Positioning for Greek Accents" "GreekTopSunken" "'mark' Lower Positioning for Greek Accents" "GreekCap" "'mark' Positioning for Greek Capital Accents" "TopMark" "'mkmk' Standard Mark to Mark Positioning" "GreekTopMark" "'mkmk' Greek Mark to Mark Positioning" "GreekTopMarkSunken" "'mkmk' Greek Lower Mark to Mark Positioning"
-BeginChars: 65684 1945
+BeginChars: 65684 1947
 
 StartChar: space
 Encoding: 32 32 0
@@ -219075,6 +219075,554 @@ SplineSet
  228 24 l 1,61,-1
  228 0 l 1,62,-1
  24 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni0528
+Encoding: 1320 1320 1945
+Width: 824
+VWidth: 1039
+Flags: W
+HStem: -238 44<49.387 133.522> 0 32<446 539.438 688.562 782> 356 36<304 540> 680 32<62 155.438 304.562 398 444 539.438 688.562 782>
+VStem: -58 96<-183.156 -102.161> 156 148<-162.657 356 392 679.96> 540 148<32.0402 356 392 679.96>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 49
+ 3
+ 0
+CALL
+PUSHB_2
+ 50
+ 6
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 46
+SHP[rp2]
+PUSHB_3
+ 3
+ 1
+ 0
+CALL
+PUSHB_2
+ 13
+ 10
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 13
+ 3
+ 10
+CALL
+PUSHB_4
+ 0
+ 13
+ 9
+ 9
+CALL
+PUSHB_3
+ 22
+ 5
+ 0
+CALL
+PUSHB_1
+ 36
+SHP[rp1]
+PUSHB_2
+ 21
+ 6
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 24
+ 34
+ 38
+SHP[rp2]
+SHP[rp2]
+SHP[rp2]
+PUSHB_5
+ 29
+ 56
+ 49
+ 22
+ 13
+CALL
+PUSHB_2
+ 29
+ 9
+MIRP[rp0,min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 57
+MDAP[rnd]
+PUSHB_1
+ 6
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 11
+ 14
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 11
+SRP0
+PUSHB_2
+ 16
+ 1
+CALL
+PUSHB_2
+ 0
+ 19
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 28
+SHP[rp2]
+PUSHB_3
+ 0
+ 16
+ 10
+CALL
+PUSHB_4
+ 64
+ 0
+ 24
+ 9
+CALL
+PUSHB_3
+ 16
+ 0
+ 10
+CALL
+PUSHB_4
+ 64
+ 16
+ 21
+ 9
+CALL
+PUSHB_1
+ 0
+SRP0
+PUSHB_2
+ 54
+ 1
+CALL
+PUSHB_1
+ 30
+SHP[rp2]
+PUSHB_2
+ 43
+ 19
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 43
+ 54
+ 10
+CALL
+PUSHB_4
+ 64
+ 43
+ 48
+ 9
+CALL
+PUSHB_1
+ 37
+SHP[rp2]
+PUSHB_3
+ 54
+ 43
+ 10
+CALL
+PUSHB_4
+ 64
+ 54
+ 49
+ 9
+CALL
+PUSHB_1
+ 35
+SHP[rp2]
+PUSHB_2
+ 58
+ 1
+CALL
+PUSHB_2
+ 16
+ 11
+SRP1
+SRP2
+PUSHB_1
+ 3
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Top" 421 762 basechar 0
+AnchorPoint: "Dotaccent" 421 782 basechar 0
+AnchorPoint: "Bottom" 421 0 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+304 -102 m 2
+ 304 -181 217 -238 58 -238 c 0
+ -2 -238 -58 -201 -58 -145 c 0
+ -58 -116 -37 -94 -12 -94 c 0
+ 18 -94 33 -113 38 -142 c 0
+ 44 -174 61 -194 85 -194 c 0
+ 123 -194 156 -165 156 -100 c 2
+ 156 656 l 2
+ 156 674 150 680 132 680 c 2
+ 62 680 l 1
+ 62 712 l 1
+ 398 712 l 1
+ 398 680 l 1
+ 328 680 l 2
+ 310 680 304 674 304 656 c 2
+ 304 392 l 1
+ 540 392 l 1
+ 540 656 l 2
+ 540 674 534 680 516 680 c 2
+ 444 680 l 1
+ 444 712 l 1
+ 782 712 l 1
+ 782 680 l 1
+ 712 680 l 2
+ 694 680 688 674 688 656 c 2
+ 688 56 l 2
+ 688 38 694 32 712 32 c 2
+ 782 32 l 1
+ 782 0 l 1
+ 446 0 l 1
+ 446 32 l 1
+ 516 32 l 2
+ 534 32 540 38 540 56 c 2
+ 540 356 l 1
+ 304 356 l 1
+ 304 -102 l 2
+EndSplineSet
+Layer: 2
+SplineSet
+304 -102 m 2,0,1
+ 304 -163 304 -163 239 -200.5 c 128,-1,2
+ 174 -238 174 -238 58 -238 c 0,3,4
+ 11 -238 11 -238 -23.5 -212 c 128,-1,5
+ -58 -186 -58 -186 -58 -145 c 0,6,7
+ -58 -123 -58 -123 -44.5 -108.5 c 128,-1,8
+ -31 -94 -31 -94 -12 -94 c 0,9,10
+ 30 -94 30 -94 38 -142 c 0,11,12
+ 48 -194 48 -194 85 -194 c 0,13,14
+ 116 -194 116 -194 136 -170 c 128,-1,15
+ 156 -146 156 -146 156 -100 c 2,16,-1
+ 156 656 l 2,17,18
+ 156 670 156 670 151 675 c 128,-1,19
+ 146 680 146 680 132 680 c 2,20,-1
+ 62 680 l 1,21,-1
+ 62 712 l 1,22,-1
+ 398 712 l 1,23,-1
+ 398 680 l 1,24,-1
+ 328 680 l 2,25,26
+ 314 680 314 680 309 675 c 128,-1,27
+ 304 670 304 670 304 656 c 2,28,-1
+ 304 392 l 1,29,-1
+ 540 392 l 1,30,-1
+ 540 656 l 2,31,32
+ 540 670 540 670 535 675 c 128,-1,33
+ 530 680 530 680 516 680 c 2,34,-1
+ 444 680 l 1,35,-1
+ 444 712 l 1,36,-1
+ 782 712 l 1,37,-1
+ 782 680 l 1,38,-1
+ 712 680 l 2,39,40
+ 698 680 698 680 693 675 c 128,-1,41
+ 688 670 688 670 688 656 c 2,42,-1
+ 688 56 l 2,43,44
+ 688 42 688 42 693 37 c 128,-1,45
+ 698 32 698 32 712 32 c 2,46,-1
+ 782 32 l 1,47,-1
+ 782 0 l 1,48,-1
+ 446 0 l 1,49,-1
+ 446 32 l 1,50,-1
+ 516 32 l 2,51,52
+ 530 32 530 32 535 37 c 128,-1,53
+ 540 42 540 42 540 56 c 2,54,-1
+ 540 356 l 1,55,-1
+ 304 356 l 1,56,-1
+ 304 -102 l 2,0,1
+EndSplineSet
+EndChar
+
+StartChar: uni0529
+Encoding: 1321 1321 1946
+Width: 566
+Flags: W
+HStem: -238 24<16.0416 70.9636> 0 24<308 355.805 472.195 526> 234 28<210 356> 450 24<40 93.8047 210.195 258 308 355.805 472.195 526>
+VStem: -78 88<-190.645 -103> 94 116<-144.857 234 262 450> 356 116<24 234 262 450>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 28
+ 3
+ 0
+CALL
+PUSHB_2
+ 29
+ 7
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 25
+SHP[rp2]
+PUSHB_3
+ 38
+ 1
+ 0
+CALL
+PUSHB_2
+ 53
+ 7
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 53
+ 38
+ 10
+CALL
+PUSHB_4
+ 0
+ 53
+ 44
+ 9
+CALL
+PUSHB_3
+ 5
+ 4
+ 0
+CALL
+PUSHB_1
+ 17
+SHP[rp1]
+PUSHB_2
+ 4
+ 7
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 7
+ 15
+ 19
+SHP[rp2]
+SHP[rp2]
+SHP[rp2]
+PUSHB_5
+ 11
+ 34
+ 28
+ 5
+ 13
+CALL
+PUSHB_2
+ 11
+ 8
+MIRP[rp0,min,rnd,black]
+SVTCA[x-axis]
+PUSHB_1
+ 55
+MDAP[rnd]
+PUSHB_1
+ 41
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 51
+ 14
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 51
+ 41
+ 10
+CALL
+PUSHB_4
+ 0
+ 51
+ 47
+ 9
+CALL
+PUSHB_1
+ 51
+SRP0
+PUSHB_2
+ 0
+ 1
+CALL
+PUSHB_2
+ 35
+ 11
+MIRP[rp0,min,rnd,black]
+PUSHB_1
+ 10
+SHP[rp2]
+PUSHB_3
+ 35
+ 0
+ 10
+CALL
+PUSHB_4
+ 64
+ 35
+ 7
+ 9
+CALL
+PUSHB_3
+ 0
+ 35
+ 10
+CALL
+PUSHB_4
+ 64
+ 0
+ 4
+ 9
+CALL
+PUSHB_1
+ 35
+SRP0
+PUSHB_2
+ 32
+ 1
+CALL
+PUSHB_1
+ 12
+SHP[rp2]
+PUSHB_2
+ 23
+ 11
+MIRP[rp0,min,rnd,black]
+PUSHB_3
+ 23
+ 32
+ 10
+CALL
+PUSHB_4
+ 64
+ 23
+ 27
+ 9
+CALL
+PUSHB_1
+ 18
+SHP[rp2]
+PUSHB_3
+ 32
+ 23
+ 10
+CALL
+PUSHB_4
+ 64
+ 32
+ 28
+ 9
+CALL
+PUSHB_1
+ 16
+SHP[rp2]
+PUSHB_2
+ 56
+ 1
+CALL
+PUSHB_2
+ 0
+ 51
+SRP1
+SRP2
+PUSHB_1
+ 38
+IP
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Top" 283 508 basechar 0
+AnchorPoint: "Dotaccent" 283 528 basechar 0
+AnchorPoint: "Bottom" 283 0 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+94 -82 m 2
+ 94 434 l 2
+ 94 445.999780497 90 450 78 450 c 2
+ 40 450 l 1
+ 40 474 l 1
+ 258 474 l 1
+ 258 450 l 1
+ 226 450 l 2
+ 214 450 210 446 210 434 c 2
+ 210 262 l 1
+ 356 262 l 1
+ 356 434 l 2
+ 356 446 352 450 340 450 c 2
+ 308 450 l 1
+ 308 474 l 1
+ 526 474 l 1
+ 526 450 l 1
+ 488 450 l 2
+ 476 450 472 446 472 434 c 2
+ 472 40 l 2
+ 472 28 476 24 488 24 c 2
+ 526 24 l 1
+ 526 0 l 1
+ 308 0 l 1
+ 308 24 l 1
+ 340 24 l 2
+ 352 24 356 28 356 40 c 2
+ 356 234 l 1
+ 210 234 l 1
+ 210 -40 l 2
+ 210 -173 133 -238 51 -238 c 0
+ -24 -238 -78 -192 -78 -126 c 0
+ -78 -80 -42 -47 -4 -47 c 0
+ 24 -47 55 -64 55 -100 c 0
+ 55 -128 37 -147 27 -156 c 0
+ 16 -166 10 -176 10 -188 c 0
+ 10 -209 32 -214 47 -214 c 0
+ 74 -214 94 -189 94 -82 c 2
+EndSplineSet
+Layer: 2
+SplineSet
+94 -82 m 2,0,-1
+ 94 434 l 2,1,2
+ 94 450 94 450 78 450 c 2,3,-1
+ 40 450 l 1,4,-1
+ 40 474 l 1,5,-1
+ 258 474 l 1,6,-1
+ 258 450 l 1,7,-1
+ 226 450 l 2,8,9
+ 210 450 210 450 210 434 c 2,10,-1
+ 210 262 l 1,11,-1
+ 356 262 l 1,12,-1
+ 356 434 l 2,13,14
+ 356 450 356 450 340 450 c 2,15,-1
+ 308 450 l 1,16,-1
+ 308 474 l 1,17,-1
+ 526 474 l 1,18,-1
+ 526 450 l 1,19,-1
+ 488 450 l 2,20,21
+ 472 450 472 450 472 434 c 2,22,-1
+ 472 40 l 2,23,24
+ 472 24 472 24 488 24 c 2,25,-1
+ 526 24 l 1,26,-1
+ 526 0 l 1,27,-1
+ 308 0 l 1,28,-1
+ 308 24 l 1,29,-1
+ 340 24 l 2,30,31
+ 356 24 356 24 356 40 c 2,32,-1
+ 356 234 l 1,33,-1
+ 210 234 l 1,34,-1
+ 210 -40 l 2,35,36
+ 210 -135 210 -135 163.5 -186.5 c 128,-1,37
+ 117 -238 117 -238 51 -238 c 0,38,39
+ -5 -238 -5 -238 -41.5 -206.5 c 128,-1,40
+ -78 -175 -78 -175 -78 -126 c 0,41,42
+ -78 -92 -78 -92 -55.5 -69.5 c 128,-1,43
+ -33 -47 -33 -47 -4 -47 c 0,44,45
+ 19 -47 19 -47 37 -61 c 128,-1,46
+ 55 -75 55 -75 55 -100 c 0,47,48
+ 55 -131 55 -131 27 -156 c 0,49,50
+ 10 -171 10 -171 10 -188 c 0,51,52
+ 10 -214 10 -214 47 -214 c 0,53,54
+ 94 -214 94 -214 94 -82 c 2,0,-1
 EndSplineSet
 EndChar
 EndChars
